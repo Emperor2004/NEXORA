@@ -1,0 +1,826 @@
+{
+  "created_at": "2026-11-01T00:08:34.106589+05:30",
+  "input_file": "D:\\Projects\\NEXORA\\data\\discovery_runs\\search_20261031_183533.json",
+  "documents_processed": 9,
+  "documents_fetched": 5,
+  "documents_with_text": 5,
+  "records": [
+    {
+      "search_result": {
+        "title": "DYSL-AI, Bengaluru invites applications for Paid Internship (6 Months)",
+        "url": "https://drdo.gov.in/drdo/en/offerings/vacancies/dysl-ai-bengaluru-invites-applications-paid-internship-6-months",
+        "snippet": "HIDE IMAGES TEXT SPACING LINE HEIGHT Government of India Defence Research and Development Organisation Search Home Organisation Offerings Documents Resources Connect",
+        "domain": "drdo.gov.in",
+        "source_type": "government_domain",
+        "official_domain": true,
+        "source_priority": 1,
+        "matched_queries": [
+          "paid AI research internship India January 2027 4 to 6 months site:gov.in"
+        ],
+        "collected_at": "2026-10-31T18:35:27.804489+00:00",
+        "evidence_status": "unverified_search_result"
+      },
+      "document": {
+        "requested_url": "https://drdo.gov.in/drdo/en/offerings/vacancies/dysl-ai-bengaluru-invites-applications-paid-internship-6-months",
+        "final_url": "https://drdo.gov.in/drdo/en/offerings/vacancies/dysl-ai-bengaluru-invites-applications-paid-internship-6-months",
+        "fetch_status": "fetch_error",
+        "document_type": null,
+        "content_type": null,
+        "http_status": null,
+        "extraction_status": "not_attempted",
+        "extracted_text": "",
+        "evidence": [],
+        "error": "ConnectTimeout: timed out"
+      }
+    },
+    {
+      "search_result": {
+        "title": "Home | IndiaAI Fellowship",
+        "url": "https://fellowship.indiaai.gov.in/login",
+        "snippet": "The fellowship program focuses on fostering AI education, research, and practical application, bridging the gap between theoretical knowledge and real-world implementation. By offering these fellowships, the IndiaAI Mission strives to nurture a future-ready AI workforce, driving India's global leadership in this transformative technology.",
+        "domain": "fellowship.indiaai.gov.in",
+        "source_type": "government_domain",
+        "official_domain": true,
+        "source_priority": 1,
+        "matched_queries": [
+          "paid AI research internship India January 2027 4 to 6 months site:gov.in"
+        ],
+        "collected_at": "2026-10-31T18:35:27.804489+00:00",
+        "evidence_status": "unverified_search_result"
+      },
+      "document": {
+        "requested_url": "https://fellowship.indiaai.gov.in/login",
+        "final_url": "https://fellowship.indiaai.gov.in/login",
+        "fetch_status": "fetch_error",
+        "document_type": null,
+        "content_type": null,
+        "http_status": null,
+        "extraction_status": "not_attempted",
+        "extracted_text": "",
+        "evidence": [],
+        "error": "ConnectError: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1082)"
+      }
+    },
+    {
+      "search_result": {
+        "title": "Internships - India Science, Technology & Innovation - ISTI Portal",
+        "url": "https://indiascienceandtechnology.gov.in/listingpage/internships",
+        "snippet": "ISTI Portal is a central repository of content generated in and by the Indian STI ecosystem with a major thrust to reach out to students, researchers, scholars, scientists from India and abroad, as to help them choose fellowships, scholarships, funding, and startup opportunities in India.",
+        "domain": "indiascienceandtechnology.gov.in",
+        "source_type": "government_domain",
+        "official_domain": true,
+        "source_priority": 1,
+        "matched_queries": [
+          "paid AI research internship India January 2027 4 to 6 months site:gov.in"
+        ],
+        "collected_at": "2026-10-31T18:35:27.804489+00:00",
+        "evidence_status": "unverified_search_result"
+      },
+      "document": {
+        "requested_url": "https://indiascienceandtechnology.gov.in/listingpage/internships",
+        "final_url": "https://www.indiascienceandtechnology.gov.in/listingpage/internships",
+        "fetch_status": "fetched",
+        "document_type": "html",
+        "content_type": "text/html",
+        "http_status": 200,
+        "extraction_status": "extracted",
+        "extracted_text": "Conferences & Seminars Menu\nConferences & Seminars Science Camps & Festivals National Lectures Regular Events Workshops & Training Programmes Internships\n\nInternships View\nTitle Institution(s) Eligibility Area Duration NCGSA Summer Internship Program 2026 National Center of GIS and Space Applications (... Must be a regular student currently enrolled in a recognized university or college program with a strong foundational alignment or interest in space... Astronomy & Space Sciences 6 to 8 Weeks (July to August 2026) NeGD Technical Internship Programme 2026 National e-Governance Division (NeGD), Ministry... B.E. / B.Tech / M.E. / M.Tech / MCA / M.Sc. in Computer Science, Information Technology, or related technical disciplines. AI & Data Science infrastructure 6 Months (Mandatory Tenure) Techfest College Ambassador Program 2026 Indian Institute of Technology (IIT) Bombay,... Must be a regular student enrolled in a recognized higher education institution who possesses strong communication skills, leadership potential, and... Science, Technology Varies (Typically spans 3 to 6 months leading up to the main annual festival... CSIR-NIScPR Internship Programme 2026 CSIR-National Institute of Science Communication... Must be a regular student pursuing an Undergraduate (UG), Postgraduate (PG), or Doctoral (Ph.D.) degree in a relevant discipline from a recognized... Multidisciplinary Not Specified in Short Announcement (Typically ranges from 1 to 3 months... NITI Aayog Internship Scheme NITI Aayog (National Institution for Transforming... For Undergraduates: Must have completed or appeared in the 4th semester (2nd year) exams and secured minimum 85% marks in Class 12. For Postgraduates... Agricultural Engineering, Multidisciplinary 6 Weeks (Minimum) to 6 Months (Maximum)\n\nPages\n1 2 3 4 5 6 7 8 9 next › last »",
+        "evidence": [
+          {
+            "source_location": "Conferences & Seminars Menu",
+            "text": "Conferences & Seminars Science Camps & Festivals National Lectures Regular Events Workshops & Training Programmes Internships"
+          },
+          {
+            "source_location": "Internships View",
+            "text": "Title Institution(s) Eligibility Area Duration NCGSA Summer Internship Program 2026 National Center of GIS and Space Applications (... Must be a regular student currently enrolled in a recognized university or college program with a strong foundational alignment or interest in space... Astronomy & Space Sciences 6 to 8 Weeks (July to August 2026) NeGD Technical Internship Programme 2026 National e-Governance Division (NeGD), Ministry... B.E. / B.Tech / M.E. / M.Tech / MCA / M.Sc. in Computer Science, Information Technology, or related technical disciplines. AI & Data Science infrastructure 6 Months (Mandatory Tenure) Techfest College Ambassador Program 2026 Indian Institute of Technology (IIT) Bombay,... Must be a regular student enrolled in a recognized higher education institution who possesses strong communication skills, leadership potential, and... Science, Technology Varies (Typically spans 3 to 6 months leading up to the main annual festival... CSIR-NIScPR Internship Programme 2026 CSIR-National Institute of Science Communication... Must be a regular student pursuing an Undergraduate (UG), Postgraduate (PG), or Doctoral (Ph.D.) degree in a relevant discipline from a recognized... Multidisciplinary Not Specified in Short Announcement (Typically ranges from 1 to 3 months... NITI Aayog Internship Scheme NITI Aayog (National Institution for Transforming... For Undergraduates: Must have completed or appeared in the 4th semester (2nd year) exams and secured minimum 85% marks in Class 12. For Postgraduates... Agricultural Engineering, Multidisciplinary 6 Weeks (Minimum) to 6 Months (Maximum)"
+          },
+          {
+            "source_location": "Pages",
+            "text": "1 2 3 4 5 6 7 8 9 next › last »"
+          }
+        ],
+        "error": null
+      }
+    },
+    {
+      "search_result": {
+        "title": "IITB Internship - IIT Bombay",
+        "url": "https://ircc.iitb.ac.in/IRCC-Webpage/IITBInternship",
+        "snippet": "Students and faculty conduct research projects in thrust areas of science and engineering. Its preeminent position at the cutting-edge of research is reflected in its impressive list of research projects, which cater to both our national needs and global developments.",
+        "domain": "ircc.iitb.ac.in",
+        "source_type": "academic_domain",
+        "official_domain": true,
+        "source_priority": 2,
+        "matched_queries": [
+          "computer vision research internship India January 2027 site:ac.in"
+        ],
+        "collected_at": "2026-10-31T18:35:27.804489+00:00",
+        "evidence_status": "unverified_search_result"
+      },
+      "document": {
+        "requested_url": "https://ircc.iitb.ac.in/IRCC-Webpage/IITBInternship",
+        "final_url": "https://ircc.iitb.ac.in/IRCC-Webpage/IITBInternship",
+        "fetch_status": "fetch_error",
+        "document_type": null,
+        "content_type": null,
+        "http_status": null,
+        "extraction_status": "not_attempted",
+        "extracted_text": "",
+        "evidence": [],
+        "error": "ConnectError: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'ircc.iitb.ac.in'. (_ssl.c:1082)"
+      }
+    },
+    {
+      "search_result": {
+        "title": "NPTEL Summer/ Winter Internship",
+        "url": "https://nptel.ac.in/internship",
+        "snippet": "The eligible candidates of Jan-Apr semester will be considered for the winter internships, and the eligible candidates of Jul-Oct semesters for the summer internship opportunity.",
+        "domain": "nptel.ac.in",
+        "source_type": "academic_domain",
+        "official_domain": true,
+        "source_priority": 2,
+        "matched_queries": [
+          "computer vision research internship India January 2027 site:ac.in"
+        ],
+        "collected_at": "2026-10-31T18:35:27.804489+00:00",
+        "evidence_status": "unverified_search_result"
+      },
+      "document": {
+        "requested_url": "https://nptel.ac.in/internship",
+        "final_url": "https://nptel.ac.in/internship",
+        "fetch_status": "fetched",
+        "document_type": "html",
+        "content_type": "text/html",
+        "http_status": 200,
+        "extraction_status": "extracted",
+        "extracted_text": "Page content\nHome Intern Details FAQ Contact Us\n\nAbout Us\nNPTEL provides an opportunity to its learners to have research experiences with the faculty from IITs/IISc/IISER/IIIT/other course offering institutes. NPTEL internship opportunities are available under the supervision of the course instructors at the course-offering institutes. The internships are generally offered during the summer (May/Jun/Jul) and winter (Nov/Dec/Jan) semester breaks depending on the availability of resources. The eligible candidates of Jan-Apr semester will be considered for the winter internships, and the eligible candidates of Jul-Oct semesters for the summer internship opportunity. PRE INTERNSHIP DURING THE INTERNSHIP POST INTERNSHIP SAMPLE CERTIFICATE TI INTERNSHIP\n\nEligibility\nNPTEL course toppers and candidates passing the certification exam in the Elite-Gold category are only eligible to apply. The internships will be considered for the Students and Faculty members (as per the profession selected during the course enrolment). The students will be considered for the in-person internships only. Faculty members who cannot avail leave from their workplace and the candidates with disabilities (PwD) will only be\n\t\t\t\t\t\tconsidered for the virtual internship, wherever feasible.\n\nDuration of internship\nInternships can be offered for a period of 2/4/6/8/10/12 weeks duration. The duration will be decided by the course instructor based on the nature of internship related work and the\n\t\t\t\t\t\tavailability of other logistics. The tentative start date of internship can be adjusted based on the mutual convenience of the selected candidates and the faculty.\n\nApplication Process and Selection\nThe NPTEL office will contact the course instructor to check if they can take interns from the toppers/Elite-Gold category of learners of their respective courses. Depending on the availability and confirmation from the course instructor, the eligible candidates of those courses where the consent of the faculty has been obtained will be informed\n\t\t\t\t\t\tthrough email with the detailed application process and the internship schedule. The NPTEL will send the communication in this regard by April for the Summer internships and by October for the Winter internships. The interested eligible candidates are expected to check their academic calendar, get the consent of their college authorities and apply online with the following documents Resume Last 2-semester grade cards Statement of purpose NPTEL course certificate The selection of the candidate will be made by the course instructor based on the documents submitted/personal interview/any other means as it is deemed suitable. The decision of the faculty on the selection process is final and binding on all. The selected candidates will be issued with the offer letters copying their college authorities.\n\nAccommodation\nNPTEL will try to arrange for your accommodation at one of the hostels within the institute premises. The local institute guidelines in this regard are binding and the availability of hostel\n\t\t\t\t\taccommodation cannot be guaranteed. This factor has to be taken into consideration while applying for the internships. In case of non-availability of in-campus hostel accommodation, the candidate has to arrange for his/her own accommodation outside. The local NPTEL offices at IIT Bombay, IIT Delhi, IIT\n\t\t\t\t\tGuwahati, IIT Kanpur, IIT Kharagpur, IIT Madras, IIT Roorkee, and IISc Bangalore can assist you in finding suitable outside accommodation, if required. The contact details of the local\n\t\t\t\t\toffices will be provided in the internship offer letters. For NPTEL internships at institutes other than those IITs/IISc mentioned above, the selected candidates have to get in touch with the Professor (through official email/phone) for any support\n\t\t\t\t\tor make their own arrangements.\n\nStipend\nThe stipend for the in-person NPTEL internship has been revised effective from Summer Internship 2025 as per the following details. No stipends are payable for the virtual internship. Duration Stipend amount 2 weeks Rs. 7500/- 4 weeks Rs. 15,000/- 6 weeks Rs. 22,500/- 8 weeks Rs. 30,000/- 10 weeks Rs. 37,500/- 12 weeks Rs. 45,000/- The stipend will be payable on successful completion of the internship.",
+        "evidence": [
+          {
+            "source_location": "Page content",
+            "text": "Home Intern Details FAQ Contact Us"
+          },
+          {
+            "source_location": "About Us",
+            "text": "NPTEL provides an opportunity to its learners to have research experiences with the faculty from IITs/IISc/IISER/IIIT/other course offering institutes. NPTEL internship opportunities are available under the supervision of the course instructors at the course-offering institutes. The internships are generally offered during the summer (May/Jun/Jul) and winter (Nov/Dec/Jan) semester breaks depending on the availability of resources. The eligible candidates of Jan-Apr semester will be considered for the winter internships, and the eligible candidates of Jul-Oct semesters for the summer internship opportunity. PRE INTERNSHIP DURING THE INTERNSHIP POST INTERNSHIP SAMPLE CERTIFICATE TI INTERNSHIP"
+          },
+          {
+            "source_location": "Eligibility",
+            "text": "NPTEL course toppers and candidates passing the certification exam in the Elite-Gold category are only eligible to apply. The internships will be considered for the Students and Faculty members (as per the profession selected during the course enrolment). The students will be considered for the in-person internships only. Faculty members who cannot avail leave from their workplace and the candidates with disabilities (PwD) will only be\n\t\t\t\t\t\tconsidered for the virtual internship, wherever feasible."
+          },
+          {
+            "source_location": "Duration of internship",
+            "text": "Internships can be offered for a period of 2/4/6/8/10/12 weeks duration. The duration will be decided by the course instructor based on the nature of internship related work and the\n\t\t\t\t\t\tavailability of other logistics. The tentative start date of internship can be adjusted based on the mutual convenience of the selected candidates and the faculty."
+          },
+          {
+            "source_location": "Application Process and Selection",
+            "text": "The NPTEL office will contact the course instructor to check if they can take interns from the toppers/Elite-Gold category of learners of their respective courses. Depending on the availability and confirmation from the course instructor, the eligible candidates of those courses where the consent of the faculty has been obtained will be informed\n\t\t\t\t\t\tthrough email with the detailed application process and the internship schedule. The NPTEL will send the communication in this regard by April for the Summer internships and by October for the Winter internships. The interested eligible candidates are expected to check their academic calendar, get the consent of their college authorities and apply online with the following documents Resume Last 2-semester grade cards Statement of purpose NPTEL course certificate The selection of the candidate will be made by the course instructor based on the documents submitted/personal interview/any other means as it is deemed suitable. The decision of the faculty on the selection process is final and binding on all. The selected candidates will be issued with the offer letters copying their college authorities."
+          },
+          {
+            "source_location": "Accommodation",
+            "text": "NPTEL will try to arrange for your accommodation at one of the hostels within the institute premises. The local institute guidelines in this regard are binding and the availability of hostel\n\t\t\t\t\taccommodation cannot be guaranteed. This factor has to be taken into consideration while applying for the internships. In case of non-availability of in-campus hostel accommodation, the candidate has to arrange for his/her own accommodation outside. The local NPTEL offices at IIT Bombay, IIT Delhi, IIT\n\t\t\t\t\tGuwahati, IIT Kanpur, IIT Kharagpur, IIT Madras, IIT Roorkee, and IISc Bangalore can assist you in finding suitable outside accommodation, if required. The contact details of the local\n\t\t\t\t\toffices will be provided in the internship offer letters. For NPTEL internships at institutes other than those IITs/IISc mentioned above, the selected candidates have to get in touch with the Professor (through official email/phone) for any support\n\t\t\t\t\tor make their own arrangements."
+          },
+          {
+            "source_location": "Stipend",
+            "text": "The stipend for the in-person NPTEL internship has been revised effective from Summer Internship 2025 as per the following details. No stipends are payable for the virtual internship. Duration Stipend amount 2 weeks Rs. 7500/- 4 weeks Rs. 15,000/- 6 weeks Rs. 22,500/- 8 weeks Rs. 30,000/- 10 weeks Rs. 37,500/- 12 weeks Rs. 45,000/- The stipend will be payable on successful completion of the internship."
+          }
+        ],
+        "error": null
+      }
+    },
+    {
+      "search_result": {
+        "title": "Internship Portal",
+        "url": "https://oes.iitg.ac.in/inp",
+        "snippet": "These internships offer students crucial exposure to real-world applications, allowing them to apply their learning in dynamic, data-driven environments — across industry, research labs, and academia.",
+        "domain": "oes.iitg.ac.in",
+        "source_type": "academic_domain",
+        "official_domain": true,
+        "source_priority": 2,
+        "matched_queries": [
+          "computer vision research internship India January 2027 site:ac.in"
+        ],
+        "collected_at": "2026-10-31T18:35:27.804489+00:00",
+        "evidence_status": "unverified_search_result"
+      },
+      "document": {
+        "requested_url": "https://oes.iitg.ac.in/inp",
+        "final_url": "https://oes.iitg.ac.in/inp/",
+        "fetch_status": "fetched",
+        "document_type": "html",
+        "content_type": "text/html",
+        "http_status": 200,
+        "extraction_status": "extracted",
+        "extracted_text": "Welcome to the Internship & Placement Portal\nConnecting IIT Guwahati's Data Science & AI talent with industry and academia —\n                    student portfolios, internships, and opportunities, all in one place.\n\nIndustry minds, in the classroom.\nExpert-led sessions bringing real-world DS & AI practice to our students.\n\nFor Companies\nPost opportunities and find the perfect candidates for your organization.\n\nFor Academia\nPost academic projects and internships to collaborate with student talent.\n\nFor Students\nApply for internships, gain real-world experience, and build your career path. As a key component of the BSc (Hons.) in Data Science and AI program at IIT Guwahati, students undertake\n                    internships lasting 3 to 9 months after completing 24 foundational courses covering core concepts in\n                    data science, AI, and computational methods. These internships offer students crucial exposure to\n                    real-world applications, allowing them to apply their learning in dynamic, data-driven environments\n                    — across industry, research labs, and academia. Internship windows: September – November January – March May – July To deepen their contributions, students also have the option to extend their engagement through a\n                    12-month capstone project, continuing work on the same or a related problem in collaboration with the\n                    host organization. We invite recruiters, startups, research labs, and academic institutions to partner\n                    with us in shaping the next generation of data and AI professionals. The BSc (Hons.) in Data Science and Artificial Intelligence offered by IIT Guwahati is a forward-looking\n                    undergraduate program designed to build strong foundations in data science, AI, and computational\n                    thinking. Delivered in a flexible, online-first format, it blends rigorous academic content with\n                    real-world applicability - preparing learners to tackle complex, data-driven challenges across\n                    industries. The program has attracted a diverse and growing cohort of over 3,000 students from across India and the\n                    globe. With its inclusive and accessible structure, it represents the first-of-its-kind online BSc\n                    (Hons.) degree by an IIT, offering a scalable model for future-ready learning. Students benefit from: A curriculum shaped and delivered by IIT faculty and industry leaders Hands-on projects, labs, and case studies Opportunities for internships and capstone projects Access to a vibrant, global peer network\n\nMessages from our leadership\nWelcome to the Internship and Placement Portal of IIT Guwahati. We are dedicated to nurturing\n                        talent and fostering industry-academia collaboration. This platform is designed to provide\n                        students with seamless access to internship opportunities and placement prospects across\n                        various domains. This platform bridges students with the academic and industrial world. With hands-on exposure,\n                        our students enhance their real-world readiness and make meaningful contributions to society\n                        through innovation and collaboration. Our BSc (Hons.) in Data Science and AI students come from diverse academic and professional\n                        backgrounds across India and beyond. They bring strong analytical skills, technical expertise,\n                        and adaptability. Open to 3-9 month internships and a 1-year capstone extension, they're\n                        ready to contribute across domains. We invite recruiters to engage with this dynamic talent pool. At Online Degree Program, IIT Guwahati, we don't just teach-we build minds. Minds trained\n                        in analytical and quantitative rigor, sharpened by evidence-based reasoning, and driven by\n                        questions that don't settle for easy answers. Same framework. Same faculty. Same standards.\n                        No shortcuts. Learners come from everywhere-different paths, different pasts-but\n                        they move with the same purpose: to explore, to test, to grow. We invite Recruiters to step in\n                        and engage with this talent that is trained to think, built to adapt, and ready to deliver impact. In my role overseeing the internship evaluation process, I have the opportunity to observe every student closely across three internships undertaken with IIT faculty, startups, and industry partners, alongside term projects many students pursue on their own initiative.\n                        Each internship concludes with a structured report, a video presentation, and a viva voce—a cycle that reveals far more than academic transcripts do.\n                        Through this process, students develop the ability to document their work rigorously, articulate their contributions clearly, and defend their reasoning under direct questioning.\n                        One observation stands out consistently: academic grades show little correlation with a student's actual performance during internships. It is consistency of engagement, curiosity, and growth across these cycles—including the projects they choose to pursue independently—that truly distinguishes our learners.",
+        "evidence": [
+          {
+            "source_location": "Welcome to the Internship & Placement Portal",
+            "text": "Connecting IIT Guwahati's Data Science & AI talent with industry and academia —\n                    student portfolios, internships, and opportunities, all in one place."
+          },
+          {
+            "source_location": "Industry minds, in the classroom.",
+            "text": "Expert-led sessions bringing real-world DS & AI practice to our students."
+          },
+          {
+            "source_location": "For Companies",
+            "text": "Post opportunities and find the perfect candidates for your organization."
+          },
+          {
+            "source_location": "For Academia",
+            "text": "Post academic projects and internships to collaborate with student talent."
+          },
+          {
+            "source_location": "For Students",
+            "text": "Apply for internships, gain real-world experience, and build your career path. As a key component of the BSc (Hons.) in Data Science and AI program at IIT Guwahati, students undertake\n                    internships lasting 3 to 9 months after completing 24 foundational courses covering core concepts in\n                    data science, AI, and computational methods. These internships offer students crucial exposure to\n                    real-world applications, allowing them to apply their learning in dynamic, data-driven environments\n                    — across industry, research labs, and academia. Internship windows: September – November January – March May – July To deepen their contributions, students also have the option to extend their engagement through a\n                    12-month capstone project, continuing work on the same or a related problem in collaboration with the\n                    host organization. We invite recruiters, startups, research labs, and academic institutions to partner\n                    with us in shaping the next generation of data and AI professionals. The BSc (Hons.) in Data Science and Artificial Intelligence offered by IIT Guwahati is a forward-looking\n                    undergraduate program designed to build strong foundations in data science, AI, and computational\n                    thinking. Delivered in a flexible, online-first format, it blends rigorous academic content with\n                    real-world applicability - preparing learners to tackle complex, data-driven challenges across\n                    industries. The program has attracted a diverse and growing cohort of over 3,000 students from across India and the\n                    globe. With its inclusive and accessible structure, it represents the first-of-its-kind online BSc\n                    (Hons.) degree by an IIT, offering a scalable model for future-ready learning. Students benefit from: A curriculum shaped and delivered by IIT faculty and industry leaders Hands-on projects, labs, and case studies Opportunities for internships and capstone projects Access to a vibrant, global peer network"
+          },
+          {
+            "source_location": "Messages from our leadership",
+            "text": "Welcome to the Internship and Placement Portal of IIT Guwahati. We are dedicated to nurturing\n                        talent and fostering industry-academia collaboration. This platform is designed to provide\n                        students with seamless access to internship opportunities and placement prospects across\n                        various domains. This platform bridges students with the academic and industrial world. With hands-on exposure,\n                        our students enhance their real-world readiness and make meaningful contributions to society\n                        through innovation and collaboration. Our BSc (Hons.) in Data Science and AI students come from diverse academic and professional\n                        backgrounds across India and beyond. They bring strong analytical skills, technical expertise,\n                        and adaptability. Open to 3-9 month internships and a 1-year capstone extension, they're\n                        ready to contribute across domains. We invite recruiters to engage with this dynamic talent pool. At Online Degree Program, IIT Guwahati, we don't just teach-we build minds. Minds trained\n                        in analytical and quantitative rigor, sharpened by evidence-based reasoning, and driven by\n                        questions that don't settle for easy answers. Same framework. Same faculty. Same standards.\n                        No shortcuts. Learners come from everywhere-different paths, different pasts-but\n                        they move with the same purpose: to explore, to test, to grow. We invite Recruiters to step in\n                        and engage with this talent that is trained to think, built to adapt, and ready to deliver impact. In my role overseeing the internship evaluation process, I have the opportunity to observe every student closely across three internships undertaken with IIT faculty, startups, and industry partners, alongside term projects many students pursue on their own initiative.\n                        Each internship concludes with a structured report, a video presentation, and a viva voce—a cycle that reveals far more than academic transcripts do.\n                        Through this process, students develop the ability to document their work rigorously, articulate their contributions clearly, and defend their reasoning under direct questioning.\n                        One observation stands out consistently: academic grades show little correlation with a student's actual performance during internships. It is consistency of engagement, curiosity, and growth across these cycles—including the projects they choose to pursue independently—that truly distinguishes our learners."
+          }
+        ],
+        "error": null
+      }
+    },
+    {
+      "search_result": {
+        "title": "956 Ai research internship jobs in India - Glassdoor",
+        "url": "https://glassdoor.co.in/Job/ai-research-internship-jobs-SRCH_KO0,22.htm",
+        "snippet": "Search Ai research internship jobs. Get the right Ai research internship job with company ratings and salaries. 956 open jobs for Ai research internship.",
+        "domain": "glassdoor.co.in",
+        "source_type": "other_domain",
+        "official_domain": false,
+        "source_priority": 3,
+        "matched_queries": [
+          "paid AI research internship India January 2027 private research organization"
+        ],
+        "collected_at": "2026-10-31T18:35:27.804489+00:00",
+        "evidence_status": "unverified_search_result"
+      },
+      "document": {
+        "requested_url": "https://glassdoor.co.in/Job/ai-research-internship-jobs-SRCH_KO0,22.htm",
+        "final_url": "https://www.glassdoor.co.in/Job/ai-research-internship-jobs-SRCH_KO0,22.htm",
+        "fetch_status": "fetch_error",
+        "document_type": null,
+        "content_type": null,
+        "http_status": null,
+        "extraction_status": "not_attempted",
+        "extracted_text": "",
+        "evidence": [],
+        "error": "HTTPStatusError: Client error '403 Forbidden' for url 'https://www.glassdoor.co.in/Job/ai-research-internship-jobs-SRCH_KO0,22.htm'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403"
+      }
+    },
+    {
+      "search_result": {
+        "title": "Ai Internship Paid Jobs in India (297 Open Roles) | LinkedIn",
+        "url": "https://in.linkedin.com/jobs/ai-internship-paid-jobs",
+        "snippet": "Today’s top 297 Ai Internship Paid jobs in India. Leverage your professional network, and get hired. New Ai Internship Paid jobs added daily.",
+        "domain": "in.linkedin.com",
+        "source_type": "other_domain",
+        "official_domain": false,
+        "source_priority": 3,
+        "matched_queries": [
+          "paid AI research internship India January 2027 private research organization"
+        ],
+        "collected_at": "2026-10-31T18:35:27.804489+00:00",
+        "evidence_status": "unverified_search_result"
+      },
+      "document": {
+        "requested_url": "https://in.linkedin.com/jobs/ai-internship-paid-jobs",
+        "final_url": "https://in.linkedin.com/jobs/ai-internship-paid-jobs",
+        "fetch_status": "fetched",
+        "document_type": "html",
+        "content_type": "text/html",
+        "http_status": 200,
+        "extraction_status": "extracted",
+        "extracted_text": "Ai Internship Paid Jobs in India (276 Open Roles) | LinkedIn\nGet notified about new Ai Internship Paid jobs in India .\n\n276 Ai Internship Paid Jobs in India\nData Science Intern Data Science Intern Sony Research India Bengaluru, Karnataka, India 3 weeks ago\n\nSony Research India\nPhD Intern, AI ML in Wireless L1/L2 - Fall 2026 PhD Intern, AI ML in Wireless L1/L2 - Fall 2026 NVIDIA Bengaluru, Karnataka, India 2 weeks ago\n\nNVIDIA\nPhD Intern, Apple Ads (Machine Learning) PhD Intern, Apple Ads (Machine Learning) Apple Hyderabad, Telangana, India 1 month ago\n\nApple\nPhD Intern, Machine Learning: MSI, Product Operations Team PhD Intern, Machine Learning: MSI, Product Operations Team Apple Bengaluru, Karnataka, India 1 month ago\n\nApple\nArtificial Intelligence Intern (Python, Machine Learning, NLP, Prompt Engineering) | Remote Artificial Intelligence Intern (Python, Machine Learning, NLP, Prompt Engineering) | Remote Crossing Infotech India 13 hours ago\n\nCrossing Infotech\nArtificial Intelligence Intern Artificial Intelligence Intern Applogika Hyderabad, Telangana, India 1 day ago\n\nApplogika\nAI Growth Engineer AI Growth Engineer AgentSocialX India 22 hours ago\n\nAgentSocialX\nAI Agent Engineer Intern AI Agent Engineer Intern Lexsi Labs Mumbai Metropolitan Region 1 day ago\n\nLexsi Labs\nIBM Research/Research Software - Intern IBM Research/Research Software - Intern IBM Gurgaon, Haryana, India 1 week ago\n\nIBM\nMachine Learning Intern Machine Learning Intern ThinkNovaa India 7 hours ago\n\nThinkNovaa\nAI Agent Engineer Intern AI Agent Engineer Intern Lexsi Labs Mumbai Metropolitan Region 3 months ago\n\nLexsi Labs\nMachine Learning Intern (Python, Scikit-learn, Pandas, Data Preprocessing) | Remote Machine Learning Intern (Python, Scikit-learn, Pandas, Data Preprocessing) | Remote Crossing Infotech India 13 hours ago\n\nCrossing Infotech\nArtificial Intelligence Intern Artificial Intelligence Intern Jobs4PanIndia India 6 hours ago\n\nJobs4PanIndia\nArtificial Intelligence Intern Artificial Intelligence Intern Jobs4PanIndia India 7 hours ago\n\nJobs4PanIndia\nSpeech Recognition Intern Speech Recognition Intern Sony Research India Bengaluru, Karnataka, India 3 weeks ago\n\nSony Research India\nAI Implementation Intern AI Implementation Intern Sprinto Bengaluru, Karnataka, India 5 days ago\n\nSprinto\nArtificial Intelligence Intern Artificial Intelligence Intern ThinkNovaa India 6 hours ago\n\nThinkNovaa\nLLM Research Intern LLM Research Intern Sony Research India Bengaluru, Karnataka, India 3 weeks ago\n\nSony Research India\nIBM Research/Research Software - Intern IBM Research/Research Software - Intern IBM Bengaluru, Karnataka, India 1 week ago\n\nIBM\nAI Research Internship AI Research Internship Lexsi Labs Mumbai Metropolitan Region 3 months ago\n\nLexsi Labs\nApplied Scientist Applied Scientist Meril Bengaluru, Karnataka, India 3 weeks ago\n\nMeril\nMachine Learning | Entry Level | Fresher Internship (Python, Scikit-learn, Model Evaluation) Machine Learning | Entry Level | Fresher Internship (Python, Scikit-learn, Model Evaluation) MediNex Workforce India 13 hours ago\n\nMediNex Workforce\nInformation Technology Intern Information Technology Intern Procter & Gamble Mumbai Metropolitan Region 2 days ago\n\nProcter & Gamble\nArtificial Intelligence | Entry Level | Fresher Internship (Python, LLM APIs, Prompt Engineering) Artificial Intelligence | Entry Level | Fresher Internship (Python, LLM APIs, Prompt Engineering) MediNex Workforce India 13 hours ago\n\nMediNex Workforce\n2027 Intern - Research PhD Intern 2027 Intern - Research PhD Intern Adobe Bengaluru East, Karnataka, India 1 week ago\n\nAdobe\nAI Research Internship AI Research Internship Lexsi Labs Mumbai Metropolitan Region 1 day ago\n\nLexsi Labs\nAI/ML Engineering Intern AI/ML Engineering Intern Daice Labs India 1 week ago\n\nDaice Labs\nMachine Learning Intern Machine Learning Intern Skillzen Loop India 1 day ago\n\nSkillzen Loop\nResearch Intern - AI Research Intern - AI GE HealthCare Bengaluru, Karnataka, India 2 weeks ago\n\nGE HealthCare\nAI/ML Intern AI/ML Intern Skillzen Loop India 1 day ago\n\nSkillzen Loop\nAI Internship AI Internship Delaplex Nagpur, Maharashtra, India 2 months ago\n\nDelaplex\nArtificial Intelligence Intern Artificial Intelligence Intern eTeam Noida, Uttar Pradesh, India 5 days ago\n\neTeam\nSoftware Engineer Intern Software Engineer Intern Meril Bengaluru, Karnataka, India 2 days ago\n\nMeril\nData Science Intern Data Science Intern ThinkNovaa India 7 hours ago\n\nThinkNovaa\nData Science Intern Data Science Intern Vortenza Systems India 1 hour ago\n\nVortenza Systems\nAI Interns AI Interns Ai Disha Learning Hyderabad, Telangana, India 1 day ago\n\nAi Disha Learning\nSB-1486-AI Engineer Intern SB-1486-AI Engineer Intern Softobiz Kochi, Kerala, India 2 months ago\n\nSoftobiz\nPython AI/ML Intern Python AI/ML Intern Durapid Technologies Private Limited Jaipur, Rajasthan, India 4 months ago\n\nDurapid Technologies Private Limited\nVoice AI Internship in Delhi Voice AI Internship in Delhi Jarvis Technology and Strategy Consulting Delhi, India 1 day ago\n\nJarvis Technology and Strategy Consulting\nARTIFICIAL INTELLIGENCE FRESHER INTERN ARTIFICIAL INTELLIGENCE FRESHER INTERN InLighnX Global Pvt Ltd (InLighn Tech) India 13 hours ago\n\nInLighnX Global Pvt Ltd (InLighn Tech)\nAI Engineer Intern AI Engineer Intern Discover Dollar Inc Bengaluru East, Karnataka, India 3 weeks ago\n\nDiscover Dollar Inc\nML Intern ML Intern Training Basket Noida, Uttar Pradesh, India 3 weeks ago\n\nTraining Basket\nResearch Scientist PhD Intern, Summer 2027 Research Scientist PhD Intern, Summer 2027 Google Hyderabad, Telangana, India 3 days ago\n\nGoogle\nMachine Learning Intern Machine Learning Intern ERIC Robotics Pune Division, Maharashtra, India 3 months ago\n\nERIC Robotics\nData Science Intern Data Science Intern ArcelorMittal Digital Consulting Hyderabad, Telangana, India 2 weeks ago\n\nArcelorMittal Digital Consulting\nAI/ML Intern AI/ML Intern Dimakh Consultants Pvt.Ltd Pune/Pimpri-Chinchwad Area 1 week ago\n\nDimakh Consultants Pvt.Ltd\nIntern Intern IQVIA Gurugram, Haryana, India 5 days ago\n\nIQVIA\nAI Business Consultant Intern AI Business Consultant Intern CBOSIT (Premium Zoho Partner) Dehradun, Uttarakhand, India 2 weeks ago\n\nCBOSIT (Premium Zoho Partner)\nIntern Intern IQVIA Bengaluru, Karnataka, India 5 days ago\n\nIQVIA\nGenerative AI Engineering Intern — Venxr Generative AI Engineering Intern — Venxr Venxr Pune Division, Maharashtra, India 1 week ago\n\nVenxr\nData Science Intern Data Science Intern Devryxa India 1 hour ago\n\nDevryxa\nSoftware Development Trainee Software Development Trainee WEX India 1 day ago\n\nWEX\nEvaluation & Insights Intern, AI Delivery Evaluation & Insights Intern, AI Delivery Blue Machines AI Bengaluru, Karnataka, India 1 month ago\n\nBlue Machines AI\nAssociate Software Engineer Intern - YMS Associate Software Engineer Intern - YMS Kaleris Chennai, Tamil Nadu, India 1 week ago\n\nKaleris\nAI Intern AI Intern Faclon Labs Mumbai Metropolitan Region 4 months ago\n\nFaclon Labs\nProduct Intern Product Intern Lumenci India 3 weeks ago\n\nLumenci\nFoundational Internship - Technology & Intellectual Media Foundational Internship - Technology & Intellectual Media Arivula Technologies Chennai, Tamil Nadu, India 1 day ago\n\nArivula Technologies\nAI Product Intern AI Product Intern Park+ Gurugram, Haryana, India 2 weeks ago\n\nPark+\nSoftware Development Trainee-1 Software Development Trainee-1 WEX Bengaluru, Karnataka, India 1 day ago\n\nWEX\nPaid Internship Paid Internship ACADEMY Bengaluru, Karnataka, India 2 weeks ago\n\nACADEMY\nYou've viewed all jobs for this search",
+        "evidence": [
+          {
+            "source_location": "Ai Internship Paid Jobs in India (276 Open Roles) | LinkedIn",
+            "text": "Get notified about new Ai Internship Paid jobs in India ."
+          },
+          {
+            "source_location": "276 Ai Internship Paid Jobs in India",
+            "text": "Data Science Intern Data Science Intern Sony Research India Bengaluru, Karnataka, India 3 weeks ago"
+          },
+          {
+            "source_location": "Sony Research India",
+            "text": "PhD Intern, AI ML in Wireless L1/L2 - Fall 2026 PhD Intern, AI ML in Wireless L1/L2 - Fall 2026 NVIDIA Bengaluru, Karnataka, India 2 weeks ago"
+          },
+          {
+            "source_location": "NVIDIA",
+            "text": "PhD Intern, Apple Ads (Machine Learning) PhD Intern, Apple Ads (Machine Learning) Apple Hyderabad, Telangana, India 1 month ago"
+          },
+          {
+            "source_location": "Apple",
+            "text": "PhD Intern, Machine Learning: MSI, Product Operations Team PhD Intern, Machine Learning: MSI, Product Operations Team Apple Bengaluru, Karnataka, India 1 month ago"
+          },
+          {
+            "source_location": "Apple",
+            "text": "Artificial Intelligence Intern (Python, Machine Learning, NLP, Prompt Engineering) | Remote Artificial Intelligence Intern (Python, Machine Learning, NLP, Prompt Engineering) | Remote Crossing Infotech India 13 hours ago"
+          },
+          {
+            "source_location": "Crossing Infotech",
+            "text": "Artificial Intelligence Intern Artificial Intelligence Intern Applogika Hyderabad, Telangana, India 1 day ago"
+          },
+          {
+            "source_location": "Applogika",
+            "text": "AI Growth Engineer AI Growth Engineer AgentSocialX India 22 hours ago"
+          },
+          {
+            "source_location": "AgentSocialX",
+            "text": "AI Agent Engineer Intern AI Agent Engineer Intern Lexsi Labs Mumbai Metropolitan Region 1 day ago"
+          },
+          {
+            "source_location": "Lexsi Labs",
+            "text": "IBM Research/Research Software - Intern IBM Research/Research Software - Intern IBM Gurgaon, Haryana, India 1 week ago"
+          },
+          {
+            "source_location": "IBM",
+            "text": "Machine Learning Intern Machine Learning Intern ThinkNovaa India 7 hours ago"
+          },
+          {
+            "source_location": "ThinkNovaa",
+            "text": "AI Agent Engineer Intern AI Agent Engineer Intern Lexsi Labs Mumbai Metropolitan Region 3 months ago"
+          },
+          {
+            "source_location": "Lexsi Labs",
+            "text": "Machine Learning Intern (Python, Scikit-learn, Pandas, Data Preprocessing) | Remote Machine Learning Intern (Python, Scikit-learn, Pandas, Data Preprocessing) | Remote Crossing Infotech India 13 hours ago"
+          },
+          {
+            "source_location": "Crossing Infotech",
+            "text": "Artificial Intelligence Intern Artificial Intelligence Intern Jobs4PanIndia India 6 hours ago"
+          },
+          {
+            "source_location": "Jobs4PanIndia",
+            "text": "Artificial Intelligence Intern Artificial Intelligence Intern Jobs4PanIndia India 7 hours ago"
+          },
+          {
+            "source_location": "Jobs4PanIndia",
+            "text": "Speech Recognition Intern Speech Recognition Intern Sony Research India Bengaluru, Karnataka, India 3 weeks ago"
+          },
+          {
+            "source_location": "Sony Research India",
+            "text": "AI Implementation Intern AI Implementation Intern Sprinto Bengaluru, Karnataka, India 5 days ago"
+          },
+          {
+            "source_location": "Sprinto",
+            "text": "Artificial Intelligence Intern Artificial Intelligence Intern ThinkNovaa India 6 hours ago"
+          },
+          {
+            "source_location": "ThinkNovaa",
+            "text": "LLM Research Intern LLM Research Intern Sony Research India Bengaluru, Karnataka, India 3 weeks ago"
+          },
+          {
+            "source_location": "Sony Research India",
+            "text": "IBM Research/Research Software - Intern IBM Research/Research Software - Intern IBM Bengaluru, Karnataka, India 1 week ago"
+          },
+          {
+            "source_location": "IBM",
+            "text": "AI Research Internship AI Research Internship Lexsi Labs Mumbai Metropolitan Region 3 months ago"
+          },
+          {
+            "source_location": "Lexsi Labs",
+            "text": "Applied Scientist Applied Scientist Meril Bengaluru, Karnataka, India 3 weeks ago"
+          },
+          {
+            "source_location": "Meril",
+            "text": "Machine Learning | Entry Level | Fresher Internship (Python, Scikit-learn, Model Evaluation) Machine Learning | Entry Level | Fresher Internship (Python, Scikit-learn, Model Evaluation) MediNex Workforce India 13 hours ago"
+          },
+          {
+            "source_location": "MediNex Workforce",
+            "text": "Information Technology Intern Information Technology Intern Procter & Gamble Mumbai Metropolitan Region 2 days ago"
+          },
+          {
+            "source_location": "Procter & Gamble",
+            "text": "Artificial Intelligence | Entry Level | Fresher Internship (Python, LLM APIs, Prompt Engineering) Artificial Intelligence | Entry Level | Fresher Internship (Python, LLM APIs, Prompt Engineering) MediNex Workforce India 13 hours ago"
+          },
+          {
+            "source_location": "MediNex Workforce",
+            "text": "2027 Intern - Research PhD Intern 2027 Intern - Research PhD Intern Adobe Bengaluru East, Karnataka, India 1 week ago"
+          },
+          {
+            "source_location": "Adobe",
+            "text": "AI Research Internship AI Research Internship Lexsi Labs Mumbai Metropolitan Region 1 day ago"
+          },
+          {
+            "source_location": "Lexsi Labs",
+            "text": "AI/ML Engineering Intern AI/ML Engineering Intern Daice Labs India 1 week ago"
+          },
+          {
+            "source_location": "Daice Labs",
+            "text": "Machine Learning Intern Machine Learning Intern Skillzen Loop India 1 day ago"
+          },
+          {
+            "source_location": "Skillzen Loop",
+            "text": "Research Intern - AI Research Intern - AI GE HealthCare Bengaluru, Karnataka, India 2 weeks ago"
+          },
+          {
+            "source_location": "GE HealthCare",
+            "text": "AI/ML Intern AI/ML Intern Skillzen Loop India 1 day ago"
+          },
+          {
+            "source_location": "Skillzen Loop",
+            "text": "AI Internship AI Internship Delaplex Nagpur, Maharashtra, India 2 months ago"
+          },
+          {
+            "source_location": "Delaplex",
+            "text": "Artificial Intelligence Intern Artificial Intelligence Intern eTeam Noida, Uttar Pradesh, India 5 days ago"
+          },
+          {
+            "source_location": "eTeam",
+            "text": "Software Engineer Intern Software Engineer Intern Meril Bengaluru, Karnataka, India 2 days ago"
+          },
+          {
+            "source_location": "Meril",
+            "text": "Data Science Intern Data Science Intern ThinkNovaa India 7 hours ago"
+          },
+          {
+            "source_location": "ThinkNovaa",
+            "text": "Data Science Intern Data Science Intern Vortenza Systems India 1 hour ago"
+          },
+          {
+            "source_location": "Vortenza Systems",
+            "text": "AI Interns AI Interns Ai Disha Learning Hyderabad, Telangana, India 1 day ago"
+          },
+          {
+            "source_location": "Ai Disha Learning",
+            "text": "SB-1486-AI Engineer Intern SB-1486-AI Engineer Intern Softobiz Kochi, Kerala, India 2 months ago"
+          },
+          {
+            "source_location": "Softobiz",
+            "text": "Python AI/ML Intern Python AI/ML Intern Durapid Technologies Private Limited Jaipur, Rajasthan, India 4 months ago"
+          },
+          {
+            "source_location": "Durapid Technologies Private Limited",
+            "text": "Voice AI Internship in Delhi Voice AI Internship in Delhi Jarvis Technology and Strategy Consulting Delhi, India 1 day ago"
+          },
+          {
+            "source_location": "Jarvis Technology and Strategy Consulting",
+            "text": "ARTIFICIAL INTELLIGENCE FRESHER INTERN ARTIFICIAL INTELLIGENCE FRESHER INTERN InLighnX Global Pvt Ltd (InLighn Tech) India 13 hours ago"
+          },
+          {
+            "source_location": "InLighnX Global Pvt Ltd (InLighn Tech)",
+            "text": "AI Engineer Intern AI Engineer Intern Discover Dollar Inc Bengaluru East, Karnataka, India 3 weeks ago"
+          },
+          {
+            "source_location": "Discover Dollar Inc",
+            "text": "ML Intern ML Intern Training Basket Noida, Uttar Pradesh, India 3 weeks ago"
+          },
+          {
+            "source_location": "Training Basket",
+            "text": "Research Scientist PhD Intern, Summer 2027 Research Scientist PhD Intern, Summer 2027 Google Hyderabad, Telangana, India 3 days ago"
+          },
+          {
+            "source_location": "Google",
+            "text": "Machine Learning Intern Machine Learning Intern ERIC Robotics Pune Division, Maharashtra, India 3 months ago"
+          },
+          {
+            "source_location": "ERIC Robotics",
+            "text": "Data Science Intern Data Science Intern ArcelorMittal Digital Consulting Hyderabad, Telangana, India 2 weeks ago"
+          },
+          {
+            "source_location": "ArcelorMittal Digital Consulting",
+            "text": "AI/ML Intern AI/ML Intern Dimakh Consultants Pvt.Ltd Pune/Pimpri-Chinchwad Area 1 week ago"
+          },
+          {
+            "source_location": "Dimakh Consultants Pvt.Ltd",
+            "text": "Intern Intern IQVIA Gurugram, Haryana, India 5 days ago"
+          },
+          {
+            "source_location": "IQVIA",
+            "text": "AI Business Consultant Intern AI Business Consultant Intern CBOSIT (Premium Zoho Partner) Dehradun, Uttarakhand, India 2 weeks ago"
+          },
+          {
+            "source_location": "CBOSIT (Premium Zoho Partner)",
+            "text": "Intern Intern IQVIA Bengaluru, Karnataka, India 5 days ago"
+          },
+          {
+            "source_location": "IQVIA",
+            "text": "Generative AI Engineering Intern — Venxr Generative AI Engineering Intern — Venxr Venxr Pune Division, Maharashtra, India 1 week ago"
+          },
+          {
+            "source_location": "Venxr",
+            "text": "Data Science Intern Data Science Intern Devryxa India 1 hour ago"
+          },
+          {
+            "source_location": "Devryxa",
+            "text": "Software Development Trainee Software Development Trainee WEX India 1 day ago"
+          },
+          {
+            "source_location": "WEX",
+            "text": "Evaluation & Insights Intern, AI Delivery Evaluation & Insights Intern, AI Delivery Blue Machines AI Bengaluru, Karnataka, India 1 month ago"
+          },
+          {
+            "source_location": "Blue Machines AI",
+            "text": "Associate Software Engineer Intern - YMS Associate Software Engineer Intern - YMS Kaleris Chennai, Tamil Nadu, India 1 week ago"
+          },
+          {
+            "source_location": "Kaleris",
+            "text": "AI Intern AI Intern Faclon Labs Mumbai Metropolitan Region 4 months ago"
+          },
+          {
+            "source_location": "Faclon Labs",
+            "text": "Product Intern Product Intern Lumenci India 3 weeks ago"
+          },
+          {
+            "source_location": "Lumenci",
+            "text": "Foundational Internship - Technology & Intellectual Media Foundational Internship - Technology & Intellectual Media Arivula Technologies Chennai, Tamil Nadu, India 1 day ago"
+          },
+          {
+            "source_location": "Arivula Technologies",
+            "text": "AI Product Intern AI Product Intern Park+ Gurugram, Haryana, India 2 weeks ago"
+          },
+          {
+            "source_location": "Park+",
+            "text": "Software Development Trainee-1 Software Development Trainee-1 WEX Bengaluru, Karnataka, India 1 day ago"
+          },
+          {
+            "source_location": "WEX",
+            "text": "Paid Internship Paid Internship ACADEMY Bengaluru, Karnataka, India 2 weeks ago"
+          },
+          {
+            "source_location": "ACADEMY",
+            "text": "You've viewed all jobs for this search"
+          }
+        ],
+        "error": null
+      }
+    },
+    {
+      "search_result": {
+        "title": "Ai Research Intern Jobs in India (202 Open Roles) | LinkedIn",
+        "url": "https://in.linkedin.com/jobs/ai-research-intern-jobs",
+        "snippet": "Today’s top 202 Ai Research Intern jobs in India. Leverage your professional network, and get hired. New Ai Research Intern jobs added daily.",
+        "domain": "in.linkedin.com",
+        "source_type": "other_domain",
+        "official_domain": false,
+        "source_priority": 3,
+        "matched_queries": [
+          "paid AI research internship India January 2027 private research organization"
+        ],
+        "collected_at": "2026-10-31T18:35:27.804489+00:00",
+        "evidence_status": "unverified_search_result"
+      },
+      "document": {
+        "requested_url": "https://in.linkedin.com/jobs/ai-research-intern-jobs",
+        "final_url": "https://in.linkedin.com/jobs/ai-research-intern-jobs",
+        "fetch_status": "fetched",
+        "document_type": "html",
+        "content_type": "text/html",
+        "http_status": 200,
+        "extraction_status": "extracted",
+        "extracted_text": "Ai Research Intern Jobs in India (199 Open Roles) | LinkedIn\nGet notified about new Ai Research Intern jobs in India .\n\n199 Ai Research Intern Jobs in India\nLLM Research Intern LLM Research Intern Sony Research India Bengaluru, Karnataka, India 3 weeks ago\n\nSony Research India\nAI Research Internship AI Research Internship Lexsi Labs Mumbai Metropolitan Region 3 months ago\n\nLexsi Labs\nAI Research Internship AI Research Internship Lexsi Labs Mumbai Metropolitan Region 1 day ago\n\nLexsi Labs\nPhD Intern, AI ML in Wireless L1/L2 - Fall 2026 PhD Intern, AI ML in Wireless L1/L2 - Fall 2026 NVIDIA Bengaluru, Karnataka, India 2 weeks ago\n\nNVIDIA\nResearch Intern, Physical AI and GPU (PhD) Research Intern, Physical AI and GPU (PhD) Marvell Technology Hyderabad, Telangana, India 1 week ago\n\nMarvell Technology\nSpeech Recognition Intern Speech Recognition Intern Sony Research India Bengaluru, Karnataka, India 3 weeks ago\n\nSony Research India\nResearch Intern - AI Research Intern - AI GE HealthCare Bengaluru, Karnataka, India 2 weeks ago\n\nGE HealthCare\nAI & ML Researcher AI & ML Researcher Vynexa Chandigarh, Chandigarh, India 2 months ago\n\nVynexa\nMachine Learning Intern Machine Learning Intern ERIC Robotics Pune Division, Maharashtra, India 3 months ago\n\nERIC Robotics\nPhD Intern, Machine Learning: MSI, Product Operations Team PhD Intern, Machine Learning: MSI, Product Operations Team Apple Bengaluru, Karnataka, India 1 month ago\n\nApple\nData Science Intern Data Science Intern Sony Research India Bengaluru, Karnataka, India 3 weeks ago\n\nSony Research India\nResearch Scientist PhD Intern, Summer 2027 Research Scientist PhD Intern, Summer 2027 Google Hyderabad, Telangana, India 3 days ago\n\nGoogle\nApplied Scientist Applied Scientist Meril Bengaluru, Karnataka, India 3 weeks ago\n\nMeril\nAI Agent Engineer Intern AI Agent Engineer Intern Lexsi Labs Mumbai Metropolitan Region 1 day ago\n\nLexsi Labs\nAI Agent Engineer Intern AI Agent Engineer Intern Lexsi Labs Mumbai Metropolitan Region 3 months ago\n\nLexsi Labs\nResearch Intern (PhD), AI-Scale Protocols & Simulation Research Intern (PhD), AI-Scale Protocols & Simulation Marvell Technology Hyderabad, Telangana, India 5 days ago\n\nMarvell Technology\nResearch Intern (PhD), Autonomous Infrastructure and Telemetry Research Intern (PhD), Autonomous Infrastructure and Telemetry Marvell Technology Hyderabad, Telangana, India 6 days ago\n\nMarvell Technology\nPhD Research Intern PhD Research Intern Dolby Laboratories Bengaluru, Karnataka, India 1 week ago\n\nDolby Laboratories\nFoundational Internship - Technology & Intellectual Media Foundational Internship - Technology & Intellectual Media Arivula Technologies Chennai, Tamil Nadu, India 1 day ago\n\nArivula Technologies\nAI/ML Intern AI/ML Intern Scyverge Bengaluru, Karnataka, India 1 week ago\n\nScyverge\nAI/ML Engineering Intern AI/ML Engineering Intern Daice Labs India 1 week ago\n\nDaice Labs\nArtificial Intelligence Intern Artificial Intelligence Intern ThinkNovaa India 6 hours ago\n\nThinkNovaa\nMachine Learning Intern Machine Learning Intern ThinkNovaa India 7 hours ago\n\nThinkNovaa\n2027 Intern - Research PhD Intern 2027 Intern - Research PhD Intern Adobe Bengaluru East, Karnataka, India 1 week ago\n\nAdobe\nARTIFICIAL INTELLIGENCE FRESHER INTERN ARTIFICIAL INTELLIGENCE FRESHER INTERN InLighnX Global Pvt Ltd (InLighn Tech) India 13 hours ago\n\nInLighnX Global Pvt Ltd (InLighn Tech)\nIBM Research/Research Software - Intern IBM Research/Research Software - Intern IBM Bengaluru, Karnataka, India 1 week ago\n\nIBM\nML Intern ML Intern Training Basket Noida, Uttar Pradesh, India 3 weeks ago\n\nTraining Basket\nIBM Research/Research Software - Intern IBM Research/Research Software - Intern IBM Gurgaon, Haryana, India 1 week ago\n\nIBM\nArtificial Intelligence Intern Artificial Intelligence Intern eTeam Noida, Uttar Pradesh, India 5 days ago\n\neTeam\nData Science Intern Data Science Intern Vortenza Systems India 1 hour ago\n\nVortenza Systems\nArtificial Intelligence Intern Artificial Intelligence Intern Jobs4PanIndia India 7 hours ago\n\nJobs4PanIndia\nArtificial Intelligence Intern Artificial Intelligence Intern Jobs4PanIndia India 6 hours ago\n\nJobs4PanIndia\nArtificial Intelligence Intern (Python, Machine Learning, NLP, Prompt Engineering) | Remote Artificial Intelligence Intern (Python, Machine Learning, NLP, Prompt Engineering) | Remote Crossing Infotech India 13 hours ago\n\nCrossing Infotech\nAI Intern AI Intern Faclon Labs Mumbai Metropolitan Region 4 months ago\n\nFaclon Labs\nResearch Intern (PhD), Storage Systems for AI Research Intern (PhD), Storage Systems for AI Marvell Technology Hyderabad, Telangana, India 6 days ago\n\nMarvell Technology\nMachine Learning Intern Machine Learning Intern Skillzen Loop India 1 day ago\n\nSkillzen Loop\nAI/ML Intern AI/ML Intern Skillzen Loop India 1 day ago\n\nSkillzen Loop\nAI/ML Intern AI/ML Intern Dimakh Consultants Pvt.Ltd Pune/Pimpri-Chinchwad Area 1 week ago\n\nDimakh Consultants Pvt.Ltd\nPhD Intern, Apple Ads (Machine Learning) PhD Intern, Apple Ads (Machine Learning) Apple Hyderabad, Telangana, India 1 month ago\n\nApple\nMachine Learning Intern (Python, Scikit-learn, Pandas, Data Preprocessing) | Remote Machine Learning Intern (Python, Scikit-learn, Pandas, Data Preprocessing) | Remote Crossing Infotech India 13 hours ago\n\nCrossing Infotech\nData Science Intern Data Science Intern Devryxa India 1 hour ago\n\nDevryxa\nMachine Learning | Entry Level | Fresher Internship (Python, Scikit-learn, Model Evaluation) Machine Learning | Entry Level | Fresher Internship (Python, Scikit-learn, Model Evaluation) MediNex Workforce India 13 hours ago\n\nMediNex Workforce\nArtificial Intelligence Intern Artificial Intelligence Intern Applogika Hyderabad, Telangana, India 1 day ago\n\nApplogika\nAI Interns AI Interns Ai Disha Learning Hyderabad, Telangana, India 1 day ago\n\nAi Disha Learning\nFounder's office (intern) Founder's office (intern) Norvia Labs India 3 days ago\n\nNorvia Labs\nDecision Scientist Intern Decision Scientist Intern The India Prosperity Initiative Gurugram, Haryana, India 3 weeks ago\n\nThe India Prosperity Initiative\nResearch/PhD Research/PhD Hewlett Packard Enterprise Bengaluru, Karnataka, India 1 day ago\n\nHewlett Packard Enterprise\nArtificial Intelligence | Entry Level | Fresher Internship (Python, LLM APIs, Prompt Engineering) Artificial Intelligence | Entry Level | Fresher Internship (Python, LLM APIs, Prompt Engineering) MediNex Workforce India 13 hours ago\n\nMediNex Workforce\nData Science Intern Data Science Intern ThinkNovaa India 7 hours ago\n\nThinkNovaa\nAI Growth Engineer AI Growth Engineer AgentSocialX India 22 hours ago\n\nAgentSocialX\nPerception Engineer - Apprentice Perception Engineer - Apprentice Origin Bengaluru, Karnataka, India 1 week ago\n\nOrigin\nVoice AI Internship in Delhi Voice AI Internship in Delhi Jarvis Technology and Strategy Consulting Delhi, India 1 day ago\n\nJarvis Technology and Strategy Consulting\nSB-1486-AI Engineer Intern SB-1486-AI Engineer Intern Softobiz Kochi, Kerala, India 2 months ago\n\nSoftobiz\nData Science Intern Data Science Intern ArcelorMittal Digital Consulting Hyderabad, Telangana, India 2 weeks ago\n\nArcelorMittal Digital Consulting\nData Science Intern Data Science Intern DNV Pune Division, Maharashtra, India 1 day ago\n\nDNV\nData Science Intern Data Science Intern Jobs4PanIndia India 7 hours ago\n\nJobs4PanIndia\nData Science Intern Data Science Intern Jobs4PanIndia India 6 hours ago\n\nJobs4PanIndia\nPython AI/ML Intern Python AI/ML Intern Durapid Technologies Private Limited Jaipur, Rajasthan, India 4 months ago\n\nDurapid Technologies Private Limited\nAssociate Software Engineer Intern - YMS Associate Software Engineer Intern - YMS Kaleris Chennai, Tamil Nadu, India 1 week ago\n\nKaleris\nData Science Internship in Bharuch, Junagadh, Ahmedabad, Bhavnagar, Amreli, Vadodara, Gandhinagar, Pune, Surat, Anand, Rajkot, Ankleshwar Data Science Internship in Bharuch, Junagadh, Ahmedabad, Bhavnagar, Amreli, Vadodara, Gandhinagar, Pune, Surat, Anand, Rajkot, Ankleshwar Sparks To Ideas Amreli, Gujarat, India Be an early applicant 3 days ago\n\nSparks To Ideas\nYou've viewed all jobs for this search",
+        "evidence": [
+          {
+            "source_location": "Ai Research Intern Jobs in India (199 Open Roles) | LinkedIn",
+            "text": "Get notified about new Ai Research Intern jobs in India ."
+          },
+          {
+            "source_location": "199 Ai Research Intern Jobs in India",
+            "text": "LLM Research Intern LLM Research Intern Sony Research India Bengaluru, Karnataka, India 3 weeks ago"
+          },
+          {
+            "source_location": "Sony Research India",
+            "text": "AI Research Internship AI Research Internship Lexsi Labs Mumbai Metropolitan Region 3 months ago"
+          },
+          {
+            "source_location": "Lexsi Labs",
+            "text": "AI Research Internship AI Research Internship Lexsi Labs Mumbai Metropolitan Region 1 day ago"
+          },
+          {
+            "source_location": "Lexsi Labs",
+            "text": "PhD Intern, AI ML in Wireless L1/L2 - Fall 2026 PhD Intern, AI ML in Wireless L1/L2 - Fall 2026 NVIDIA Bengaluru, Karnataka, India 2 weeks ago"
+          },
+          {
+            "source_location": "NVIDIA",
+            "text": "Research Intern, Physical AI and GPU (PhD) Research Intern, Physical AI and GPU (PhD) Marvell Technology Hyderabad, Telangana, India 1 week ago"
+          },
+          {
+            "source_location": "Marvell Technology",
+            "text": "Speech Recognition Intern Speech Recognition Intern Sony Research India Bengaluru, Karnataka, India 3 weeks ago"
+          },
+          {
+            "source_location": "Sony Research India",
+            "text": "Research Intern - AI Research Intern - AI GE HealthCare Bengaluru, Karnataka, India 2 weeks ago"
+          },
+          {
+            "source_location": "GE HealthCare",
+            "text": "AI & ML Researcher AI & ML Researcher Vynexa Chandigarh, Chandigarh, India 2 months ago"
+          },
+          {
+            "source_location": "Vynexa",
+            "text": "Machine Learning Intern Machine Learning Intern ERIC Robotics Pune Division, Maharashtra, India 3 months ago"
+          },
+          {
+            "source_location": "ERIC Robotics",
+            "text": "PhD Intern, Machine Learning: MSI, Product Operations Team PhD Intern, Machine Learning: MSI, Product Operations Team Apple Bengaluru, Karnataka, India 1 month ago"
+          },
+          {
+            "source_location": "Apple",
+            "text": "Data Science Intern Data Science Intern Sony Research India Bengaluru, Karnataka, India 3 weeks ago"
+          },
+          {
+            "source_location": "Sony Research India",
+            "text": "Research Scientist PhD Intern, Summer 2027 Research Scientist PhD Intern, Summer 2027 Google Hyderabad, Telangana, India 3 days ago"
+          },
+          {
+            "source_location": "Google",
+            "text": "Applied Scientist Applied Scientist Meril Bengaluru, Karnataka, India 3 weeks ago"
+          },
+          {
+            "source_location": "Meril",
+            "text": "AI Agent Engineer Intern AI Agent Engineer Intern Lexsi Labs Mumbai Metropolitan Region 1 day ago"
+          },
+          {
+            "source_location": "Lexsi Labs",
+            "text": "AI Agent Engineer Intern AI Agent Engineer Intern Lexsi Labs Mumbai Metropolitan Region 3 months ago"
+          },
+          {
+            "source_location": "Lexsi Labs",
+            "text": "Research Intern (PhD), AI-Scale Protocols & Simulation Research Intern (PhD), AI-Scale Protocols & Simulation Marvell Technology Hyderabad, Telangana, India 5 days ago"
+          },
+          {
+            "source_location": "Marvell Technology",
+            "text": "Research Intern (PhD), Autonomous Infrastructure and Telemetry Research Intern (PhD), Autonomous Infrastructure and Telemetry Marvell Technology Hyderabad, Telangana, India 6 days ago"
+          },
+          {
+            "source_location": "Marvell Technology",
+            "text": "PhD Research Intern PhD Research Intern Dolby Laboratories Bengaluru, Karnataka, India 1 week ago"
+          },
+          {
+            "source_location": "Dolby Laboratories",
+            "text": "Foundational Internship - Technology & Intellectual Media Foundational Internship - Technology & Intellectual Media Arivula Technologies Chennai, Tamil Nadu, India 1 day ago"
+          },
+          {
+            "source_location": "Arivula Technologies",
+            "text": "AI/ML Intern AI/ML Intern Scyverge Bengaluru, Karnataka, India 1 week ago"
+          },
+          {
+            "source_location": "Scyverge",
+            "text": "AI/ML Engineering Intern AI/ML Engineering Intern Daice Labs India 1 week ago"
+          },
+          {
+            "source_location": "Daice Labs",
+            "text": "Artificial Intelligence Intern Artificial Intelligence Intern ThinkNovaa India 6 hours ago"
+          },
+          {
+            "source_location": "ThinkNovaa",
+            "text": "Machine Learning Intern Machine Learning Intern ThinkNovaa India 7 hours ago"
+          },
+          {
+            "source_location": "ThinkNovaa",
+            "text": "2027 Intern - Research PhD Intern 2027 Intern - Research PhD Intern Adobe Bengaluru East, Karnataka, India 1 week ago"
+          },
+          {
+            "source_location": "Adobe",
+            "text": "ARTIFICIAL INTELLIGENCE FRESHER INTERN ARTIFICIAL INTELLIGENCE FRESHER INTERN InLighnX Global Pvt Ltd (InLighn Tech) India 13 hours ago"
+          },
+          {
+            "source_location": "InLighnX Global Pvt Ltd (InLighn Tech)",
+            "text": "IBM Research/Research Software - Intern IBM Research/Research Software - Intern IBM Bengaluru, Karnataka, India 1 week ago"
+          },
+          {
+            "source_location": "IBM",
+            "text": "ML Intern ML Intern Training Basket Noida, Uttar Pradesh, India 3 weeks ago"
+          },
+          {
+            "source_location": "Training Basket",
+            "text": "IBM Research/Research Software - Intern IBM Research/Research Software - Intern IBM Gurgaon, Haryana, India 1 week ago"
+          },
+          {
+            "source_location": "IBM",
+            "text": "Artificial Intelligence Intern Artificial Intelligence Intern eTeam Noida, Uttar Pradesh, India 5 days ago"
+          },
+          {
+            "source_location": "eTeam",
+            "text": "Data Science Intern Data Science Intern Vortenza Systems India 1 hour ago"
+          },
+          {
+            "source_location": "Vortenza Systems",
+            "text": "Artificial Intelligence Intern Artificial Intelligence Intern Jobs4PanIndia India 7 hours ago"
+          },
+          {
+            "source_location": "Jobs4PanIndia",
+            "text": "Artificial Intelligence Intern Artificial Intelligence Intern Jobs4PanIndia India 6 hours ago"
+          },
+          {
+            "source_location": "Jobs4PanIndia",
+            "text": "Artificial Intelligence Intern (Python, Machine Learning, NLP, Prompt Engineering) | Remote Artificial Intelligence Intern (Python, Machine Learning, NLP, Prompt Engineering) | Remote Crossing Infotech India 13 hours ago"
+          },
+          {
+            "source_location": "Crossing Infotech",
+            "text": "AI Intern AI Intern Faclon Labs Mumbai Metropolitan Region 4 months ago"
+          },
+          {
+            "source_location": "Faclon Labs",
+            "text": "Research Intern (PhD), Storage Systems for AI Research Intern (PhD), Storage Systems for AI Marvell Technology Hyderabad, Telangana, India 6 days ago"
+          },
+          {
+            "source_location": "Marvell Technology",
+            "text": "Machine Learning Intern Machine Learning Intern Skillzen Loop India 1 day ago"
+          },
+          {
+            "source_location": "Skillzen Loop",
+            "text": "AI/ML Intern AI/ML Intern Skillzen Loop India 1 day ago"
+          },
+          {
+            "source_location": "Skillzen Loop",
+            "text": "AI/ML Intern AI/ML Intern Dimakh Consultants Pvt.Ltd Pune/Pimpri-Chinchwad Area 1 week ago"
+          },
+          {
+            "source_location": "Dimakh Consultants Pvt.Ltd",
+            "text": "PhD Intern, Apple Ads (Machine Learning) PhD Intern, Apple Ads (Machine Learning) Apple Hyderabad, Telangana, India 1 month ago"
+          },
+          {
+            "source_location": "Apple",
+            "text": "Machine Learning Intern (Python, Scikit-learn, Pandas, Data Preprocessing) | Remote Machine Learning Intern (Python, Scikit-learn, Pandas, Data Preprocessing) | Remote Crossing Infotech India 13 hours ago"
+          },
+          {
+            "source_location": "Crossing Infotech",
+            "text": "Data Science Intern Data Science Intern Devryxa India 1 hour ago"
+          },
+          {
+            "source_location": "Devryxa",
+            "text": "Machine Learning | Entry Level | Fresher Internship (Python, Scikit-learn, Model Evaluation) Machine Learning | Entry Level | Fresher Internship (Python, Scikit-learn, Model Evaluation) MediNex Workforce India 13 hours ago"
+          },
+          {
+            "source_location": "MediNex Workforce",
+            "text": "Artificial Intelligence Intern Artificial Intelligence Intern Applogika Hyderabad, Telangana, India 1 day ago"
+          },
+          {
+            "source_location": "Applogika",
+            "text": "AI Interns AI Interns Ai Disha Learning Hyderabad, Telangana, India 1 day ago"
+          },
+          {
+            "source_location": "Ai Disha Learning",
+            "text": "Founder's office (intern) Founder's office (intern) Norvia Labs India 3 days ago"
+          },
+          {
+            "source_location": "Norvia Labs",
+            "text": "Decision Scientist Intern Decision Scientist Intern The India Prosperity Initiative Gurugram, Haryana, India 3 weeks ago"
+          },
+          {
+            "source_location": "The India Prosperity Initiative",
+            "text": "Research/PhD Research/PhD Hewlett Packard Enterprise Bengaluru, Karnataka, India 1 day ago"
+          },
+          {
+            "source_location": "Hewlett Packard Enterprise",
+            "text": "Artificial Intelligence | Entry Level | Fresher Internship (Python, LLM APIs, Prompt Engineering) Artificial Intelligence | Entry Level | Fresher Internship (Python, LLM APIs, Prompt Engineering) MediNex Workforce India 13 hours ago"
+          },
+          {
+            "source_location": "MediNex Workforce",
+            "text": "Data Science Intern Data Science Intern ThinkNovaa India 7 hours ago"
+          },
+          {
+            "source_location": "ThinkNovaa",
+            "text": "AI Growth Engineer AI Growth Engineer AgentSocialX India 22 hours ago"
+          },
+          {
+            "source_location": "AgentSocialX",
+            "text": "Perception Engineer - Apprentice Perception Engineer - Apprentice Origin Bengaluru, Karnataka, India 1 week ago"
+          },
+          {
+            "source_location": "Origin",
+            "text": "Voice AI Internship in Delhi Voice AI Internship in Delhi Jarvis Technology and Strategy Consulting Delhi, India 1 day ago"
+          },
+          {
+            "source_location": "Jarvis Technology and Strategy Consulting",
+            "text": "SB-1486-AI Engineer Intern SB-1486-AI Engineer Intern Softobiz Kochi, Kerala, India 2 months ago"
+          },
+          {
+            "source_location": "Softobiz",
+            "text": "Data Science Intern Data Science Intern ArcelorMittal Digital Consulting Hyderabad, Telangana, India 2 weeks ago"
+          },
+          {
+            "source_location": "ArcelorMittal Digital Consulting",
+            "text": "Data Science Intern Data Science Intern DNV Pune Division, Maharashtra, India 1 day ago"
+          },
+          {
+            "source_location": "DNV",
+            "text": "Data Science Intern Data Science Intern Jobs4PanIndia India 7 hours ago"
+          },
+          {
+            "source_location": "Jobs4PanIndia",
+            "text": "Data Science Intern Data Science Intern Jobs4PanIndia India 6 hours ago"
+          },
+          {
+            "source_location": "Jobs4PanIndia",
+            "text": "Python AI/ML Intern Python AI/ML Intern Durapid Technologies Private Limited Jaipur, Rajasthan, India 4 months ago"
+          },
+          {
+            "source_location": "Durapid Technologies Private Limited",
+            "text": "Associate Software Engineer Intern - YMS Associate Software Engineer Intern - YMS Kaleris Chennai, Tamil Nadu, India 1 week ago"
+          },
+          {
+            "source_location": "Kaleris",
+            "text": "Data Science Internship in Bharuch, Junagadh, Ahmedabad, Bhavnagar, Amreli, Vadodara, Gandhinagar, Pune, Surat, Anand, Rajkot, Ankleshwar Data Science Internship in Bharuch, Junagadh, Ahmedabad, Bhavnagar, Amreli, Vadodara, Gandhinagar, Pune, Surat, Anand, Rajkot, Ankleshwar Sparks To Ideas Amreli, Gujarat, India Be an early applicant 3 days ago"
+          },
+          {
+            "source_location": "Sparks To Ideas",
+            "text": "You've viewed all jobs for this search"
+          }
+        ],
+        "error": null
+      }
+    }
+  ]
+}

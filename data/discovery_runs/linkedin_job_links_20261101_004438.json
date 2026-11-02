@@ -1,0 +1,1667 @@
+{
+  "generated_at": "2026-11-01T00:44:38.937658+05:30",
+  "source_page_count": 2,
+  "successful_pages": 2,
+  "failed_pages": 0,
+  "total_link_occurrences": 120,
+  "unique_job_urls": 75,
+  "pages": [
+    {
+      "source_page_url": "https://in.linkedin.com/jobs/ai-internship-paid-jobs",
+      "fetch_status": "fetched",
+      "final_url": "https://in.linkedin.com/jobs/ai-internship-paid-jobs",
+      "link_count": 60,
+      "links": [
+        {
+          "job_url": "https://www.linkedin.com/jobs/view/data-science-intern-at-sony-research-india-4478080141",
+          "anchor_text": "Data Science Intern",
+          "source_page_url": "https://in.linkedin.com/jobs/ai-internship-paid-jobs",
+          "link_source": "linkedin_listing_html",
+          "resolution_status": "unverified_link",
+          "also_found_on": [
+            "https://in.linkedin.com/jobs/ai-research-intern-jobs"
+          ]
+        },
+        {
+          "job_url": "https://www.linkedin.com/jobs/view/phd-intern-ai-ml-in-wireless-l1-l2-fall-2026-at-nvidia-4460088429",
+          "anchor_text": "PhD Intern, AI ML in Wireless L1/L2 - Fall 2026",
+          "source_page_url": "https://in.linkedin.com/jobs/ai-internship-paid-jobs",
+          "link_source": "linkedin_listing_html",
+          "resolution_status": "unverified_link",
+          "also_found_on": [
+            "https://in.linkedin.com/jobs/ai-research-intern-jobs"
+          ]
+        },
+        {
+          "job_url": "https://www.linkedin.com/jobs/view/phd-intern-apple-ads-machine-learning-at-apple-4468464421",
+          "anchor_text": "PhD Intern, Apple Ads (Machine Learning)",
+          "source_page_url": "https://in.linkedin.com/jobs/ai-internship-paid-jobs",
+          "link_source": "linkedin_listing_html",
+          "resolution_status": "unverified_link",
+          "also_found_on": [
+            "https://in.linkedin.com/jobs/ai-research-intern-jobs"
+          ]
+        },
+        {
+          "job_url": "https://www.linkedin.com/jobs/view/phd-intern-machine-learning-msi-product-operations-team-at-apple-4467834348",
+          "anchor_text": "PhD Intern, Machine Learning: MSI, Product Operations Team",
+          "source_page_url": "https://in.linkedin.com/jobs/ai-internship-paid-jobs",
+          "link_source": "linkedin_listing_html",
+          "resolution_status": "unverified_link",
+          "also_found_on": [
+            "https://in.linkedin.com/jobs/ai-research-intern-jobs"
+          ]
+        },
+        {
+          "job_url": "https://www.linkedin.com/jobs/view/artificial-intelligence-intern-python-machine-learning-nlp-prompt-engineering-remote-at-crossing-infotech-4485134405",
+          "anchor_text": "Artificial Intelligence Intern (Python, Machine Learning, NLP, Prompt Engineering) | Remote",
+          "source_page_url": "https://in.linkedin.com/jobs/ai-internship-paid-jobs",
+          "link_source": "linkedin_listing_html",
+          "resolution_status": "unverified_link",
+          "also_found_on": [
+            "https://in.linkedin.com/jobs/ai-research-intern-jobs"
+          ]
+        },
+        {
+          "job_url": "https://www.linkedin.com/jobs/view/artificial-intelligence-intern-at-applogika-4485297033",
+          "anchor_text": "Artificial Intelligence Intern",
+          "source_page_url": "https://in.linkedin.com/jobs/ai-internship-paid-jobs",
+          "link_source": "linkedin_listing_html",
+          "resolution_status": "unverified_link",
+          "also_found_on": [
+            "https://in.linkedin.com/jobs/ai-research-intern-jobs"
+          ]
+        },
+        {
+          "job_url": "https://www.linkedin.com/jobs/view/ai-growth-engineer-at-agentsocialx-4484886843",
+          "anchor_text": "AI Growth Engineer",
+          "source_page_url": "https://in.linkedin.com/jobs/ai-internship-paid-jobs",
+          "link_source": "linkedin_listing_html",
+          "resolution_status": "unverified_link",
+          "also_found_on": [
+            "https://in.linkedin.com/jobs/ai-research-intern-jobs"
+          ]
+        },
+        {
+          "job_url": "https://www.linkedin.com/jobs/view/ai-agent-engineer-intern-at-lexsi-labs-4484823866",
+          "anchor_text": "AI Agent Engineer Intern",
+          "source_page_url": "https://in.linkedin.com/jobs/ai-internship-paid-jobs",
+          "link_source": "linkedin_listing_html",
+          "resolution_status": "unverified_link",
+          "also_found_on": [
+            "https://in.linkedin.com/jobs/ai-research-intern-jobs"
+          ]
+        },
+        {
+          "job_url": "https://www.linkedin.com/jobs/view/ibm-research-research-software-intern-at-ibm-4480620993",
+          "anchor_text": "IBM Research/Research Software - Intern",
+          "source_page_url": "https://in.linkedin.com/jobs/ai-internship-paid-jobs",
+          "link_source": "linkedin_listing_html",
+          "resolution_status": "unverified_link",
+          "also_found_on": [
+            "https://in.linkedin.com/jobs/ai-research-intern-jobs"
+          ]
+        },
+        {
+          "job_url": "https://www.linkedin.com/jobs/view/machine-learning-intern-at-thinknovaa-4485152190",
+          "anchor_text": "Machine Learning Intern",
+          "source_page_url": "https://in.linkedin.com/jobs/ai-internship-paid-jobs",
+          "link_source": "linkedin_listing_html",
+          "resolution_status": "unverified_link",
+          "also_found_on": [
+            "https://in.linkedin.com/jobs/ai-research-intern-jobs"
+          ]
+        },
+        {
+          "job_url": "https://www.linkedin.com/jobs/view/ai-agent-engineer-intern-at-lexsi-labs-4437573631",
+          "anchor_text": "AI Agent Engineer Intern",
+          "source_page_url": "https://in.linkedin.com/jobs/ai-internship-paid-jobs",
+          "link_source": "linkedin_listing_html",
+          "resolution_status": "unverified_link",
+          "also_found_on": [
+            "https://in.linkedin.com/jobs/ai-research-intern-jobs"
+          ]
+        },
+        {
+          "job_url": "https://www.linkedin.com/jobs/view/machine-learning-intern-python-scikit-learn-pandas-data-preprocessing-remote-at-crossing-infotech-4485138357",
+          "anchor_text": "Machine Learning Intern (Python, Scikit-learn, Pandas, Data Preprocessing) | Remote",
+          "source_page_url": "https://in.linkedin.com/jobs/ai-internship-paid-jobs",
+          "link_source": "linkedin_listing_html",
+          "resolution_status": "unverified_link",
+          "also_found_on": [
+            "https://in.linkedin.com/jobs/ai-research-intern-jobs"
+          ]
+        },
+        {
+          "job_url": "https://www.linkedin.com/jobs/view/artificial-intelligence-intern-at-jobs4panindia-4485151241",
+          "anchor_text": "Artificial Intelligence Intern",
+          "source_page_url": "https://in.linkedin.com/jobs/ai-internship-paid-jobs",
+          "link_source": "linkedin_listing_html",
+          "resolution_status": "unverified_link",
+          "also_found_on": [
+            "https://in.linkedin.com/jobs/ai-research-intern-jobs"
+          ]
+        },
+        {
+          "job_url": "https://www.linkedin.com/jobs/view/artificial-intelligence-intern-at-jobs4panindia-4485162103",
+          "anchor_text": "Artificial Intelligence Intern",
+          "source_page_url": "https://in.linkedin.com/jobs/ai-internship-paid-jobs",
+          "link_source": "linkedin_listing_html",
+          "resolution_status": "unverified_link",
+          "also_found_on": [
+            "https://in.linkedin.com/jobs/ai-research-intern-jobs"
+          ]
+        },
+        {
+          "job_url": "https://www.linkedin.com/jobs/view/speech-recognition-intern-at-sony-research-india-4478019878",
+          "anchor_text": "Speech Recognition Intern",
+          "source_page_url": "https://in.linkedin.com/jobs/ai-internship-paid-jobs",
+          "link_source": "linkedin_listing_html",
+          "resolution_status": "unverified_link",
+          "also_found_on": [
+            "https://in.linkedin.com/jobs/ai-research-intern-jobs"
+          ]
+        },
+        {
+          "job_url": "https://www.linkedin.com/jobs/view/ai-implementation-intern-at-sprinto-4474250490",
+          "anchor_text": "AI Implementation Intern",
+          "source_page_url": "https://in.linkedin.com/jobs/ai-internship-paid-jobs",
+          "link_source": "linkedin_listing_html",
+          "resolution_status": "unverified_link"
+        },
+        {
+          "job_url": "https://www.linkedin.com/jobs/view/artificial-intelligence-intern-at-thinknovaa-4485166098",
+          "anchor_text": "Artificial Intelligence Intern",
+          "source_page_url": "https://in.linkedin.com/jobs/ai-internship-paid-jobs",
+          "link_source": "linkedin_listing_html",
+          "resolution_status": "unverified_link",
+          "also_found_on": [
+            "https://in.linkedin.com/jobs/ai-research-intern-jobs"
+          ]
+        },
+        {
+          "job_url": "https://www.linkedin.com/jobs/view/llm-research-intern-at-sony-research-india-4478061801",
+          "anchor_text": "LLM Research Intern",
+          "source_page_url": "https://in.linkedin.com/jobs/ai-internship-paid-jobs",
+          "link_source": "linkedin_listing_html",
+          "resolution_status": "unverified_link",
+          "also_found_on": [
+            "https://in.linkedin.com/jobs/ai-research-intern-jobs"
+          ]
+        },
+        {
+          "job_url": "https://www.linkedin.com/jobs/view/ibm-research-research-software-intern-at-ibm-4480635433",
+          "anchor_text": "IBM Research/Research Software - Intern",
+          "source_page_url": "https://in.linkedin.com/jobs/ai-internship-paid-jobs",
+          "link_source": "linkedin_listing_html",
+          "resolution_status": "unverified_link",
+          "also_found_on": [
+            "https://in.linkedin.com/jobs/ai-research-intern-jobs"
+          ]
+        },
+        {
+          "job_url": "https://www.linkedin.com/jobs/view/ai-research-internship-at-lexsi-labs-4437374146",
+          "anchor_text": "AI Research Internship",
+          "source_page_url": "https://in.linkedin.com/jobs/ai-internship-paid-jobs",
+          "link_source": "linkedin_listing_html",
+          "resolution_status": "unverified_link",
+          "also_found_on": [
+            "https://in.linkedin.com/jobs/ai-research-intern-jobs"
+          ]
+        },
+        {
+          "job_url": "https://www.linkedin.com/jobs/view/applied-scientist-at-meril-4476253795",
+          "anchor_text": "Applied Scientist",
+          "source_page_url": "https://in.linkedin.com/jobs/ai-internship-paid-jobs",
+          "link_source": "linkedin_listing_html",
+          "resolution_status": "unverified_link",
+          "also_found_on": [
+            "https://in.linkedin.com/jobs/ai-research-intern-jobs"
+          ]
+        },
+        {
+          "job_url": "https://www.linkedin.com/jobs/view/machine-learning-entry-level-fresher-internship-python-scikit-learn-model-evaluation-at-medinex-workforce-4485126510",
+          "anchor_text": "Machine Learning | Entry Level | Fresher Internship (Python, Scikit-learn, Model Evaluation)",
+          "source_page_url": "https://in.linkedin.com/jobs/ai-internship-paid-jobs",
+          "link_source": "linkedin_listing_html",
+          "resolution_status": "unverified_link",
+          "also_found_on": [
+            "https://in.linkedin.com/jobs/ai-research-intern-jobs"
+          ]
+        },
+        {
+          "job_url": "https://www.linkedin.com/jobs/view/information-technology-intern-at-procter-gamble-4482529624",
+          "anchor_text": "Information Technology Intern",
+          "source_page_url": "https://in.linkedin.com/jobs/ai-internship-paid-jobs",
+          "link_source": "linkedin_listing_html",
+          "resolution_status": "unverified_link"
+        },
+        {
+          "job_url": "https://www.linkedin.com/jobs/view/artificial-intelligence-entry-level-fresher-internship-python-llm-apis-prompt-engineering-at-medinex-workforce-4485132531",
+          "anchor_text": "Artificial Intelligence | Entry Level | Fresher Internship (Python, LLM APIs, Prompt Engineering)",
+          "source_page_url": "https://in.linkedin.com/jobs/ai-internship-paid-jobs",
+          "link_source": "linkedin_listing_html",
+          "resolution_status": "unverified_link",
+          "also_found_on": [
+            "https://in.linkedin.com/jobs/ai-research-intern-jobs"
+          ]
+        },
+        {
+          "job_url": "https://www.linkedin.com/jobs/view/2027-intern-research-phd-intern-at-adobe-4480240733",
+          "anchor_text": "2027 Intern - Research PhD Intern",
+          "source_page_url": "https://in.linkedin.com/jobs/ai-internship-paid-jobs",
+          "link_source": "linkedin_listing_html",
+          "resolution_status": "unverified_link",
+          "also_found_on": [
+            "https://in.linkedin.com/jobs/ai-research-intern-jobs"
+          ]
+        },
+        {
+          "job_url": "https://www.linkedin.com/jobs/view/ai-research-internship-at-lexsi-labs-4484820748",
+          "anchor_text": "AI Research Internship",
+          "source_page_url": "https://in.linkedin.com/jobs/ai-internship-paid-jobs",
+          "link_source": "linkedin_listing_html",
+          "resolution_status": "unverified_link",
+          "also_found_on": [
+            "https://in.linkedin.com/jobs/ai-research-intern-jobs"
+          ]
+        },
+        {
+          "job_url": "https://www.linkedin.com/jobs/view/ai-ml-engineering-intern-at-daice-labs-4480759259",
+          "anchor_text": "AI/ML Engineering Intern",
+          "source_page_url": "https://in.linkedin.com/jobs/ai-internship-paid-jobs",
+          "link_source": "linkedin_listing_html",
+          "resolution_status": "unverified_link",
+          "also_found_on": [
+            "https://in.linkedin.com/jobs/ai-research-intern-jobs"
+          ]
+        },
+        {
+          "job_url": "https://www.linkedin.com/jobs/view/machine-learning-intern-at-skillzen-loop-4483479146",
+          "anchor_text": "Machine Learning Intern",
+          "source_page_url": "https://in.linkedin.com/jobs/ai-internship-paid-jobs",
+          "link_source": "linkedin_listing_html",
+          "resolution_status": "unverified_link",
+          "also_found_on": [
+            "https://in.linkedin.com/jobs/ai-research-intern-jobs"
+          ]
+        },
+        {
+          "job_url": "https://www.linkedin.com/jobs/view/research-intern-ai-at-ge-healthcare-4461088583",
+          "anchor_text": "Research Intern - AI",
+          "source_page_url": "https://in.linkedin.com/jobs/ai-internship-paid-jobs",
+          "link_source": "linkedin_listing_html",
+          "resolution_status": "unverified_link",
+          "also_found_on": [
+            "https://in.linkedin.com/jobs/ai-research-intern-jobs"
+          ]
+        },
+        {
+          "job_url": "https://www.linkedin.com/jobs/view/ai-ml-intern-at-skillzen-loop-4483466561",
+          "anchor_text": "AI/ML Intern",
+          "source_page_url": "https://in.linkedin.com/jobs/ai-internship-paid-jobs",
+          "link_source": "linkedin_listing_html",
+          "resolution_status": "unverified_link",
+          "also_found_on": [
+            "https://in.linkedin.com/jobs/ai-research-intern-jobs"
+          ]
+        },
+        {
+          "job_url": "https://www.linkedin.com/jobs/view/ai-internship-at-delaplex-4448982232",
+          "anchor_text": "AI Internship",
+          "source_page_url": "https://in.linkedin.com/jobs/ai-internship-paid-jobs",
+          "link_source": "linkedin_listing_html",
+          "resolution_status": "unverified_link"
+        },
+        {
+          "job_url": "https://www.linkedin.com/jobs/view/artificial-intelligence-intern-at-eteam-4483543201",
+          "anchor_text": "Artificial Intelligence Intern",
+          "source_page_url": "https://in.linkedin.com/jobs/ai-internship-paid-jobs",
+          "link_source": "linkedin_listing_html",
+          "resolution_status": "unverified_link",
+          "also_found_on": [
+            "https://in.linkedin.com/jobs/ai-research-intern-jobs"
+          ]
+        },
+        {
+          "job_url": "https://www.linkedin.com/jobs/view/software-engineer-intern-at-meril-4483015017",
+          "anchor_text": "Software Engineer Intern",
+          "source_page_url": "https://in.linkedin.com/jobs/ai-internship-paid-jobs",
+          "link_source": "linkedin_listing_html",
+          "resolution_status": "unverified_link"
+        },
+        {
+          "job_url": "https://www.linkedin.com/jobs/view/data-science-intern-at-thinknovaa-4485146990",
+          "anchor_text": "Data Science Intern",
+          "source_page_url": "https://in.linkedin.com/jobs/ai-internship-paid-jobs",
+          "link_source": "linkedin_listing_html",
+          "resolution_status": "unverified_link",
+          "also_found_on": [
+            "https://in.linkedin.com/jobs/ai-research-intern-jobs"
+          ]
+        },
+        {
+          "job_url": "https://www.linkedin.com/jobs/view/data-science-intern-at-vortenza-systems-4485172448",
+          "anchor_text": "Data Science Intern",
+          "source_page_url": "https://in.linkedin.com/jobs/ai-internship-paid-jobs",
+          "link_source": "linkedin_listing_html",
+          "resolution_status": "unverified_link",
+          "also_found_on": [
+            "https://in.linkedin.com/jobs/ai-research-intern-jobs"
+          ]
+        },
+        {
+          "job_url": "https://www.linkedin.com/jobs/view/ai-interns-at-ai-disha-learning-4483429483",
+          "anchor_text": "AI Interns",
+          "source_page_url": "https://in.linkedin.com/jobs/ai-internship-paid-jobs",
+          "link_source": "linkedin_listing_html",
+          "resolution_status": "unverified_link",
+          "also_found_on": [
+            "https://in.linkedin.com/jobs/ai-research-intern-jobs"
+          ]
+        },
+        {
+          "job_url": "https://www.linkedin.com/jobs/view/sb-1486-ai-engineer-intern-at-softobiz-4455976305",
+          "anchor_text": "SB-1486-AI Engineer Intern",
+          "source_page_url": "https://in.linkedin.com/jobs/ai-internship-paid-jobs",
+          "link_source": "linkedin_listing_html",
+          "resolution_status": "unverified_link",
+          "also_found_on": [
+            "https://in.linkedin.com/jobs/ai-research-intern-jobs"
+          ]
+        },
+        {
+          "job_url": "https://www.linkedin.com/jobs/view/python-ai-ml-intern-at-durapid-technologies-private-limited-4424329865",
+          "anchor_text": "Python AI/ML Intern",
+          "source_page_url": "https://in.linkedin.com/jobs/ai-internship-paid-jobs",
+          "link_source": "linkedin_listing_html",
+          "resolution_status": "unverified_link",
+          "also_found_on": [
+            "https://in.linkedin.com/jobs/ai-research-intern-jobs"
+          ]
+        },
+        {
+          "job_url": "https://www.linkedin.com/jobs/view/voice-ai-internship-in-delhi-at-jarvis-technology-and-strategy-consulting-4485279030",
+          "anchor_text": "Voice AI Internship in Delhi",
+          "source_page_url": "https://in.linkedin.com/jobs/ai-internship-paid-jobs",
+          "link_source": "linkedin_listing_html",
+          "resolution_status": "unverified_link",
+          "also_found_on": [
+            "https://in.linkedin.com/jobs/ai-research-intern-jobs"
+          ]
+        },
+        {
+          "job_url": "https://www.linkedin.com/jobs/view/artificial-intelligence-fresher-intern-at-inlighnx-global-pvt-ltd-inlighn-tech-4485149229",
+          "anchor_text": "ARTIFICIAL INTELLIGENCE FRESHER INTERN",
+          "source_page_url": "https://in.linkedin.com/jobs/ai-internship-paid-jobs",
+          "link_source": "linkedin_listing_html",
+          "resolution_status": "unverified_link",
+          "also_found_on": [
+            "https://in.linkedin.com/jobs/ai-research-intern-jobs"
+          ]
+        },
+        {
+          "job_url": "https://www.linkedin.com/jobs/view/ai-engineer-intern-at-discover-dollar-inc-4476231706",
+          "anchor_text": "AI Engineer Intern",
+          "source_page_url": "https://in.linkedin.com/jobs/ai-internship-paid-jobs",
+          "link_source": "linkedin_listing_html",
+          "resolution_status": "unverified_link"
+        },
+        {
+          "job_url": "https://www.linkedin.com/jobs/view/ml-intern-at-training-basket-4475939740",
+          "anchor_text": "ML Intern",
+          "source_page_url": "https://in.linkedin.com/jobs/ai-internship-paid-jobs",
+          "link_source": "linkedin_listing_html",
+          "resolution_status": "unverified_link",
+          "also_found_on": [
+            "https://in.linkedin.com/jobs/ai-research-intern-jobs"
+          ]
+        },
+        {
+          "job_url": "https://www.linkedin.com/jobs/view/research-scientist-phd-intern-summer-2027-at-google-4483862672",
+          "anchor_text": "Research Scientist PhD Intern, Summer 2027",
+          "source_page_url": "https://in.linkedin.com/jobs/ai-internship-paid-jobs",
+          "link_source": "linkedin_listing_html",
+          "resolution_status": "unverified_link",
+          "also_found_on": [
+            "https://in.linkedin.com/jobs/ai-research-intern-jobs"
+          ]
+        },
+        {
+          "job_url": "https://www.linkedin.com/jobs/view/machine-learning-intern-at-eric-robotics-4459699809",
+          "anchor_text": "Machine Learning Intern",
+          "source_page_url": "https://in.linkedin.com/jobs/ai-internship-paid-jobs",
+          "link_source": "linkedin_listing_html",
+          "resolution_status": "unverified_link",
+          "also_found_on": [
+            "https://in.linkedin.com/jobs/ai-research-intern-jobs"
+          ]
+        },
+        {
+          "job_url": "https://www.linkedin.com/jobs/view/data-science-intern-at-arcelormittal-digital-consulting-4479799924",
+          "anchor_text": "Data Science Intern",
+          "source_page_url": "https://in.linkedin.com/jobs/ai-internship-paid-jobs",
+          "link_source": "linkedin_listing_html",
+          "resolution_status": "unverified_link",
+          "also_found_on": [
+            "https://in.linkedin.com/jobs/ai-research-intern-jobs"
+          ]
+        },
+        {
+          "job_url": "https://www.linkedin.com/jobs/view/ai-ml-intern-at-dimakh-consultants-pvt-ltd-4480650692",
+          "anchor_text": "AI/ML Intern",
+          "source_page_url": "https://in.linkedin.com/jobs/ai-internship-paid-jobs",
+          "link_source": "linkedin_listing_html",
+          "resolution_status": "unverified_link",
+          "also_found_on": [
+            "https://in.linkedin.com/jobs/ai-research-intern-jobs"
+          ]
+        },
+        {
+          "job_url": "https://www.linkedin.com/jobs/view/intern-at-iqvia-4482958369",
+          "anchor_text": "Intern",
+          "source_page_url": "https://in.linkedin.com/jobs/ai-internship-paid-jobs",
+          "link_source": "linkedin_listing_html",
+          "resolution_status": "unverified_link"
+        },
+        {
+          "job_url": "https://www.linkedin.com/jobs/view/ai-business-consultant-intern-at-cbosit-premium-zoho-partner-4479351746",
+          "anchor_text": "AI Business Consultant Intern",
+          "source_page_url": "https://in.linkedin.com/jobs/ai-internship-paid-jobs",
+          "link_source": "linkedin_listing_html",
+          "resolution_status": "unverified_link"
+        },
+        {
+          "job_url": "https://www.linkedin.com/jobs/view/intern-at-iqvia-4482952475",
+          "anchor_text": "Intern",
+          "source_page_url": "https://in.linkedin.com/jobs/ai-internship-paid-jobs",
+          "link_source": "linkedin_listing_html",
+          "resolution_status": "unverified_link"
+        },
+        {
+          "job_url": "https://www.linkedin.com/jobs/view/generative-ai-engineering-intern-%E2%80%94-venxr-at-venxr-4479981345",
+          "anchor_text": "Generative AI Engineering Intern — Venxr",
+          "source_page_url": "https://in.linkedin.com/jobs/ai-internship-paid-jobs",
+          "link_source": "linkedin_listing_html",
+          "resolution_status": "unverified_link"
+        },
+        {
+          "job_url": "https://www.linkedin.com/jobs/view/data-science-intern-at-devryxa-4485157683",
+          "anchor_text": "Data Science Intern",
+          "source_page_url": "https://in.linkedin.com/jobs/ai-internship-paid-jobs",
+          "link_source": "linkedin_listing_html",
+          "resolution_status": "unverified_link",
+          "also_found_on": [
+            "https://in.linkedin.com/jobs/ai-research-intern-jobs"
+          ]
+        },
+        {
+          "job_url": "https://www.linkedin.com/jobs/view/software-development-trainee-at-wex-4485339032",
+          "anchor_text": "Software Development Trainee",
+          "source_page_url": "https://in.linkedin.com/jobs/ai-internship-paid-jobs",
+          "link_source": "linkedin_listing_html",
+          "resolution_status": "unverified_link"
+        },
+        {
+          "job_url": "https://www.linkedin.com/jobs/view/evaluation-insights-intern-ai-delivery-at-blue-machines-ai-4464468962",
+          "anchor_text": "Evaluation & Insights Intern, AI Delivery",
+          "source_page_url": "https://in.linkedin.com/jobs/ai-internship-paid-jobs",
+          "link_source": "linkedin_listing_html",
+          "resolution_status": "unverified_link"
+        },
+        {
+          "job_url": "https://www.linkedin.com/jobs/view/associate-software-engineer-intern-yms-at-kaleris-4471322071",
+          "anchor_text": "Associate Software Engineer Intern - YMS",
+          "source_page_url": "https://in.linkedin.com/jobs/ai-internship-paid-jobs",
+          "link_source": "linkedin_listing_html",
+          "resolution_status": "unverified_link",
+          "also_found_on": [
+            "https://in.linkedin.com/jobs/ai-research-intern-jobs"
+          ]
+        },
+        {
+          "job_url": "https://www.linkedin.com/jobs/view/ai-intern-at-faclon-labs-4435448550",
+          "anchor_text": "AI Intern",
+          "source_page_url": "https://in.linkedin.com/jobs/ai-internship-paid-jobs",
+          "link_source": "linkedin_listing_html",
+          "resolution_status": "unverified_link",
+          "also_found_on": [
+            "https://in.linkedin.com/jobs/ai-research-intern-jobs"
+          ]
+        },
+        {
+          "job_url": "https://www.linkedin.com/jobs/view/product-intern-at-lumenci-4474689695",
+          "anchor_text": "Product Intern",
+          "source_page_url": "https://in.linkedin.com/jobs/ai-internship-paid-jobs",
+          "link_source": "linkedin_listing_html",
+          "resolution_status": "unverified_link"
+        },
+        {
+          "job_url": "https://www.linkedin.com/jobs/view/foundational-internship-technology-intellectual-media-at-arivula-technologies-4484518186",
+          "anchor_text": "Foundational Internship - Technology & Intellectual Media",
+          "source_page_url": "https://in.linkedin.com/jobs/ai-internship-paid-jobs",
+          "link_source": "linkedin_listing_html",
+          "resolution_status": "unverified_link",
+          "also_found_on": [
+            "https://in.linkedin.com/jobs/ai-research-intern-jobs"
+          ]
+        },
+        {
+          "job_url": "https://www.linkedin.com/jobs/view/ai-product-intern-at-park%2B-4478381909",
+          "anchor_text": "AI Product Intern",
+          "source_page_url": "https://in.linkedin.com/jobs/ai-internship-paid-jobs",
+          "link_source": "linkedin_listing_html",
+          "resolution_status": "unverified_link"
+        },
+        {
+          "job_url": "https://www.linkedin.com/jobs/view/software-development-trainee-1-at-wex-4485336089",
+          "anchor_text": "Software Development Trainee-1",
+          "source_page_url": "https://in.linkedin.com/jobs/ai-internship-paid-jobs",
+          "link_source": "linkedin_listing_html",
+          "resolution_status": "unverified_link"
+        },
+        {
+          "job_url": "https://www.linkedin.com/jobs/view/paid-internship-at-academy-4478427837",
+          "anchor_text": "Paid Internship",
+          "source_page_url": "https://in.linkedin.com/jobs/ai-internship-paid-jobs",
+          "link_source": "linkedin_listing_html",
+          "resolution_status": "unverified_link"
+        }
+      ],
+      "error": null,
+      "source_page_title": "Ai Internship Paid Jobs in India (297 Open Roles) | LinkedIn"
+    },
+    {
+      "source_page_url": "https://in.linkedin.com/jobs/ai-research-intern-jobs",
+      "fetch_status": "fetched",
+      "final_url": "https://in.linkedin.com/jobs/ai-research-intern-jobs",
+      "link_count": 60,
+      "links": [
+        {
+          "job_url": "https://www.linkedin.com/jobs/view/llm-research-intern-at-sony-research-india-4478061801",
+          "anchor_text": "LLM Research Intern",
+          "source_page_url": "https://in.linkedin.com/jobs/ai-research-intern-jobs",
+          "link_source": "linkedin_listing_html",
+          "resolution_status": "unverified_link"
+        },
+        {
+          "job_url": "https://www.linkedin.com/jobs/view/ai-research-internship-at-lexsi-labs-4437374146",
+          "anchor_text": "AI Research Internship",
+          "source_page_url": "https://in.linkedin.com/jobs/ai-research-intern-jobs",
+          "link_source": "linkedin_listing_html",
+          "resolution_status": "unverified_link"
+        },
+        {
+          "job_url": "https://www.linkedin.com/jobs/view/ai-research-internship-at-lexsi-labs-4484820748",
+          "anchor_text": "AI Research Internship",
+          "source_page_url": "https://in.linkedin.com/jobs/ai-research-intern-jobs",
+          "link_source": "linkedin_listing_html",
+          "resolution_status": "unverified_link"
+        },
+        {
+          "job_url": "https://www.linkedin.com/jobs/view/phd-intern-ai-ml-in-wireless-l1-l2-fall-2026-at-nvidia-4460088429",
+          "anchor_text": "PhD Intern, AI ML in Wireless L1/L2 - Fall 2026",
+          "source_page_url": "https://in.linkedin.com/jobs/ai-research-intern-jobs",
+          "link_source": "linkedin_listing_html",
+          "resolution_status": "unverified_link"
+        },
+        {
+          "job_url": "https://www.linkedin.com/jobs/view/research-intern-physical-ai-and-gpu-phd-at-marvell-technology-4472914265",
+          "anchor_text": "Research Intern, Physical AI and GPU (PhD)",
+          "source_page_url": "https://in.linkedin.com/jobs/ai-research-intern-jobs",
+          "link_source": "linkedin_listing_html",
+          "resolution_status": "unverified_link"
+        },
+        {
+          "job_url": "https://www.linkedin.com/jobs/view/speech-recognition-intern-at-sony-research-india-4478019878",
+          "anchor_text": "Speech Recognition Intern",
+          "source_page_url": "https://in.linkedin.com/jobs/ai-research-intern-jobs",
+          "link_source": "linkedin_listing_html",
+          "resolution_status": "unverified_link"
+        },
+        {
+          "job_url": "https://www.linkedin.com/jobs/view/research-intern-ai-at-ge-healthcare-4461088583",
+          "anchor_text": "Research Intern - AI",
+          "source_page_url": "https://in.linkedin.com/jobs/ai-research-intern-jobs",
+          "link_source": "linkedin_listing_html",
+          "resolution_status": "unverified_link"
+        },
+        {
+          "job_url": "https://www.linkedin.com/jobs/view/ai-ml-researcher-at-vynexa-4448935991",
+          "anchor_text": "AI & ML Researcher",
+          "source_page_url": "https://in.linkedin.com/jobs/ai-research-intern-jobs",
+          "link_source": "linkedin_listing_html",
+          "resolution_status": "unverified_link"
+        },
+        {
+          "job_url": "https://www.linkedin.com/jobs/view/machine-learning-intern-at-eric-robotics-4459699809",
+          "anchor_text": "Machine Learning Intern",
+          "source_page_url": "https://in.linkedin.com/jobs/ai-research-intern-jobs",
+          "link_source": "linkedin_listing_html",
+          "resolution_status": "unverified_link"
+        },
+        {
+          "job_url": "https://www.linkedin.com/jobs/view/phd-intern-machine-learning-msi-product-operations-team-at-apple-4467834348",
+          "anchor_text": "PhD Intern, Machine Learning: MSI, Product Operations Team",
+          "source_page_url": "https://in.linkedin.com/jobs/ai-research-intern-jobs",
+          "link_source": "linkedin_listing_html",
+          "resolution_status": "unverified_link"
+        },
+        {
+          "job_url": "https://www.linkedin.com/jobs/view/data-science-intern-at-sony-research-india-4478080141",
+          "anchor_text": "Data Science Intern",
+          "source_page_url": "https://in.linkedin.com/jobs/ai-research-intern-jobs",
+          "link_source": "linkedin_listing_html",
+          "resolution_status": "unverified_link"
+        },
+        {
+          "job_url": "https://www.linkedin.com/jobs/view/research-scientist-phd-intern-summer-2027-at-google-4483862672",
+          "anchor_text": "Research Scientist PhD Intern, Summer 2027",
+          "source_page_url": "https://in.linkedin.com/jobs/ai-research-intern-jobs",
+          "link_source": "linkedin_listing_html",
+          "resolution_status": "unverified_link"
+        },
+        {
+          "job_url": "https://www.linkedin.com/jobs/view/applied-scientist-at-meril-4476253795",
+          "anchor_text": "Applied Scientist",
+          "source_page_url": "https://in.linkedin.com/jobs/ai-research-intern-jobs",
+          "link_source": "linkedin_listing_html",
+          "resolution_status": "unverified_link"
+        },
+        {
+          "job_url": "https://www.linkedin.com/jobs/view/ai-agent-engineer-intern-at-lexsi-labs-4484823866",
+          "anchor_text": "AI Agent Engineer Intern",
+          "source_page_url": "https://in.linkedin.com/jobs/ai-research-intern-jobs",
+          "link_source": "linkedin_listing_html",
+          "resolution_status": "unverified_link"
+        },
+        {
+          "job_url": "https://www.linkedin.com/jobs/view/ai-agent-engineer-intern-at-lexsi-labs-4437573631",
+          "anchor_text": "AI Agent Engineer Intern",
+          "source_page_url": "https://in.linkedin.com/jobs/ai-research-intern-jobs",
+          "link_source": "linkedin_listing_html",
+          "resolution_status": "unverified_link"
+        },
+        {
+          "job_url": "https://www.linkedin.com/jobs/view/research-intern-phd-ai-scale-protocols-simulation-at-marvell-technology-4473497099",
+          "anchor_text": "Research Intern (PhD), AI-Scale Protocols & Simulation",
+          "source_page_url": "https://in.linkedin.com/jobs/ai-research-intern-jobs",
+          "link_source": "linkedin_listing_html",
+          "resolution_status": "unverified_link"
+        },
+        {
+          "job_url": "https://www.linkedin.com/jobs/view/research-intern-phd-autonomous-infrastructure-and-telemetry-at-marvell-technology-4473487498",
+          "anchor_text": "Research Intern (PhD), Autonomous Infrastructure and Telemetry",
+          "source_page_url": "https://in.linkedin.com/jobs/ai-research-intern-jobs",
+          "link_source": "linkedin_listing_html",
+          "resolution_status": "unverified_link"
+        },
+        {
+          "job_url": "https://www.linkedin.com/jobs/view/phd-research-intern-at-dolby-laboratories-4473297690",
+          "anchor_text": "PhD Research Intern",
+          "source_page_url": "https://in.linkedin.com/jobs/ai-research-intern-jobs",
+          "link_source": "linkedin_listing_html",
+          "resolution_status": "unverified_link"
+        },
+        {
+          "job_url": "https://www.linkedin.com/jobs/view/foundational-internship-technology-intellectual-media-at-arivula-technologies-4484518186",
+          "anchor_text": "Foundational Internship - Technology & Intellectual Media",
+          "source_page_url": "https://in.linkedin.com/jobs/ai-research-intern-jobs",
+          "link_source": "linkedin_listing_html",
+          "resolution_status": "unverified_link"
+        },
+        {
+          "job_url": "https://www.linkedin.com/jobs/view/ai-ml-intern-at-scyverge-4479956651",
+          "anchor_text": "AI/ML Intern",
+          "source_page_url": "https://in.linkedin.com/jobs/ai-research-intern-jobs",
+          "link_source": "linkedin_listing_html",
+          "resolution_status": "unverified_link"
+        },
+        {
+          "job_url": "https://www.linkedin.com/jobs/view/ai-ml-engineering-intern-at-daice-labs-4480759259",
+          "anchor_text": "AI/ML Engineering Intern",
+          "source_page_url": "https://in.linkedin.com/jobs/ai-research-intern-jobs",
+          "link_source": "linkedin_listing_html",
+          "resolution_status": "unverified_link"
+        },
+        {
+          "job_url": "https://www.linkedin.com/jobs/view/artificial-intelligence-intern-at-thinknovaa-4485166098",
+          "anchor_text": "Artificial Intelligence Intern",
+          "source_page_url": "https://in.linkedin.com/jobs/ai-research-intern-jobs",
+          "link_source": "linkedin_listing_html",
+          "resolution_status": "unverified_link"
+        },
+        {
+          "job_url": "https://www.linkedin.com/jobs/view/machine-learning-intern-at-thinknovaa-4485152190",
+          "anchor_text": "Machine Learning Intern",
+          "source_page_url": "https://in.linkedin.com/jobs/ai-research-intern-jobs",
+          "link_source": "linkedin_listing_html",
+          "resolution_status": "unverified_link"
+        },
+        {
+          "job_url": "https://www.linkedin.com/jobs/view/2027-intern-research-phd-intern-at-adobe-4480240733",
+          "anchor_text": "2027 Intern - Research PhD Intern",
+          "source_page_url": "https://in.linkedin.com/jobs/ai-research-intern-jobs",
+          "link_source": "linkedin_listing_html",
+          "resolution_status": "unverified_link"
+        },
+        {
+          "job_url": "https://www.linkedin.com/jobs/view/artificial-intelligence-fresher-intern-at-inlighnx-global-pvt-ltd-inlighn-tech-4485149229",
+          "anchor_text": "ARTIFICIAL INTELLIGENCE FRESHER INTERN",
+          "source_page_url": "https://in.linkedin.com/jobs/ai-research-intern-jobs",
+          "link_source": "linkedin_listing_html",
+          "resolution_status": "unverified_link"
+        },
+        {
+          "job_url": "https://www.linkedin.com/jobs/view/ibm-research-research-software-intern-at-ibm-4480635433",
+          "anchor_text": "IBM Research/Research Software - Intern",
+          "source_page_url": "https://in.linkedin.com/jobs/ai-research-intern-jobs",
+          "link_source": "linkedin_listing_html",
+          "resolution_status": "unverified_link"
+        },
+        {
+          "job_url": "https://www.linkedin.com/jobs/view/ml-intern-at-training-basket-4475939740",
+          "anchor_text": "ML Intern",
+          "source_page_url": "https://in.linkedin.com/jobs/ai-research-intern-jobs",
+          "link_source": "linkedin_listing_html",
+          "resolution_status": "unverified_link"
+        },
+        {
+          "job_url": "https://www.linkedin.com/jobs/view/ibm-research-research-software-intern-at-ibm-4480620993",
+          "anchor_text": "IBM Research/Research Software - Intern",
+          "source_page_url": "https://in.linkedin.com/jobs/ai-research-intern-jobs",
+          "link_source": "linkedin_listing_html",
+          "resolution_status": "unverified_link"
+        },
+        {
+          "job_url": "https://www.linkedin.com/jobs/view/artificial-intelligence-intern-at-eteam-4483543201",
+          "anchor_text": "Artificial Intelligence Intern",
+          "source_page_url": "https://in.linkedin.com/jobs/ai-research-intern-jobs",
+          "link_source": "linkedin_listing_html",
+          "resolution_status": "unverified_link"
+        },
+        {
+          "job_url": "https://www.linkedin.com/jobs/view/data-science-intern-at-vortenza-systems-4485172448",
+          "anchor_text": "Data Science Intern",
+          "source_page_url": "https://in.linkedin.com/jobs/ai-research-intern-jobs",
+          "link_source": "linkedin_listing_html",
+          "resolution_status": "unverified_link"
+        },
+        {
+          "job_url": "https://www.linkedin.com/jobs/view/artificial-intelligence-intern-at-jobs4panindia-4485162103",
+          "anchor_text": "Artificial Intelligence Intern",
+          "source_page_url": "https://in.linkedin.com/jobs/ai-research-intern-jobs",
+          "link_source": "linkedin_listing_html",
+          "resolution_status": "unverified_link"
+        },
+        {
+          "job_url": "https://www.linkedin.com/jobs/view/artificial-intelligence-intern-at-jobs4panindia-4485151241",
+          "anchor_text": "Artificial Intelligence Intern",
+          "source_page_url": "https://in.linkedin.com/jobs/ai-research-intern-jobs",
+          "link_source": "linkedin_listing_html",
+          "resolution_status": "unverified_link"
+        },
+        {
+          "job_url": "https://www.linkedin.com/jobs/view/artificial-intelligence-intern-python-machine-learning-nlp-prompt-engineering-remote-at-crossing-infotech-4485134405",
+          "anchor_text": "Artificial Intelligence Intern (Python, Machine Learning, NLP, Prompt Engineering) | Remote",
+          "source_page_url": "https://in.linkedin.com/jobs/ai-research-intern-jobs",
+          "link_source": "linkedin_listing_html",
+          "resolution_status": "unverified_link"
+        },
+        {
+          "job_url": "https://www.linkedin.com/jobs/view/ai-intern-at-faclon-labs-4435448550",
+          "anchor_text": "AI Intern",
+          "source_page_url": "https://in.linkedin.com/jobs/ai-research-intern-jobs",
+          "link_source": "linkedin_listing_html",
+          "resolution_status": "unverified_link"
+        },
+        {
+          "job_url": "https://www.linkedin.com/jobs/view/research-intern-phd-storage-systems-for-ai-at-marvell-technology-4473490413",
+          "anchor_text": "Research Intern (PhD), Storage Systems for AI",
+          "source_page_url": "https://in.linkedin.com/jobs/ai-research-intern-jobs",
+          "link_source": "linkedin_listing_html",
+          "resolution_status": "unverified_link"
+        },
+        {
+          "job_url": "https://www.linkedin.com/jobs/view/machine-learning-intern-at-skillzen-loop-4483479146",
+          "anchor_text": "Machine Learning Intern",
+          "source_page_url": "https://in.linkedin.com/jobs/ai-research-intern-jobs",
+          "link_source": "linkedin_listing_html",
+          "resolution_status": "unverified_link"
+        },
+        {
+          "job_url": "https://www.linkedin.com/jobs/view/ai-ml-intern-at-skillzen-loop-4483466561",
+          "anchor_text": "AI/ML Intern",
+          "source_page_url": "https://in.linkedin.com/jobs/ai-research-intern-jobs",
+          "link_source": "linkedin_listing_html",
+          "resolution_status": "unverified_link"
+        },
+        {
+          "job_url": "https://www.linkedin.com/jobs/view/ai-ml-intern-at-dimakh-consultants-pvt-ltd-4480650692",
+          "anchor_text": "AI/ML Intern",
+          "source_page_url": "https://in.linkedin.com/jobs/ai-research-intern-jobs",
+          "link_source": "linkedin_listing_html",
+          "resolution_status": "unverified_link"
+        },
+        {
+          "job_url": "https://www.linkedin.com/jobs/view/phd-intern-apple-ads-machine-learning-at-apple-4468464421",
+          "anchor_text": "PhD Intern, Apple Ads (Machine Learning)",
+          "source_page_url": "https://in.linkedin.com/jobs/ai-research-intern-jobs",
+          "link_source": "linkedin_listing_html",
+          "resolution_status": "unverified_link"
+        },
+        {
+          "job_url": "https://www.linkedin.com/jobs/view/machine-learning-intern-python-scikit-learn-pandas-data-preprocessing-remote-at-crossing-infotech-4485138357",
+          "anchor_text": "Machine Learning Intern (Python, Scikit-learn, Pandas, Data Preprocessing) | Remote",
+          "source_page_url": "https://in.linkedin.com/jobs/ai-research-intern-jobs",
+          "link_source": "linkedin_listing_html",
+          "resolution_status": "unverified_link"
+        },
+        {
+          "job_url": "https://www.linkedin.com/jobs/view/data-science-intern-at-devryxa-4485157683",
+          "anchor_text": "Data Science Intern",
+          "source_page_url": "https://in.linkedin.com/jobs/ai-research-intern-jobs",
+          "link_source": "linkedin_listing_html",
+          "resolution_status": "unverified_link"
+        },
+        {
+          "job_url": "https://www.linkedin.com/jobs/view/machine-learning-entry-level-fresher-internship-python-scikit-learn-model-evaluation-at-medinex-workforce-4485126510",
+          "anchor_text": "Machine Learning | Entry Level | Fresher Internship (Python, Scikit-learn, Model Evaluation)",
+          "source_page_url": "https://in.linkedin.com/jobs/ai-research-intern-jobs",
+          "link_source": "linkedin_listing_html",
+          "resolution_status": "unverified_link"
+        },
+        {
+          "job_url": "https://www.linkedin.com/jobs/view/artificial-intelligence-intern-at-applogika-4485297033",
+          "anchor_text": "Artificial Intelligence Intern",
+          "source_page_url": "https://in.linkedin.com/jobs/ai-research-intern-jobs",
+          "link_source": "linkedin_listing_html",
+          "resolution_status": "unverified_link"
+        },
+        {
+          "job_url": "https://www.linkedin.com/jobs/view/ai-interns-at-ai-disha-learning-4483429483",
+          "anchor_text": "AI Interns",
+          "source_page_url": "https://in.linkedin.com/jobs/ai-research-intern-jobs",
+          "link_source": "linkedin_listing_html",
+          "resolution_status": "unverified_link"
+        },
+        {
+          "job_url": "https://www.linkedin.com/jobs/view/founder-s-office-intern-at-norvia-labs-4483849783",
+          "anchor_text": "Founder's office (intern)",
+          "source_page_url": "https://in.linkedin.com/jobs/ai-research-intern-jobs",
+          "link_source": "linkedin_listing_html",
+          "resolution_status": "unverified_link"
+        },
+        {
+          "job_url": "https://www.linkedin.com/jobs/view/decision-scientist-intern-at-the-india-prosperity-initiative-4476295003",
+          "anchor_text": "Decision Scientist Intern",
+          "source_page_url": "https://in.linkedin.com/jobs/ai-research-intern-jobs",
+          "link_source": "linkedin_listing_html",
+          "resolution_status": "unverified_link"
+        },
+        {
+          "job_url": "https://www.linkedin.com/jobs/view/research-phd-at-hewlett-packard-enterprise-4485321921",
+          "anchor_text": "Research/PhD",
+          "source_page_url": "https://in.linkedin.com/jobs/ai-research-intern-jobs",
+          "link_source": "linkedin_listing_html",
+          "resolution_status": "unverified_link"
+        },
+        {
+          "job_url": "https://www.linkedin.com/jobs/view/artificial-intelligence-entry-level-fresher-internship-python-llm-apis-prompt-engineering-at-medinex-workforce-4485132531",
+          "anchor_text": "Artificial Intelligence | Entry Level | Fresher Internship (Python, LLM APIs, Prompt Engineering)",
+          "source_page_url": "https://in.linkedin.com/jobs/ai-research-intern-jobs",
+          "link_source": "linkedin_listing_html",
+          "resolution_status": "unverified_link"
+        },
+        {
+          "job_url": "https://www.linkedin.com/jobs/view/data-science-intern-at-thinknovaa-4485146990",
+          "anchor_text": "Data Science Intern",
+          "source_page_url": "https://in.linkedin.com/jobs/ai-research-intern-jobs",
+          "link_source": "linkedin_listing_html",
+          "resolution_status": "unverified_link"
+        },
+        {
+          "job_url": "https://www.linkedin.com/jobs/view/ai-growth-engineer-at-agentsocialx-4484886843",
+          "anchor_text": "AI Growth Engineer",
+          "source_page_url": "https://in.linkedin.com/jobs/ai-research-intern-jobs",
+          "link_source": "linkedin_listing_html",
+          "resolution_status": "unverified_link"
+        },
+        {
+          "job_url": "https://www.linkedin.com/jobs/view/perception-engineer-apprentice-at-origin-4482827597",
+          "anchor_text": "Perception Engineer - Apprentice",
+          "source_page_url": "https://in.linkedin.com/jobs/ai-research-intern-jobs",
+          "link_source": "linkedin_listing_html",
+          "resolution_status": "unverified_link"
+        },
+        {
+          "job_url": "https://www.linkedin.com/jobs/view/voice-ai-internship-in-delhi-at-jarvis-technology-and-strategy-consulting-4485279030",
+          "anchor_text": "Voice AI Internship in Delhi",
+          "source_page_url": "https://in.linkedin.com/jobs/ai-research-intern-jobs",
+          "link_source": "linkedin_listing_html",
+          "resolution_status": "unverified_link"
+        },
+        {
+          "job_url": "https://www.linkedin.com/jobs/view/sb-1486-ai-engineer-intern-at-softobiz-4455976305",
+          "anchor_text": "SB-1486-AI Engineer Intern",
+          "source_page_url": "https://in.linkedin.com/jobs/ai-research-intern-jobs",
+          "link_source": "linkedin_listing_html",
+          "resolution_status": "unverified_link"
+        },
+        {
+          "job_url": "https://www.linkedin.com/jobs/view/data-science-intern-at-arcelormittal-digital-consulting-4479799924",
+          "anchor_text": "Data Science Intern",
+          "source_page_url": "https://in.linkedin.com/jobs/ai-research-intern-jobs",
+          "link_source": "linkedin_listing_html",
+          "resolution_status": "unverified_link"
+        },
+        {
+          "job_url": "https://www.linkedin.com/jobs/view/data-science-intern-at-dnv-4485351083",
+          "anchor_text": "Data Science Intern",
+          "source_page_url": "https://in.linkedin.com/jobs/ai-research-intern-jobs",
+          "link_source": "linkedin_listing_html",
+          "resolution_status": "unverified_link"
+        },
+        {
+          "job_url": "https://www.linkedin.com/jobs/view/data-science-intern-at-jobs4panindia-4485164076",
+          "anchor_text": "Data Science Intern",
+          "source_page_url": "https://in.linkedin.com/jobs/ai-research-intern-jobs",
+          "link_source": "linkedin_listing_html",
+          "resolution_status": "unverified_link"
+        },
+        {
+          "job_url": "https://www.linkedin.com/jobs/view/data-science-intern-at-jobs4panindia-4485165091",
+          "anchor_text": "Data Science Intern",
+          "source_page_url": "https://in.linkedin.com/jobs/ai-research-intern-jobs",
+          "link_source": "linkedin_listing_html",
+          "resolution_status": "unverified_link"
+        },
+        {
+          "job_url": "https://www.linkedin.com/jobs/view/python-ai-ml-intern-at-durapid-technologies-private-limited-4424329865",
+          "anchor_text": "Python AI/ML Intern",
+          "source_page_url": "https://in.linkedin.com/jobs/ai-research-intern-jobs",
+          "link_source": "linkedin_listing_html",
+          "resolution_status": "unverified_link"
+        },
+        {
+          "job_url": "https://www.linkedin.com/jobs/view/associate-software-engineer-intern-yms-at-kaleris-4471322071",
+          "anchor_text": "Associate Software Engineer Intern - YMS",
+          "source_page_url": "https://in.linkedin.com/jobs/ai-research-intern-jobs",
+          "link_source": "linkedin_listing_html",
+          "resolution_status": "unverified_link"
+        },
+        {
+          "job_url": "https://www.linkedin.com/jobs/view/data-science-internship-in-bharuch-junagadh-ahmedabad-bhavnagar-amreli-vadodara-gandhinagar-pune-surat-anand-rajkot-ankleshwar-at-sparks-to-ideas-4484287381",
+          "anchor_text": "Data Science Internship in Bharuch, Junagadh, Ahmedabad, Bhavnagar, Amreli, Vadodara, Gandhinagar, Pune, Surat, Anand, Rajkot, Ankleshwar",
+          "source_page_url": "https://in.linkedin.com/jobs/ai-research-intern-jobs",
+          "link_source": "linkedin_listing_html",
+          "resolution_status": "unverified_link"
+        }
+      ],
+      "error": null,
+      "source_page_title": "Ai Research Intern Jobs in India (202 Open Roles) | LinkedIn"
+    }
+  ],
+  "job_links": [
+    {
+      "job_url": "https://www.linkedin.com/jobs/view/data-science-intern-at-sony-research-india-4478080141",
+      "anchor_text": "Data Science Intern",
+      "source_page_url": "https://in.linkedin.com/jobs/ai-internship-paid-jobs",
+      "link_source": "linkedin_listing_html",
+      "resolution_status": "unverified_link",
+      "also_found_on": [
+        "https://in.linkedin.com/jobs/ai-research-intern-jobs"
+      ]
+    },
+    {
+      "job_url": "https://www.linkedin.com/jobs/view/phd-intern-ai-ml-in-wireless-l1-l2-fall-2026-at-nvidia-4460088429",
+      "anchor_text": "PhD Intern, AI ML in Wireless L1/L2 - Fall 2026",
+      "source_page_url": "https://in.linkedin.com/jobs/ai-internship-paid-jobs",
+      "link_source": "linkedin_listing_html",
+      "resolution_status": "unverified_link",
+      "also_found_on": [
+        "https://in.linkedin.com/jobs/ai-research-intern-jobs"
+      ]
+    },
+    {
+      "job_url": "https://www.linkedin.com/jobs/view/phd-intern-apple-ads-machine-learning-at-apple-4468464421",
+      "anchor_text": "PhD Intern, Apple Ads (Machine Learning)",
+      "source_page_url": "https://in.linkedin.com/jobs/ai-internship-paid-jobs",
+      "link_source": "linkedin_listing_html",
+      "resolution_status": "unverified_link",
+      "also_found_on": [
+        "https://in.linkedin.com/jobs/ai-research-intern-jobs"
+      ]
+    },
+    {
+      "job_url": "https://www.linkedin.com/jobs/view/phd-intern-machine-learning-msi-product-operations-team-at-apple-4467834348",
+      "anchor_text": "PhD Intern, Machine Learning: MSI, Product Operations Team",
+      "source_page_url": "https://in.linkedin.com/jobs/ai-internship-paid-jobs",
+      "link_source": "linkedin_listing_html",
+      "resolution_status": "unverified_link",
+      "also_found_on": [
+        "https://in.linkedin.com/jobs/ai-research-intern-jobs"
+      ]
+    },
+    {
+      "job_url": "https://www.linkedin.com/jobs/view/artificial-intelligence-intern-python-machine-learning-nlp-prompt-engineering-remote-at-crossing-infotech-4485134405",
+      "anchor_text": "Artificial Intelligence Intern (Python, Machine Learning, NLP, Prompt Engineering) | Remote",
+      "source_page_url": "https://in.linkedin.com/jobs/ai-internship-paid-jobs",
+      "link_source": "linkedin_listing_html",
+      "resolution_status": "unverified_link",
+      "also_found_on": [
+        "https://in.linkedin.com/jobs/ai-research-intern-jobs"
+      ]
+    },
+    {
+      "job_url": "https://www.linkedin.com/jobs/view/artificial-intelligence-intern-at-applogika-4485297033",
+      "anchor_text": "Artificial Intelligence Intern",
+      "source_page_url": "https://in.linkedin.com/jobs/ai-internship-paid-jobs",
+      "link_source": "linkedin_listing_html",
+      "resolution_status": "unverified_link",
+      "also_found_on": [
+        "https://in.linkedin.com/jobs/ai-research-intern-jobs"
+      ]
+    },
+    {
+      "job_url": "https://www.linkedin.com/jobs/view/ai-growth-engineer-at-agentsocialx-4484886843",
+      "anchor_text": "AI Growth Engineer",
+      "source_page_url": "https://in.linkedin.com/jobs/ai-internship-paid-jobs",
+      "link_source": "linkedin_listing_html",
+      "resolution_status": "unverified_link",
+      "also_found_on": [
+        "https://in.linkedin.com/jobs/ai-research-intern-jobs"
+      ]
+    },
+    {
+      "job_url": "https://www.linkedin.com/jobs/view/ai-agent-engineer-intern-at-lexsi-labs-4484823866",
+      "anchor_text": "AI Agent Engineer Intern",
+      "source_page_url": "https://in.linkedin.com/jobs/ai-internship-paid-jobs",
+      "link_source": "linkedin_listing_html",
+      "resolution_status": "unverified_link",
+      "also_found_on": [
+        "https://in.linkedin.com/jobs/ai-research-intern-jobs"
+      ]
+    },
+    {
+      "job_url": "https://www.linkedin.com/jobs/view/ibm-research-research-software-intern-at-ibm-4480620993",
+      "anchor_text": "IBM Research/Research Software - Intern",
+      "source_page_url": "https://in.linkedin.com/jobs/ai-internship-paid-jobs",
+      "link_source": "linkedin_listing_html",
+      "resolution_status": "unverified_link",
+      "also_found_on": [
+        "https://in.linkedin.com/jobs/ai-research-intern-jobs"
+      ]
+    },
+    {
+      "job_url": "https://www.linkedin.com/jobs/view/machine-learning-intern-at-thinknovaa-4485152190",
+      "anchor_text": "Machine Learning Intern",
+      "source_page_url": "https://in.linkedin.com/jobs/ai-internship-paid-jobs",
+      "link_source": "linkedin_listing_html",
+      "resolution_status": "unverified_link",
+      "also_found_on": [
+        "https://in.linkedin.com/jobs/ai-research-intern-jobs"
+      ]
+    },
+    {
+      "job_url": "https://www.linkedin.com/jobs/view/ai-agent-engineer-intern-at-lexsi-labs-4437573631",
+      "anchor_text": "AI Agent Engineer Intern",
+      "source_page_url": "https://in.linkedin.com/jobs/ai-internship-paid-jobs",
+      "link_source": "linkedin_listing_html",
+      "resolution_status": "unverified_link",
+      "also_found_on": [
+        "https://in.linkedin.com/jobs/ai-research-intern-jobs"
+      ]
+    },
+    {
+      "job_url": "https://www.linkedin.com/jobs/view/machine-learning-intern-python-scikit-learn-pandas-data-preprocessing-remote-at-crossing-infotech-4485138357",
+      "anchor_text": "Machine Learning Intern (Python, Scikit-learn, Pandas, Data Preprocessing) | Remote",
+      "source_page_url": "https://in.linkedin.com/jobs/ai-internship-paid-jobs",
+      "link_source": "linkedin_listing_html",
+      "resolution_status": "unverified_link",
+      "also_found_on": [
+        "https://in.linkedin.com/jobs/ai-research-intern-jobs"
+      ]
+    },
+    {
+      "job_url": "https://www.linkedin.com/jobs/view/artificial-intelligence-intern-at-jobs4panindia-4485151241",
+      "anchor_text": "Artificial Intelligence Intern",
+      "source_page_url": "https://in.linkedin.com/jobs/ai-internship-paid-jobs",
+      "link_source": "linkedin_listing_html",
+      "resolution_status": "unverified_link",
+      "also_found_on": [
+        "https://in.linkedin.com/jobs/ai-research-intern-jobs"
+      ]
+    },
+    {
+      "job_url": "https://www.linkedin.com/jobs/view/artificial-intelligence-intern-at-jobs4panindia-4485162103",
+      "anchor_text": "Artificial Intelligence Intern",
+      "source_page_url": "https://in.linkedin.com/jobs/ai-internship-paid-jobs",
+      "link_source": "linkedin_listing_html",
+      "resolution_status": "unverified_link",
+      "also_found_on": [
+        "https://in.linkedin.com/jobs/ai-research-intern-jobs"
+      ]
+    },
+    {
+      "job_url": "https://www.linkedin.com/jobs/view/speech-recognition-intern-at-sony-research-india-4478019878",
+      "anchor_text": "Speech Recognition Intern",
+      "source_page_url": "https://in.linkedin.com/jobs/ai-internship-paid-jobs",
+      "link_source": "linkedin_listing_html",
+      "resolution_status": "unverified_link",
+      "also_found_on": [
+        "https://in.linkedin.com/jobs/ai-research-intern-jobs"
+      ]
+    },
+    {
+      "job_url": "https://www.linkedin.com/jobs/view/ai-implementation-intern-at-sprinto-4474250490",
+      "anchor_text": "AI Implementation Intern",
+      "source_page_url": "https://in.linkedin.com/jobs/ai-internship-paid-jobs",
+      "link_source": "linkedin_listing_html",
+      "resolution_status": "unverified_link"
+    },
+    {
+      "job_url": "https://www.linkedin.com/jobs/view/artificial-intelligence-intern-at-thinknovaa-4485166098",
+      "anchor_text": "Artificial Intelligence Intern",
+      "source_page_url": "https://in.linkedin.com/jobs/ai-internship-paid-jobs",
+      "link_source": "linkedin_listing_html",
+      "resolution_status": "unverified_link",
+      "also_found_on": [
+        "https://in.linkedin.com/jobs/ai-research-intern-jobs"
+      ]
+    },
+    {
+      "job_url": "https://www.linkedin.com/jobs/view/llm-research-intern-at-sony-research-india-4478061801",
+      "anchor_text": "LLM Research Intern",
+      "source_page_url": "https://in.linkedin.com/jobs/ai-internship-paid-jobs",
+      "link_source": "linkedin_listing_html",
+      "resolution_status": "unverified_link",
+      "also_found_on": [
+        "https://in.linkedin.com/jobs/ai-research-intern-jobs"
+      ]
+    },
+    {
+      "job_url": "https://www.linkedin.com/jobs/view/ibm-research-research-software-intern-at-ibm-4480635433",
+      "anchor_text": "IBM Research/Research Software - Intern",
+      "source_page_url": "https://in.linkedin.com/jobs/ai-internship-paid-jobs",
+      "link_source": "linkedin_listing_html",
+      "resolution_status": "unverified_link",
+      "also_found_on": [
+        "https://in.linkedin.com/jobs/ai-research-intern-jobs"
+      ]
+    },
+    {
+      "job_url": "https://www.linkedin.com/jobs/view/ai-research-internship-at-lexsi-labs-4437374146",
+      "anchor_text": "AI Research Internship",
+      "source_page_url": "https://in.linkedin.com/jobs/ai-internship-paid-jobs",
+      "link_source": "linkedin_listing_html",
+      "resolution_status": "unverified_link",
+      "also_found_on": [
+        "https://in.linkedin.com/jobs/ai-research-intern-jobs"
+      ]
+    },
+    {
+      "job_url": "https://www.linkedin.com/jobs/view/applied-scientist-at-meril-4476253795",
+      "anchor_text": "Applied Scientist",
+      "source_page_url": "https://in.linkedin.com/jobs/ai-internship-paid-jobs",
+      "link_source": "linkedin_listing_html",
+      "resolution_status": "unverified_link",
+      "also_found_on": [
+        "https://in.linkedin.com/jobs/ai-research-intern-jobs"
+      ]
+    },
+    {
+      "job_url": "https://www.linkedin.com/jobs/view/machine-learning-entry-level-fresher-internship-python-scikit-learn-model-evaluation-at-medinex-workforce-4485126510",
+      "anchor_text": "Machine Learning | Entry Level | Fresher Internship (Python, Scikit-learn, Model Evaluation)",
+      "source_page_url": "https://in.linkedin.com/jobs/ai-internship-paid-jobs",
+      "link_source": "linkedin_listing_html",
+      "resolution_status": "unverified_link",
+      "also_found_on": [
+        "https://in.linkedin.com/jobs/ai-research-intern-jobs"
+      ]
+    },
+    {
+      "job_url": "https://www.linkedin.com/jobs/view/information-technology-intern-at-procter-gamble-4482529624",
+      "anchor_text": "Information Technology Intern",
+      "source_page_url": "https://in.linkedin.com/jobs/ai-internship-paid-jobs",
+      "link_source": "linkedin_listing_html",
+      "resolution_status": "unverified_link"
+    },
+    {
+      "job_url": "https://www.linkedin.com/jobs/view/artificial-intelligence-entry-level-fresher-internship-python-llm-apis-prompt-engineering-at-medinex-workforce-4485132531",
+      "anchor_text": "Artificial Intelligence | Entry Level | Fresher Internship (Python, LLM APIs, Prompt Engineering)",
+      "source_page_url": "https://in.linkedin.com/jobs/ai-internship-paid-jobs",
+      "link_source": "linkedin_listing_html",
+      "resolution_status": "unverified_link",
+      "also_found_on": [
+        "https://in.linkedin.com/jobs/ai-research-intern-jobs"
+      ]
+    },
+    {
+      "job_url": "https://www.linkedin.com/jobs/view/2027-intern-research-phd-intern-at-adobe-4480240733",
+      "anchor_text": "2027 Intern - Research PhD Intern",
+      "source_page_url": "https://in.linkedin.com/jobs/ai-internship-paid-jobs",
+      "link_source": "linkedin_listing_html",
+      "resolution_status": "unverified_link",
+      "also_found_on": [
+        "https://in.linkedin.com/jobs/ai-research-intern-jobs"
+      ]
+    },
+    {
+      "job_url": "https://www.linkedin.com/jobs/view/ai-research-internship-at-lexsi-labs-4484820748",
+      "anchor_text": "AI Research Internship",
+      "source_page_url": "https://in.linkedin.com/jobs/ai-internship-paid-jobs",
+      "link_source": "linkedin_listing_html",
+      "resolution_status": "unverified_link",
+      "also_found_on": [
+        "https://in.linkedin.com/jobs/ai-research-intern-jobs"
+      ]
+    },
+    {
+      "job_url": "https://www.linkedin.com/jobs/view/ai-ml-engineering-intern-at-daice-labs-4480759259",
+      "anchor_text": "AI/ML Engineering Intern",
+      "source_page_url": "https://in.linkedin.com/jobs/ai-internship-paid-jobs",
+      "link_source": "linkedin_listing_html",
+      "resolution_status": "unverified_link",
+      "also_found_on": [
+        "https://in.linkedin.com/jobs/ai-research-intern-jobs"
+      ]
+    },
+    {
+      "job_url": "https://www.linkedin.com/jobs/view/machine-learning-intern-at-skillzen-loop-4483479146",
+      "anchor_text": "Machine Learning Intern",
+      "source_page_url": "https://in.linkedin.com/jobs/ai-internship-paid-jobs",
+      "link_source": "linkedin_listing_html",
+      "resolution_status": "unverified_link",
+      "also_found_on": [
+        "https://in.linkedin.com/jobs/ai-research-intern-jobs"
+      ]
+    },
+    {
+      "job_url": "https://www.linkedin.com/jobs/view/research-intern-ai-at-ge-healthcare-4461088583",
+      "anchor_text": "Research Intern - AI",
+      "source_page_url": "https://in.linkedin.com/jobs/ai-internship-paid-jobs",
+      "link_source": "linkedin_listing_html",
+      "resolution_status": "unverified_link",
+      "also_found_on": [
+        "https://in.linkedin.com/jobs/ai-research-intern-jobs"
+      ]
+    },
+    {
+      "job_url": "https://www.linkedin.com/jobs/view/ai-ml-intern-at-skillzen-loop-4483466561",
+      "anchor_text": "AI/ML Intern",
+      "source_page_url": "https://in.linkedin.com/jobs/ai-internship-paid-jobs",
+      "link_source": "linkedin_listing_html",
+      "resolution_status": "unverified_link",
+      "also_found_on": [
+        "https://in.linkedin.com/jobs/ai-research-intern-jobs"
+      ]
+    },
+    {
+      "job_url": "https://www.linkedin.com/jobs/view/ai-internship-at-delaplex-4448982232",
+      "anchor_text": "AI Internship",
+      "source_page_url": "https://in.linkedin.com/jobs/ai-internship-paid-jobs",
+      "link_source": "linkedin_listing_html",
+      "resolution_status": "unverified_link"
+    },
+    {
+      "job_url": "https://www.linkedin.com/jobs/view/artificial-intelligence-intern-at-eteam-4483543201",
+      "anchor_text": "Artificial Intelligence Intern",
+      "source_page_url": "https://in.linkedin.com/jobs/ai-internship-paid-jobs",
+      "link_source": "linkedin_listing_html",
+      "resolution_status": "unverified_link",
+      "also_found_on": [
+        "https://in.linkedin.com/jobs/ai-research-intern-jobs"
+      ]
+    },
+    {
+      "job_url": "https://www.linkedin.com/jobs/view/software-engineer-intern-at-meril-4483015017",
+      "anchor_text": "Software Engineer Intern",
+      "source_page_url": "https://in.linkedin.com/jobs/ai-internship-paid-jobs",
+      "link_source": "linkedin_listing_html",
+      "resolution_status": "unverified_link"
+    },
+    {
+      "job_url": "https://www.linkedin.com/jobs/view/data-science-intern-at-thinknovaa-4485146990",
+      "anchor_text": "Data Science Intern",
+      "source_page_url": "https://in.linkedin.com/jobs/ai-internship-paid-jobs",
+      "link_source": "linkedin_listing_html",
+      "resolution_status": "unverified_link",
+      "also_found_on": [
+        "https://in.linkedin.com/jobs/ai-research-intern-jobs"
+      ]
+    },
+    {
+      "job_url": "https://www.linkedin.com/jobs/view/data-science-intern-at-vortenza-systems-4485172448",
+      "anchor_text": "Data Science Intern",
+      "source_page_url": "https://in.linkedin.com/jobs/ai-internship-paid-jobs",
+      "link_source": "linkedin_listing_html",
+      "resolution_status": "unverified_link",
+      "also_found_on": [
+        "https://in.linkedin.com/jobs/ai-research-intern-jobs"
+      ]
+    },
+    {
+      "job_url": "https://www.linkedin.com/jobs/view/ai-interns-at-ai-disha-learning-4483429483",
+      "anchor_text": "AI Interns",
+      "source_page_url": "https://in.linkedin.com/jobs/ai-internship-paid-jobs",
+      "link_source": "linkedin_listing_html",
+      "resolution_status": "unverified_link",
+      "also_found_on": [
+        "https://in.linkedin.com/jobs/ai-research-intern-jobs"
+      ]
+    },
+    {
+      "job_url": "https://www.linkedin.com/jobs/view/sb-1486-ai-engineer-intern-at-softobiz-4455976305",
+      "anchor_text": "SB-1486-AI Engineer Intern",
+      "source_page_url": "https://in.linkedin.com/jobs/ai-internship-paid-jobs",
+      "link_source": "linkedin_listing_html",
+      "resolution_status": "unverified_link",
+      "also_found_on": [
+        "https://in.linkedin.com/jobs/ai-research-intern-jobs"
+      ]
+    },
+    {
+      "job_url": "https://www.linkedin.com/jobs/view/python-ai-ml-intern-at-durapid-technologies-private-limited-4424329865",
+      "anchor_text": "Python AI/ML Intern",
+      "source_page_url": "https://in.linkedin.com/jobs/ai-internship-paid-jobs",
+      "link_source": "linkedin_listing_html",
+      "resolution_status": "unverified_link",
+      "also_found_on": [
+        "https://in.linkedin.com/jobs/ai-research-intern-jobs"
+      ]
+    },
+    {
+      "job_url": "https://www.linkedin.com/jobs/view/voice-ai-internship-in-delhi-at-jarvis-technology-and-strategy-consulting-4485279030",
+      "anchor_text": "Voice AI Internship in Delhi",
+      "source_page_url": "https://in.linkedin.com/jobs/ai-internship-paid-jobs",
+      "link_source": "linkedin_listing_html",
+      "resolution_status": "unverified_link",
+      "also_found_on": [
+        "https://in.linkedin.com/jobs/ai-research-intern-jobs"
+      ]
+    },
+    {
+      "job_url": "https://www.linkedin.com/jobs/view/artificial-intelligence-fresher-intern-at-inlighnx-global-pvt-ltd-inlighn-tech-4485149229",
+      "anchor_text": "ARTIFICIAL INTELLIGENCE FRESHER INTERN",
+      "source_page_url": "https://in.linkedin.com/jobs/ai-internship-paid-jobs",
+      "link_source": "linkedin_listing_html",
+      "resolution_status": "unverified_link",
+      "also_found_on": [
+        "https://in.linkedin.com/jobs/ai-research-intern-jobs"
+      ]
+    },
+    {
+      "job_url": "https://www.linkedin.com/jobs/view/ai-engineer-intern-at-discover-dollar-inc-4476231706",
+      "anchor_text": "AI Engineer Intern",
+      "source_page_url": "https://in.linkedin.com/jobs/ai-internship-paid-jobs",
+      "link_source": "linkedin_listing_html",
+      "resolution_status": "unverified_link"
+    },
+    {
+      "job_url": "https://www.linkedin.com/jobs/view/ml-intern-at-training-basket-4475939740",
+      "anchor_text": "ML Intern",
+      "source_page_url": "https://in.linkedin.com/jobs/ai-internship-paid-jobs",
+      "link_source": "linkedin_listing_html",
+      "resolution_status": "unverified_link",
+      "also_found_on": [
+        "https://in.linkedin.com/jobs/ai-research-intern-jobs"
+      ]
+    },
+    {
+      "job_url": "https://www.linkedin.com/jobs/view/research-scientist-phd-intern-summer-2027-at-google-4483862672",
+      "anchor_text": "Research Scientist PhD Intern, Summer 2027",
+      "source_page_url": "https://in.linkedin.com/jobs/ai-internship-paid-jobs",
+      "link_source": "linkedin_listing_html",
+      "resolution_status": "unverified_link",
+      "also_found_on": [
+        "https://in.linkedin.com/jobs/ai-research-intern-jobs"
+      ]
+    },
+    {
+      "job_url": "https://www.linkedin.com/jobs/view/machine-learning-intern-at-eric-robotics-4459699809",
+      "anchor_text": "Machine Learning Intern",
+      "source_page_url": "https://in.linkedin.com/jobs/ai-internship-paid-jobs",
+      "link_source": "linkedin_listing_html",
+      "resolution_status": "unverified_link",
+      "also_found_on": [
+        "https://in.linkedin.com/jobs/ai-research-intern-jobs"
+      ]
+    },
+    {
+      "job_url": "https://www.linkedin.com/jobs/view/data-science-intern-at-arcelormittal-digital-consulting-4479799924",
+      "anchor_text": "Data Science Intern",
+      "source_page_url": "https://in.linkedin.com/jobs/ai-internship-paid-jobs",
+      "link_source": "linkedin_listing_html",
+      "resolution_status": "unverified_link",
+      "also_found_on": [
+        "https://in.linkedin.com/jobs/ai-research-intern-jobs"
+      ]
+    },
+    {
+      "job_url": "https://www.linkedin.com/jobs/view/ai-ml-intern-at-dimakh-consultants-pvt-ltd-4480650692",
+      "anchor_text": "AI/ML Intern",
+      "source_page_url": "https://in.linkedin.com/jobs/ai-internship-paid-jobs",
+      "link_source": "linkedin_listing_html",
+      "resolution_status": "unverified_link",
+      "also_found_on": [
+        "https://in.linkedin.com/jobs/ai-research-intern-jobs"
+      ]
+    },
+    {
+      "job_url": "https://www.linkedin.com/jobs/view/intern-at-iqvia-4482958369",
+      "anchor_text": "Intern",
+      "source_page_url": "https://in.linkedin.com/jobs/ai-internship-paid-jobs",
+      "link_source": "linkedin_listing_html",
+      "resolution_status": "unverified_link"
+    },
+    {
+      "job_url": "https://www.linkedin.com/jobs/view/ai-business-consultant-intern-at-cbosit-premium-zoho-partner-4479351746",
+      "anchor_text": "AI Business Consultant Intern",
+      "source_page_url": "https://in.linkedin.com/jobs/ai-internship-paid-jobs",
+      "link_source": "linkedin_listing_html",
+      "resolution_status": "unverified_link"
+    },
+    {
+      "job_url": "https://www.linkedin.com/jobs/view/intern-at-iqvia-4482952475",
+      "anchor_text": "Intern",
+      "source_page_url": "https://in.linkedin.com/jobs/ai-internship-paid-jobs",
+      "link_source": "linkedin_listing_html",
+      "resolution_status": "unverified_link"
+    },
+    {
+      "job_url": "https://www.linkedin.com/jobs/view/generative-ai-engineering-intern-%E2%80%94-venxr-at-venxr-4479981345",
+      "anchor_text": "Generative AI Engineering Intern — Venxr",
+      "source_page_url": "https://in.linkedin.com/jobs/ai-internship-paid-jobs",
+      "link_source": "linkedin_listing_html",
+      "resolution_status": "unverified_link"
+    },
+    {
+      "job_url": "https://www.linkedin.com/jobs/view/data-science-intern-at-devryxa-4485157683",
+      "anchor_text": "Data Science Intern",
+      "source_page_url": "https://in.linkedin.com/jobs/ai-internship-paid-jobs",
+      "link_source": "linkedin_listing_html",
+      "resolution_status": "unverified_link",
+      "also_found_on": [
+        "https://in.linkedin.com/jobs/ai-research-intern-jobs"
+      ]
+    },
+    {
+      "job_url": "https://www.linkedin.com/jobs/view/software-development-trainee-at-wex-4485339032",
+      "anchor_text": "Software Development Trainee",
+      "source_page_url": "https://in.linkedin.com/jobs/ai-internship-paid-jobs",
+      "link_source": "linkedin_listing_html",
+      "resolution_status": "unverified_link"
+    },
+    {
+      "job_url": "https://www.linkedin.com/jobs/view/evaluation-insights-intern-ai-delivery-at-blue-machines-ai-4464468962",
+      "anchor_text": "Evaluation & Insights Intern, AI Delivery",
+      "source_page_url": "https://in.linkedin.com/jobs/ai-internship-paid-jobs",
+      "link_source": "linkedin_listing_html",
+      "resolution_status": "unverified_link"
+    },
+    {
+      "job_url": "https://www.linkedin.com/jobs/view/associate-software-engineer-intern-yms-at-kaleris-4471322071",
+      "anchor_text": "Associate Software Engineer Intern - YMS",
+      "source_page_url": "https://in.linkedin.com/jobs/ai-internship-paid-jobs",
+      "link_source": "linkedin_listing_html",
+      "resolution_status": "unverified_link",
+      "also_found_on": [
+        "https://in.linkedin.com/jobs/ai-research-intern-jobs"
+      ]
+    },
+    {
+      "job_url": "https://www.linkedin.com/jobs/view/ai-intern-at-faclon-labs-4435448550",
+      "anchor_text": "AI Intern",
+      "source_page_url": "https://in.linkedin.com/jobs/ai-internship-paid-jobs",
+      "link_source": "linkedin_listing_html",
+      "resolution_status": "unverified_link",
+      "also_found_on": [
+        "https://in.linkedin.com/jobs/ai-research-intern-jobs"
+      ]
+    },
+    {
+      "job_url": "https://www.linkedin.com/jobs/view/product-intern-at-lumenci-4474689695",
+      "anchor_text": "Product Intern",
+      "source_page_url": "https://in.linkedin.com/jobs/ai-internship-paid-jobs",
+      "link_source": "linkedin_listing_html",
+      "resolution_status": "unverified_link"
+    },
+    {
+      "job_url": "https://www.linkedin.com/jobs/view/foundational-internship-technology-intellectual-media-at-arivula-technologies-4484518186",
+      "anchor_text": "Foundational Internship - Technology & Intellectual Media",
+      "source_page_url": "https://in.linkedin.com/jobs/ai-internship-paid-jobs",
+      "link_source": "linkedin_listing_html",
+      "resolution_status": "unverified_link",
+      "also_found_on": [
+        "https://in.linkedin.com/jobs/ai-research-intern-jobs"
+      ]
+    },
+    {
+      "job_url": "https://www.linkedin.com/jobs/view/ai-product-intern-at-park%2B-4478381909",
+      "anchor_text": "AI Product Intern",
+      "source_page_url": "https://in.linkedin.com/jobs/ai-internship-paid-jobs",
+      "link_source": "linkedin_listing_html",
+      "resolution_status": "unverified_link"
+    },
+    {
+      "job_url": "https://www.linkedin.com/jobs/view/software-development-trainee-1-at-wex-4485336089",
+      "anchor_text": "Software Development Trainee-1",
+      "source_page_url": "https://in.linkedin.com/jobs/ai-internship-paid-jobs",
+      "link_source": "linkedin_listing_html",
+      "resolution_status": "unverified_link"
+    },
+    {
+      "job_url": "https://www.linkedin.com/jobs/view/paid-internship-at-academy-4478427837",
+      "anchor_text": "Paid Internship",
+      "source_page_url": "https://in.linkedin.com/jobs/ai-internship-paid-jobs",
+      "link_source": "linkedin_listing_html",
+      "resolution_status": "unverified_link"
+    },
+    {
+      "job_url": "https://www.linkedin.com/jobs/view/research-intern-physical-ai-and-gpu-phd-at-marvell-technology-4472914265",
+      "anchor_text": "Research Intern, Physical AI and GPU (PhD)",
+      "source_page_url": "https://in.linkedin.com/jobs/ai-research-intern-jobs",
+      "link_source": "linkedin_listing_html",
+      "resolution_status": "unverified_link"
+    },
+    {
+      "job_url": "https://www.linkedin.com/jobs/view/ai-ml-researcher-at-vynexa-4448935991",
+      "anchor_text": "AI & ML Researcher",
+      "source_page_url": "https://in.linkedin.com/jobs/ai-research-intern-jobs",
+      "link_source": "linkedin_listing_html",
+      "resolution_status": "unverified_link"
+    },
+    {
+      "job_url": "https://www.linkedin.com/jobs/view/research-intern-phd-ai-scale-protocols-simulation-at-marvell-technology-4473497099",
+      "anchor_text": "Research Intern (PhD), AI-Scale Protocols & Simulation",
+      "source_page_url": "https://in.linkedin.com/jobs/ai-research-intern-jobs",
+      "link_source": "linkedin_listing_html",
+      "resolution_status": "unverified_link"
+    },
+    {
+      "job_url": "https://www.linkedin.com/jobs/view/research-intern-phd-autonomous-infrastructure-and-telemetry-at-marvell-technology-4473487498",
+      "anchor_text": "Research Intern (PhD), Autonomous Infrastructure and Telemetry",
+      "source_page_url": "https://in.linkedin.com/jobs/ai-research-intern-jobs",
+      "link_source": "linkedin_listing_html",
+      "resolution_status": "unverified_link"
+    },
+    {
+      "job_url": "https://www.linkedin.com/jobs/view/phd-research-intern-at-dolby-laboratories-4473297690",
+      "anchor_text": "PhD Research Intern",
+      "source_page_url": "https://in.linkedin.com/jobs/ai-research-intern-jobs",
+      "link_source": "linkedin_listing_html",
+      "resolution_status": "unverified_link"
+    },
+    {
+      "job_url": "https://www.linkedin.com/jobs/view/ai-ml-intern-at-scyverge-4479956651",
+      "anchor_text": "AI/ML Intern",
+      "source_page_url": "https://in.linkedin.com/jobs/ai-research-intern-jobs",
+      "link_source": "linkedin_listing_html",
+      "resolution_status": "unverified_link"
+    },
+    {
+      "job_url": "https://www.linkedin.com/jobs/view/research-intern-phd-storage-systems-for-ai-at-marvell-technology-4473490413",
+      "anchor_text": "Research Intern (PhD), Storage Systems for AI",
+      "source_page_url": "https://in.linkedin.com/jobs/ai-research-intern-jobs",
+      "link_source": "linkedin_listing_html",
+      "resolution_status": "unverified_link"
+    },
+    {
+      "job_url": "https://www.linkedin.com/jobs/view/founder-s-office-intern-at-norvia-labs-4483849783",
+      "anchor_text": "Founder's office (intern)",
+      "source_page_url": "https://in.linkedin.com/jobs/ai-research-intern-jobs",
+      "link_source": "linkedin_listing_html",
+      "resolution_status": "unverified_link"
+    },
+    {
+      "job_url": "https://www.linkedin.com/jobs/view/decision-scientist-intern-at-the-india-prosperity-initiative-4476295003",
+      "anchor_text": "Decision Scientist Intern",
+      "source_page_url": "https://in.linkedin.com/jobs/ai-research-intern-jobs",
+      "link_source": "linkedin_listing_html",
+      "resolution_status": "unverified_link"
+    },
+    {
+      "job_url": "https://www.linkedin.com/jobs/view/research-phd-at-hewlett-packard-enterprise-4485321921",
+      "anchor_text": "Research/PhD",
+      "source_page_url": "https://in.linkedin.com/jobs/ai-research-intern-jobs",
+      "link_source": "linkedin_listing_html",
+      "resolution_status": "unverified_link"
+    },
+    {
+      "job_url": "https://www.linkedin.com/jobs/view/perception-engineer-apprentice-at-origin-4482827597",
+      "anchor_text": "Perception Engineer - Apprentice",
+      "source_page_url": "https://in.linkedin.com/jobs/ai-research-intern-jobs",
+      "link_source": "linkedin_listing_html",
+      "resolution_status": "unverified_link"
+    },
+    {
+      "job_url": "https://www.linkedin.com/jobs/view/data-science-intern-at-dnv-4485351083",
+      "anchor_text": "Data Science Intern",
+      "source_page_url": "https://in.linkedin.com/jobs/ai-research-intern-jobs",
+      "link_source": "linkedin_listing_html",
+      "resolution_status": "unverified_link"
+    },
+    {
+      "job_url": "https://www.linkedin.com/jobs/view/data-science-intern-at-jobs4panindia-4485164076",
+      "anchor_text": "Data Science Intern",
+      "source_page_url": "https://in.linkedin.com/jobs/ai-research-intern-jobs",
+      "link_source": "linkedin_listing_html",
+      "resolution_status": "unverified_link"
+    },
+    {
+      "job_url": "https://www.linkedin.com/jobs/view/data-science-intern-at-jobs4panindia-4485165091",
+      "anchor_text": "Data Science Intern",
+      "source_page_url": "https://in.linkedin.com/jobs/ai-research-intern-jobs",
+      "link_source": "linkedin_listing_html",
+      "resolution_status": "unverified_link"
+    },
+    {
+      "job_url": "https://www.linkedin.com/jobs/view/data-science-internship-in-bharuch-junagadh-ahmedabad-bhavnagar-amreli-vadodara-gandhinagar-pune-surat-anand-rajkot-ankleshwar-at-sparks-to-ideas-4484287381",
+      "anchor_text": "Data Science Internship in Bharuch, Junagadh, Ahmedabad, Bhavnagar, Amreli, Vadodara, Gandhinagar, Pune, Surat, Anand, Rajkot, Ankleshwar",
+      "source_page_url": "https://in.linkedin.com/jobs/ai-research-intern-jobs",
+      "link_source": "linkedin_listing_html",
+      "resolution_status": "unverified_link"
+    }
+  ]
+}

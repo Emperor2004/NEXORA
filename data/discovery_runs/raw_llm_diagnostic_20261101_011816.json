@@ -1,0 +1,61 @@
+{
+  "generated_at": "2026-11-01T01:18:16.163480+05:30",
+  "input_file": "vacancy_extractions_20261101_005038.json",
+  "candidate_id": "a54d56a76c8d6a32",
+  "candidate_title": "Evaluation & Insights Intern, AI Delivery",
+  "candidate_organization": "Blue Machines AI",
+  "source_characters": 8665,
+  "prompt_characters": 9167,
+  "classification": "individual_announcement",
+  "raw_model_output": {
+    "document_kind": "individual_announcement",
+    "organization": "Blue Machines AI",
+    "location": "Bengaluru, Karnataka, India",
+    "posting_age": "1 month ago",
+    "application_deadline": null,
+    "eligibility_summary": "Internship",
+    "contact_email": null,
+    "evidence": [
+      {
+        "field_name": "organization",
+        "source_location": "SOURCE URL: https://in.linkedin.com/jobs/view/evaluation-insights-intern-ai-delivery-at-blue-machines-ai",
+        "quote": "Blue Machines AI Bengaluru, Karnataka, India"
+      },
+      {
+        "field_name": "location",
+        "source_location": "SOURCE URL: https://in.linkedin.com/jobs/view/evaluation-insights-intern-ai-delivery-at-blue-machines-ai",
+        "quote": "Bengaluru, Karnataka, India"
+      },
+      {
+        "field_name": "posting_age",
+        "source_location": "SOURCE URL: https://in.linkedin.com/jobs/view/evaluation-insights-intern-ai-delivery-at-blue-machines-ai",
+        "quote": "1 month ago"
+      },
+      {
+        "field_name": "title",
+        "source_location": "SOURCE URL: https://in.linkedin.com/jobs/view/evaluation-insights-intern-ai-delivery-at-blue-machines-ai",
+        "quote": "Evaluation & Insights Intern, AI Delivery"
+      },
+      {
+        "field_name": "duration",
+        "source_location": "SOURCE URL: https://in.linkedin.com/jobs/view/evaluation-insights-intern-ai-delivery-at-blue-machines-ai",
+        "quote": "3-6 Months"
+      },
+      {
+        "field_name": "employment_type",
+        "source_location": "SOURCE URL: https://in.linkedin.com/jobs/view/evaluation-insights-intern-ai-delivery-at-blue-machines-ai",
+        "quote": "Internship"
+      },
+      {
+        "field_name": "industry",
+        "source_location": "SOURCE URL: https://in.linkedin.com/jobs/view/evaluation-insights-intern-ai-delivery-at-blue-machines-ai",
+        "quote": "IT Services and IT Consulting"
+      },
+      {
+        "field_name": "seniority_level",
+        "source_location": "SOURCE URL: https://in.linkedin.com/jobs/view/evaluation-insights-intern-ai-delivery-at-blue-machines-ai",
+        "quote": "Seniority level Internship"
+      }
+    ]
+  }
+}

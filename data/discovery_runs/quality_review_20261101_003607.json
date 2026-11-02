@@ -1,0 +1,438 @@
+{
+  "input_file": "listing_candidates_20261101_003424.json",
+  "total_input": 71,
+  "needs_review": 14,
+  "candidates": [
+    {
+      "opportunity_title": "Paid Internship",
+      "organization": "ACADEMY",
+      "location": "Bengaluru, Karnataka, India",
+      "posting_age": "2 weeks ago",
+      "duration": null,
+      "application_url": null,
+      "source_type": "job_board_listing",
+      "discovery_status": "unverified_candidate",
+      "eligibility_status": "not_assessed",
+      "verification_status": "not_verified",
+      "source_location": "Extracted text row 122",
+      "source_excerpt": "Paid Internship Paid Internship ACADEMY Bengaluru, Karnataka, India 2 weeks ago",
+      "candidate_id": "a144ab0f40deaebc",
+      "source_pages": [
+        {
+          "source_page_title": "Ai Internship Paid Jobs in India (297 Open Roles) | LinkedIn",
+          "source_page_url": "https://in.linkedin.com/jobs/ai-internship-paid-jobs",
+          "source_location": "Extracted text row 122",
+          "source_excerpt": "Paid Internship Paid Internship ACADEMY Bengaluru, Karnataka, India 2 weeks ago"
+        }
+      ],
+      "source_count": 1,
+      "quality_status": "needs_review",
+      "quality_reasons": [
+        "generic_title",
+        "no_detected_ai_ml_relevance"
+      ],
+      "relevance_tags": []
+    },
+    {
+      "opportunity_title": "Foundational Internship - Technology & Intellectual Media",
+      "organization": "Arivula Technologies",
+      "location": "Chennai, Tamil Nadu, India",
+      "posting_age": "1 day ago",
+      "duration": null,
+      "application_url": null,
+      "source_type": "job_board_listing",
+      "discovery_status": "unverified_candidate",
+      "eligibility_status": "not_assessed",
+      "verification_status": "not_verified",
+      "source_location": "Extracted text row 116",
+      "source_excerpt": "Foundational Internship - Technology & Intellectual Media Foundational Internship - Technology & Intellectual Media Arivula Technologies Chennai, Tamil Nadu, India 1 day ago",
+      "candidate_id": "bb04ee762861bd6f",
+      "source_pages": [
+        {
+          "source_page_title": "Ai Internship Paid Jobs in India (297 Open Roles) | LinkedIn",
+          "source_page_url": "https://in.linkedin.com/jobs/ai-internship-paid-jobs",
+          "source_location": "Extracted text row 116",
+          "source_excerpt": "Foundational Internship - Technology & Intellectual Media Foundational Internship - Technology & Intellectual Media Arivula Technologies Chennai, Tamil Nadu, India 1 day ago"
+        },
+        {
+          "source_page_title": "Ai Research Intern Jobs in India (202 Open Roles) | LinkedIn",
+          "source_page_url": "https://in.linkedin.com/jobs/ai-research-intern-jobs",
+          "source_location": "Extracted text row 40",
+          "source_excerpt": "Foundational Internship - Technology & Intellectual Media Foundational Internship - Technology & Intellectual Media Arivula Technologies Chennai, Tamil Nadu, India 1 day ago"
+        }
+      ],
+      "source_count": 2,
+      "quality_status": "needs_review",
+      "quality_reasons": [
+        "no_detected_ai_ml_relevance"
+      ],
+      "relevance_tags": []
+    },
+    {
+      "opportunity_title": "Research/PhD",
+      "organization": "Hewlett Packard Enterprise",
+      "location": "Bengaluru, Karnataka, India",
+      "posting_age": "1 day ago",
+      "duration": null,
+      "application_url": null,
+      "source_type": "job_board_listing",
+      "discovery_status": "unverified_candidate",
+      "eligibility_status": "not_assessed",
+      "verification_status": "not_verified",
+      "source_location": "Extracted text row 96",
+      "source_excerpt": "Research/PhD Research/PhD Hewlett Packard Enterprise Bengaluru, Karnataka, India 1 day ago",
+      "candidate_id": "ea55fc7ec9fc160a",
+      "source_pages": [
+        {
+          "source_page_title": "Ai Research Intern Jobs in India (202 Open Roles) | LinkedIn",
+          "source_page_url": "https://in.linkedin.com/jobs/ai-research-intern-jobs",
+          "source_location": "Extracted text row 96",
+          "source_excerpt": "Research/PhD Research/PhD Hewlett Packard Enterprise Bengaluru, Karnataka, India 1 day ago"
+        }
+      ],
+      "source_count": 1,
+      "quality_status": "needs_review",
+      "quality_reasons": [
+        "generic_title"
+      ],
+      "relevance_tags": [
+        "research"
+      ]
+    },
+    {
+      "opportunity_title": "Intern",
+      "organization": "IQVIA",
+      "location": "Gurugram, Haryana, India",
+      "posting_age": "5 days ago",
+      "duration": null,
+      "application_url": null,
+      "source_type": "job_board_listing",
+      "discovery_status": "unverified_candidate",
+      "eligibility_status": "not_assessed",
+      "verification_status": "not_verified",
+      "source_location": "Extracted text row 96",
+      "source_excerpt": "Intern Intern IQVIA Gurugram, Haryana, India 5 days ago",
+      "candidate_id": "ee1be155ffa2f54a",
+      "source_pages": [
+        {
+          "source_page_title": "Ai Internship Paid Jobs in India (297 Open Roles) | LinkedIn",
+          "source_page_url": "https://in.linkedin.com/jobs/ai-internship-paid-jobs",
+          "source_location": "Extracted text row 96",
+          "source_excerpt": "Intern Intern IQVIA Gurugram, Haryana, India 5 days ago"
+        }
+      ],
+      "source_count": 1,
+      "quality_status": "needs_review",
+      "quality_reasons": [
+        "generic_title",
+        "no_detected_ai_ml_relevance"
+      ],
+      "relevance_tags": []
+    },
+    {
+      "opportunity_title": "Intern",
+      "organization": "IQVIA",
+      "location": "Bengaluru, Karnataka, India",
+      "posting_age": "5 days ago",
+      "duration": null,
+      "application_url": null,
+      "source_type": "job_board_listing",
+      "discovery_status": "unverified_candidate",
+      "eligibility_status": "not_assessed",
+      "verification_status": "not_verified",
+      "source_location": "Extracted text row 100",
+      "source_excerpt": "Intern Intern IQVIA Bengaluru, Karnataka, India 5 days ago",
+      "candidate_id": "ab46d59e9d439fbc",
+      "source_pages": [
+        {
+          "source_page_title": "Ai Internship Paid Jobs in India (297 Open Roles) | LinkedIn",
+          "source_page_url": "https://in.linkedin.com/jobs/ai-internship-paid-jobs",
+          "source_location": "Extracted text row 100",
+          "source_excerpt": "Intern Intern IQVIA Bengaluru, Karnataka, India 5 days ago"
+        }
+      ],
+      "source_count": 1,
+      "quality_status": "needs_review",
+      "quality_reasons": [
+        "generic_title",
+        "no_detected_ai_ml_relevance"
+      ],
+      "relevance_tags": []
+    },
+    {
+      "opportunity_title": "Associate Software Engineer Intern - YMS",
+      "organization": "Kaleris",
+      "location": "Chennai, Tamil Nadu, India",
+      "posting_age": "1 week ago",
+      "duration": null,
+      "application_url": null,
+      "source_type": "job_board_listing",
+      "discovery_status": "unverified_candidate",
+      "eligibility_status": "not_assessed",
+      "verification_status": "not_verified",
+      "source_location": "Extracted text row 110",
+      "source_excerpt": "Associate Software Engineer Intern - YMS Associate Software Engineer Intern - YMS Kaleris Chennai, Tamil Nadu, India 1 week ago",
+      "candidate_id": "d82b60eed83aa8b5",
+      "source_pages": [
+        {
+          "source_page_title": "Ai Internship Paid Jobs in India (297 Open Roles) | LinkedIn",
+          "source_page_url": "https://in.linkedin.com/jobs/ai-internship-paid-jobs",
+          "source_location": "Extracted text row 110",
+          "source_excerpt": "Associate Software Engineer Intern - YMS Associate Software Engineer Intern - YMS Kaleris Chennai, Tamil Nadu, India 1 week ago"
+        },
+        {
+          "source_page_title": "Ai Research Intern Jobs in India (202 Open Roles) | LinkedIn",
+          "source_page_url": "https://in.linkedin.com/jobs/ai-research-intern-jobs",
+          "source_location": "Extracted text row 120",
+          "source_excerpt": "Associate Software Engineer Intern - YMS Associate Software Engineer Intern - YMS Kaleris Chennai, Tamil Nadu, India 1 week ago"
+        }
+      ],
+      "source_count": 2,
+      "quality_status": "needs_review",
+      "quality_reasons": [
+        "no_detected_ai_ml_relevance"
+      ],
+      "relevance_tags": []
+    },
+    {
+      "opportunity_title": "Product Intern",
+      "organization": "Lumenci",
+      "location": "India",
+      "posting_age": "3 weeks ago",
+      "duration": null,
+      "application_url": null,
+      "source_type": "job_board_listing",
+      "discovery_status": "unverified_candidate",
+      "eligibility_status": "not_assessed",
+      "verification_status": "not_verified",
+      "source_location": "Extracted text row 114",
+      "source_excerpt": "Product Intern Product Intern Lumenci India 3 weeks ago",
+      "candidate_id": "16829455328eff51",
+      "source_pages": [
+        {
+          "source_page_title": "Ai Internship Paid Jobs in India (297 Open Roles) | LinkedIn",
+          "source_page_url": "https://in.linkedin.com/jobs/ai-internship-paid-jobs",
+          "source_location": "Extracted text row 114",
+          "source_excerpt": "Product Intern Product Intern Lumenci India 3 weeks ago"
+        }
+      ],
+      "source_count": 1,
+      "quality_status": "needs_review",
+      "quality_reasons": [
+        "no_detected_ai_ml_relevance"
+      ],
+      "relevance_tags": []
+    },
+    {
+      "opportunity_title": "Applied Scientist",
+      "organization": "Meril",
+      "location": "Bengaluru, Karnataka, India",
+      "posting_age": "3 weeks ago",
+      "duration": null,
+      "application_url": null,
+      "source_type": "job_board_listing",
+      "discovery_status": "unverified_candidate",
+      "eligibility_status": "not_assessed",
+      "verification_status": "not_verified",
+      "source_location": "Extracted text row 44",
+      "source_excerpt": "Applied Scientist Applied Scientist Meril Bengaluru, Karnataka, India 3 weeks ago",
+      "candidate_id": "3bb0bf23dc01df0b",
+      "source_pages": [
+        {
+          "source_page_title": "Ai Internship Paid Jobs in India (297 Open Roles) | LinkedIn",
+          "source_page_url": "https://in.linkedin.com/jobs/ai-internship-paid-jobs",
+          "source_location": "Extracted text row 44",
+          "source_excerpt": "Applied Scientist Applied Scientist Meril Bengaluru, Karnataka, India 3 weeks ago"
+        },
+        {
+          "source_page_title": "Ai Research Intern Jobs in India (202 Open Roles) | LinkedIn",
+          "source_page_url": "https://in.linkedin.com/jobs/ai-research-intern-jobs",
+          "source_location": "Extracted text row 28",
+          "source_excerpt": "Applied Scientist Applied Scientist Meril Bengaluru, Karnataka, India 3 weeks ago"
+        }
+      ],
+      "source_count": 2,
+      "quality_status": "needs_review",
+      "quality_reasons": [
+        "generic_title"
+      ],
+      "relevance_tags": [
+        "research"
+      ]
+    },
+    {
+      "opportunity_title": "Software Engineer Intern",
+      "organization": "Meril",
+      "location": "Bengaluru, Karnataka, India",
+      "posting_age": "2 days ago",
+      "duration": null,
+      "application_url": null,
+      "source_type": "job_board_listing",
+      "discovery_status": "unverified_candidate",
+      "eligibility_status": "not_assessed",
+      "verification_status": "not_verified",
+      "source_location": "Extracted text row 68",
+      "source_excerpt": "Software Engineer Intern Software Engineer Intern Meril Bengaluru, Karnataka, India 2 days ago",
+      "candidate_id": "5ead7cf52d816a3d",
+      "source_pages": [
+        {
+          "source_page_title": "Ai Internship Paid Jobs in India (297 Open Roles) | LinkedIn",
+          "source_page_url": "https://in.linkedin.com/jobs/ai-internship-paid-jobs",
+          "source_location": "Extracted text row 68",
+          "source_excerpt": "Software Engineer Intern Software Engineer Intern Meril Bengaluru, Karnataka, India 2 days ago"
+        }
+      ],
+      "source_count": 1,
+      "quality_status": "needs_review",
+      "quality_reasons": [
+        "no_detected_ai_ml_relevance"
+      ],
+      "relevance_tags": []
+    },
+    {
+      "opportunity_title": "Founder's office (intern)",
+      "organization": "Norvia Labs",
+      "location": "India",
+      "posting_age": "3 days ago",
+      "duration": null,
+      "application_url": null,
+      "source_type": "job_board_listing",
+      "discovery_status": "unverified_candidate",
+      "eligibility_status": "not_assessed",
+      "verification_status": "not_verified",
+      "source_location": "Extracted text row 92",
+      "source_excerpt": "Founder's office (intern) Founder's office (intern) Norvia Labs India 3 days ago",
+      "candidate_id": "53d24e40a2c0b7b2",
+      "source_pages": [
+        {
+          "source_page_title": "Ai Research Intern Jobs in India (202 Open Roles) | LinkedIn",
+          "source_page_url": "https://in.linkedin.com/jobs/ai-research-intern-jobs",
+          "source_location": "Extracted text row 92",
+          "source_excerpt": "Founder's office (intern) Founder's office (intern) Norvia Labs India 3 days ago"
+        }
+      ],
+      "source_count": 1,
+      "quality_status": "needs_review",
+      "quality_reasons": [
+        "no_detected_ai_ml_relevance"
+      ],
+      "relevance_tags": []
+    },
+    {
+      "opportunity_title": "Perception Engineer - Apprentice",
+      "organization": "Origin",
+      "location": "Bengaluru, Karnataka, India",
+      "posting_age": "1 week ago",
+      "duration": null,
+      "application_url": null,
+      "source_type": "job_board_listing",
+      "discovery_status": "unverified_candidate",
+      "eligibility_status": "not_assessed",
+      "verification_status": "not_verified",
+      "source_location": "Extracted text row 104",
+      "source_excerpt": "Perception Engineer - Apprentice Perception Engineer - Apprentice Origin Bengaluru, Karnataka, India 1 week ago",
+      "candidate_id": "0034afa471275cfe",
+      "source_pages": [
+        {
+          "source_page_title": "Ai Research Intern Jobs in India (202 Open Roles) | LinkedIn",
+          "source_page_url": "https://in.linkedin.com/jobs/ai-research-intern-jobs",
+          "source_location": "Extracted text row 104",
+          "source_excerpt": "Perception Engineer - Apprentice Perception Engineer - Apprentice Origin Bengaluru, Karnataka, India 1 week ago"
+        }
+      ],
+      "source_count": 1,
+      "quality_status": "needs_review",
+      "quality_reasons": [
+        "no_detected_ai_ml_relevance"
+      ],
+      "relevance_tags": []
+    },
+    {
+      "opportunity_title": "Information Technology Intern",
+      "organization": "Procter & Gamble",
+      "location": "Mumbai Metropolitan Region",
+      "posting_age": "2 days ago",
+      "duration": null,
+      "application_url": null,
+      "source_type": "job_board_listing",
+      "discovery_status": "unverified_candidate",
+      "eligibility_status": "not_assessed",
+      "verification_status": "not_verified",
+      "source_location": "Extracted text row 48",
+      "source_excerpt": "Information Technology Intern Information Technology Intern Procter & Gamble Mumbai Metropolitan Region 2 days ago",
+      "candidate_id": "e0b5e784fcb1a777",
+      "source_pages": [
+        {
+          "source_page_title": "Ai Internship Paid Jobs in India (297 Open Roles) | LinkedIn",
+          "source_page_url": "https://in.linkedin.com/jobs/ai-internship-paid-jobs",
+          "source_location": "Extracted text row 48",
+          "source_excerpt": "Information Technology Intern Information Technology Intern Procter & Gamble Mumbai Metropolitan Region 2 days ago"
+        }
+      ],
+      "source_count": 1,
+      "quality_status": "needs_review",
+      "quality_reasons": [
+        "no_detected_ai_ml_relevance"
+      ],
+      "relevance_tags": []
+    },
+    {
+      "opportunity_title": "Software Development Trainee",
+      "organization": "WEX",
+      "location": "India",
+      "posting_age": "1 day ago",
+      "duration": null,
+      "application_url": null,
+      "source_type": "job_board_listing",
+      "discovery_status": "unverified_candidate",
+      "eligibility_status": "not_assessed",
+      "verification_status": "not_verified",
+      "source_location": "Extracted text row 106",
+      "source_excerpt": "Software Development Trainee Software Development Trainee WEX India 1 day ago",
+      "candidate_id": "1e069a0b89a05e32",
+      "source_pages": [
+        {
+          "source_page_title": "Ai Internship Paid Jobs in India (297 Open Roles) | LinkedIn",
+          "source_page_url": "https://in.linkedin.com/jobs/ai-internship-paid-jobs",
+          "source_location": "Extracted text row 106",
+          "source_excerpt": "Software Development Trainee Software Development Trainee WEX India 1 day ago"
+        }
+      ],
+      "source_count": 1,
+      "quality_status": "needs_review",
+      "quality_reasons": [
+        "no_detected_ai_ml_relevance"
+      ],
+      "relevance_tags": []
+    },
+    {
+      "opportunity_title": "Software Development Trainee-1",
+      "organization": "WEX",
+      "location": "Bengaluru, Karnataka, India",
+      "posting_age": "1 day ago",
+      "duration": null,
+      "application_url": null,
+      "source_type": "job_board_listing",
+      "discovery_status": "unverified_candidate",
+      "eligibility_status": "not_assessed",
+      "verification_status": "not_verified",
+      "source_location": "Extracted text row 120",
+      "source_excerpt": "Software Development Trainee-1 Software Development Trainee-1 WEX Bengaluru, Karnataka, India 1 day ago",
+      "candidate_id": "abbf5fdf5168df76",
+      "source_pages": [
+        {
+          "source_page_title": "Ai Internship Paid Jobs in India (297 Open Roles) | LinkedIn",
+          "source_page_url": "https://in.linkedin.com/jobs/ai-internship-paid-jobs",
+          "source_location": "Extracted text row 120",
+          "source_excerpt": "Software Development Trainee-1 Software Development Trainee-1 WEX Bengaluru, Karnataka, India 1 day ago"
+        }
+      ],
+      "source_count": 1,
+      "quality_status": "needs_review",
+      "quality_reasons": [
+        "no_detected_ai_ml_relevance"
+      ],
+      "relevance_tags": []
+    }
+  ]
+}
