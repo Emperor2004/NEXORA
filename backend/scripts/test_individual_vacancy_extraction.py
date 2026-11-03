@@ -34,15 +34,10 @@ def main():
     input_file = latest_file("vacancy_extractions_*.json")
     data = json.loads(input_file.read_text(encoding="utf-8"))
 
-    selected_organizations = {
-        "Blue Machines AI",
-        "Crossing Infotech",
-        "Devryxa"
-    }
-
     selected = [
         item for item in data["results"]
-        if item["candidate_organization"] in selected_organizations
+        if item.get("extraction_status") == "extracted"
+        and item.get("extracted_text", "").strip()
     ]
 
     print("Input:", input_file.name)
@@ -62,7 +57,13 @@ def main():
                 source_text=item["extracted_text"],
                 source_url=item.get("final_url") or item["matched_job_url"],
                 source_title=item["candidate_title"],
-                source_type="individual_linkedin_job"
+                source_type="individual_linkedin_job",
+                candidate_metadata={
+                    "candidate_id": item.get("candidate_id"),
+                    "candidate_title": item.get("candidate_title"),
+                    "candidate_organization": item.get("candidate_organization"),
+                    "candidate_location": item.get("candidate_location"),
+                },
             )
 
             result["candidate_id"] = item["candidate_id"]

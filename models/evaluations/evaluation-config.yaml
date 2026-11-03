@@ -1,0 +1,10 @@
+schema_version: 1
+suite: synthetic_fixture_integrity
+description: >-
+  Validates that synthetic evidence examples are internally consistent.
+  This suite does not call a model or measure extraction accuracy.
+cases:
+  - cases/opportunity-evidence.jsonl
+metrics:
+  - fixture_count
+  - populated_fields_with_exact_source_evidence

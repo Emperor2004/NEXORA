@@ -2,6 +2,7 @@
 from urllib.parse import urlsplit, urlunsplit, parse_qsl, urlencode
 
 from ddgs import DDGS
+from app.services.source_adapters import source_for_url
 
 
 TRACKING_PARAMETERS = {"gclid", "fbclid", "ref", "source"}
@@ -115,6 +116,17 @@ def search_internships(
 
                 domain = urlsplit(normalized_url).hostname or ""
                 classification = classify_domain(domain)
+                adapter = source_for_url(normalized_url)
+                # Prefer the platform adapter's exact classification, while
+                # retaining the established government/academic priority.
+                if adapter["adapter"] != "web":
+                    classification = {
+                        "source_type": adapter["source_type"],
+                        "official_domain": adapter["source_type"] in {
+                            "government_domain", "academic_domain"
+                        },
+                        "priority": adapter["priority"],
+                    }
 
                 if normalized_url in results_by_url:
                     existing = results_by_url[normalized_url]
@@ -132,6 +144,8 @@ def search_internships(
                     "source_type": classification["source_type"],
                     "official_domain": classification["official_domain"],
                     "source_priority": classification["priority"],
+                    "source_adapter": adapter["adapter"],
+                    "original_source_url": normalized_url,
                     "matched_queries": [query],
                     "collected_at": collected_at,
                     "evidence_status": "unverified_search_result"

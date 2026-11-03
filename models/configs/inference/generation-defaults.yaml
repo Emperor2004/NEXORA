@@ -1,0 +1,9 @@
+schema_version: 1
+temperature: 0
+local_context_tokens: 4096
+provider_timeouts_seconds:
+  discovery_planner: 90
+  opportunity_extractor: 120
+agent_output_token_limits:
+  discovery_planner: 2048
+  opportunity_extractor: 4096

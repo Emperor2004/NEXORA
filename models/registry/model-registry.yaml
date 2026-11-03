@@ -1,0 +1,17 @@
+schema_version: 1
+models:
+  local_default:
+    provider: ollama
+    model_env: OLLAMA_MODEL
+    default_model: qwen2.5:3b
+    enabled_by_default: true
+    tasks: [discovery_planning, structured_extraction]
+    data_policy: local_only
+  cloud_fallback:
+    provider: gemini
+    model_env: GEMINI_MODEL
+    default_model: gemini-3.8-flash
+    enabled_by_default: false
+    api_key_env: GEMINI_API_KEY
+    tasks: [discovery_planning, structured_extraction]
+    data_policy: external_provider_requires_configuration

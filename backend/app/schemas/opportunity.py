@@ -38,6 +38,7 @@ class OpportunityExtraction(BaseModel):
 
     is_paid: bool | None = None
     stipend: str | None = None
+    stipend_type: str | None = None
     duration: str | None = None
     posting_age: str | None = None
 

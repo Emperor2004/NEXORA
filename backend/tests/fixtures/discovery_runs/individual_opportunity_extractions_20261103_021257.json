@@ -1,0 +1,830 @@
+{
+  "generated_at": "2026-11-03T02:12:57.581907+05:30",
+  "input_file": "D:\\Projects\\NEXORA\\data\\discovery_runs\\vacancy_extractions_20261101_005038.json",
+  "processed": 4,
+  "successful": 4,
+  "failed": 0,
+  "records": [
+    {
+      "source": {
+        "title": "Evaluation & Insights Intern, AI Delivery",
+        "url": "https://in.linkedin.com/jobs/view/evaluation-insights-intern-ai-delivery-at-blue-machines-ai-4464468962",
+        "source_type": "individual_linkedin_job",
+        "document_truncated": false,
+        "characters_analyzed": 8665
+      },
+      "classification": {
+        "document_kind": "individual_announcement",
+        "method": "deterministic_rules",
+        "reason": "individual_linkedin_job_detail_page"
+      },
+      "record_status": "needs_human_review",
+      "extraction": {
+        "document_kind": "individual_announcement",
+        "opportunity_title": "Evaluation & Insights Intern, AI Delivery",
+        "organization": "Blue Machines AI",
+        "location": "Bengaluru, Karnataka, India",
+        "work_mode": null,
+        "employment_type": "Internship",
+        "research_areas": [],
+        "required_skills": [],
+        "is_paid": null,
+        "stipend": null,
+        "duration": "3-6 Months",
+        "posting_age": "1 month ago",
+        "start_date": null,
+        "end_date": null,
+        "application_deadline": null,
+        "eligible_degrees": [],
+        "eligible_branches": [],
+        "eligible_years": [],
+        "minimum_cgpa": null,
+        "nationality_requirement": null,
+        "eligibility_summary": null,
+        "application_method": null,
+        "application_url": null,
+        "contact_email": null,
+        "extraction_notes": [],
+        "evidence": [
+          {
+            "field_name": "organization",
+            "source_location": "SOURCE URL: https://in.linkedin.com/jobs/view/evaluation-insights-intern-ai-delivery-at-blue-machines-ai",
+            "quote": "Blue Machines AI Bengaluru, Karnataka, India"
+          },
+          {
+            "field_name": "location",
+            "source_location": "SOURCE URL: https://in.linkedin.com/jobs/view/evaluation-insights-intern-ai-delivery-at-blue-machines-ai",
+            "quote": "Bengaluru, Karnataka, India"
+          },
+          {
+            "field_name": "posting_age",
+            "source_location": "SOURCE URL: https://in.linkedin.com/jobs/view/evaluation-insights-intern-ai-delivery-at-blue-machines-ai",
+            "quote": "1 month ago"
+          },
+          {
+            "field_name": "opportunity_title",
+            "source_location": "SOURCE URL: https://in.linkedin.com/jobs/view/evaluation-insights-intern-ai-delivery-at-blue-machines-ai",
+            "quote": "Evaluation & Insights Intern, AI Delivery"
+          },
+          {
+            "field_name": "duration",
+            "source_location": "SOURCE URL: https://in.linkedin.com/jobs/view/evaluation-insights-intern-ai-delivery-at-blue-machines-ai",
+            "quote": "3-6 Months"
+          },
+          {
+            "field_name": "employment_type",
+            "source_location": "SOURCE URL: https://in.linkedin.com/jobs/view/evaluation-insights-intern-ai-delivery-at-blue-machines-ai",
+            "quote": "Internship"
+          }
+        ]
+      },
+      "evidence_validation": {
+        "field_validation": {
+          "opportunity_title": {
+            "status": "recovered_from_exact_quote",
+            "evidence": [
+              {
+                "source_location": "SOURCE URL: https://in.linkedin.com/jobs/view/evaluation-insights-intern-ai-delivery-at-blue-machines-ai",
+                "quote": "Evaluation & Insights Intern, AI Delivery"
+              }
+            ]
+          },
+          "organization": {
+            "status": "supported_by_source_quote",
+            "evidence": [
+              {
+                "source_location": "SOURCE URL: https://in.linkedin.com/jobs/view/evaluation-insights-intern-ai-delivery-at-blue-machines-ai",
+                "quote": "Blue Machines AI Bengaluru, Karnataka, India"
+              }
+            ]
+          },
+          "location": {
+            "status": "supported_by_source_quote",
+            "evidence": [
+              {
+                "source_location": "SOURCE URL: https://in.linkedin.com/jobs/view/evaluation-insights-intern-ai-delivery-at-blue-machines-ai",
+                "quote": "Bengaluru, Karnataka, India"
+              }
+            ]
+          },
+          "work_mode": {
+            "status": "not_found",
+            "evidence": []
+          },
+          "employment_type": {
+            "status": "recovered_from_exact_quote",
+            "evidence": [
+              {
+                "source_location": "SOURCE URL: https://in.linkedin.com/jobs/view/evaluation-insights-intern-ai-delivery-at-blue-machines-ai",
+                "quote": "Internship"
+              }
+            ]
+          },
+          "research_areas": {
+            "status": "not_found",
+            "evidence": []
+          },
+          "required_skills": {
+            "status": "not_found",
+            "evidence": []
+          },
+          "is_paid": {
+            "status": "not_found",
+            "evidence": []
+          },
+          "stipend": {
+            "status": "not_found",
+            "evidence": []
+          },
+          "duration": {
+            "status": "recovered_from_exact_quote",
+            "evidence": [
+              {
+                "source_location": "SOURCE URL: https://in.linkedin.com/jobs/view/evaluation-insights-intern-ai-delivery-at-blue-machines-ai",
+                "quote": "3-6 Months"
+              }
+            ]
+          },
+          "posting_age": {
+            "status": "supported_by_source_quote",
+            "evidence": [
+              {
+                "source_location": "SOURCE URL: https://in.linkedin.com/jobs/view/evaluation-insights-intern-ai-delivery-at-blue-machines-ai",
+                "quote": "1 month ago"
+              }
+            ]
+          },
+          "start_date": {
+            "status": "not_found",
+            "evidence": []
+          },
+          "end_date": {
+            "status": "not_found",
+            "evidence": []
+          },
+          "application_deadline": {
+            "status": "not_found",
+            "evidence": []
+          },
+          "eligible_degrees": {
+            "status": "not_found",
+            "evidence": []
+          },
+          "eligible_branches": {
+            "status": "not_found",
+            "evidence": []
+          },
+          "eligible_years": {
+            "status": "not_found",
+            "evidence": []
+          },
+          "minimum_cgpa": {
+            "status": "not_found",
+            "evidence": []
+          },
+          "nationality_requirement": {
+            "status": "not_found",
+            "evidence": []
+          },
+          "eligibility_summary": {
+            "status": "unsupported_removed",
+            "evidence": []
+          },
+          "application_method": {
+            "status": "not_found",
+            "evidence": []
+          },
+          "application_url": {
+            "status": "not_found",
+            "evidence": []
+          },
+          "contact_email": {
+            "status": "not_found",
+            "evidence": []
+          }
+        },
+        "rejected_claims": [
+          {
+            "field": "eligibility_summary",
+            "rejected_value": "Internship",
+            "reason": "No matching field-specific source quotation."
+          }
+        ],
+        "unsupported_fields": [
+          "eligibility_summary"
+        ],
+        "recovered_fields": [
+          "duration",
+          "employment_type",
+          "opportunity_title"
+        ],
+        "all_populated_fields_supported": false
+      },
+      "verification_status": "not_independently_verified",
+      "candidate_id": "a54d56a76c8d6a32",
+      "candidate_location": "Bengaluru, Karnataka, India"
+    },
+    {
+      "source": {
+        "title": "Artificial Intelligence Intern (Python, Machine Learning, NLP, Prompt Engineering) | Remote",
+        "url": "https://in.linkedin.com/jobs/view/artificial-intelligence-intern-python-machine-learning-nlp-prompt-engineering-remote-at-crossing-infotech-4485134405",
+        "source_type": "individual_linkedin_job",
+        "document_truncated": false,
+        "characters_analyzed": 8637
+      },
+      "classification": {
+        "document_kind": "individual_announcement",
+        "method": "deterministic_rules",
+        "reason": "individual_linkedin_job_detail_page"
+      },
+      "record_status": "needs_human_review",
+      "extraction": {
+        "document_kind": "individual_announcement",
+        "opportunity_title": null,
+        "organization": null,
+        "location": null,
+        "work_mode": null,
+        "employment_type": null,
+        "research_areas": [],
+        "required_skills": [],
+        "is_paid": null,
+        "stipend": null,
+        "duration": null,
+        "posting_age": "14 hours ago",
+        "start_date": null,
+        "end_date": null,
+        "application_deadline": null,
+        "eligible_degrees": [],
+        "eligible_branches": [],
+        "eligible_years": [],
+        "minimum_cgpa": null,
+        "nationality_requirement": null,
+        "eligibility_summary": null,
+        "application_method": null,
+        "application_url": null,
+        "contact_email": null,
+        "extraction_notes": [
+          "Eligibility: Students and recent graduates in B.Tech, BCA, MCA, B.Sc (Computer Science, IT, Statistics or Mathematics), M.Sc or any related field",
+          "Posting age: 14 hours ago"
+        ],
+        "evidence": [
+          {
+            "field_name": "posting_age",
+            "source_location": "14 hours ago",
+            "quote": "Crossing Infotech India 14 hours ago 126 applicants See who Crossing Infotech has hired for this role"
+          }
+        ]
+      },
+      "evidence_validation": {
+        "field_validation": {
+          "opportunity_title": {
+            "status": "not_found",
+            "evidence": []
+          },
+          "organization": {
+            "status": "not_found",
+            "evidence": []
+          },
+          "location": {
+            "status": "not_found",
+            "evidence": []
+          },
+          "work_mode": {
+            "status": "not_found",
+            "evidence": []
+          },
+          "employment_type": {
+            "status": "not_found",
+            "evidence": []
+          },
+          "research_areas": {
+            "status": "not_found",
+            "evidence": []
+          },
+          "required_skills": {
+            "status": "not_found",
+            "evidence": []
+          },
+          "is_paid": {
+            "status": "not_found",
+            "evidence": []
+          },
+          "stipend": {
+            "status": "not_found",
+            "evidence": []
+          },
+          "duration": {
+            "status": "not_found",
+            "evidence": []
+          },
+          "posting_age": {
+            "status": "supported_by_source_quote",
+            "evidence": [
+              {
+                "source_location": "14 hours ago",
+                "quote": "Crossing Infotech India 14 hours ago 126 applicants See who Crossing Infotech has hired for this role"
+              }
+            ]
+          },
+          "start_date": {
+            "status": "not_found",
+            "evidence": []
+          },
+          "end_date": {
+            "status": "not_found",
+            "evidence": []
+          },
+          "application_deadline": {
+            "status": "not_found",
+            "evidence": []
+          },
+          "eligible_degrees": {
+            "status": "not_found",
+            "evidence": []
+          },
+          "eligible_branches": {
+            "status": "not_found",
+            "evidence": []
+          },
+          "eligible_years": {
+            "status": "not_found",
+            "evidence": []
+          },
+          "minimum_cgpa": {
+            "status": "not_found",
+            "evidence": []
+          },
+          "nationality_requirement": {
+            "status": "not_found",
+            "evidence": []
+          },
+          "eligibility_summary": {
+            "status": "unsupported_removed",
+            "evidence": []
+          },
+          "application_method": {
+            "status": "not_found",
+            "evidence": []
+          },
+          "application_url": {
+            "status": "not_found",
+            "evidence": []
+          },
+          "contact_email": {
+            "status": "not_found",
+            "evidence": []
+          }
+        },
+        "rejected_claims": [
+          {
+            "field": "eligibility_summary",
+            "rejected_value": "Freshers and students are welcome to apply. Students and recent graduates in B.Tech, BCA, MCA, B.Sc (Computer Science, IT, Statistics or Mathematics), M.Sc or any related field",
+            "reason": "No matching field-specific source quotation."
+          }
+        ],
+        "unsupported_fields": [
+          "eligibility_summary"
+        ],
+        "recovered_fields": [],
+        "all_populated_fields_supported": false
+      },
+      "verification_status": "not_independently_verified",
+      "candidate_id": "9857ff488add024c",
+      "candidate_location": "India"
+    },
+    {
+      "source": {
+        "title": "Machine Learning Intern (Python, Scikit-learn, Pandas, Data Preprocessing) | Remote",
+        "url": "https://in.linkedin.com/jobs/view/machine-learning-intern-python-scikit-learn-pandas-data-preprocessing-remote-at-crossing-infotech-4485138357",
+        "source_type": "individual_linkedin_job",
+        "document_truncated": false,
+        "characters_analyzed": 8058
+      },
+      "classification": {
+        "document_kind": "individual_announcement",
+        "method": "deterministic_rules",
+        "reason": "individual_linkedin_job_detail_page"
+      },
+      "record_status": "needs_human_review",
+      "extraction": {
+        "document_kind": "individual_announcement",
+        "opportunity_title": "Join or sign in to find your next job\nJoin to apply for the Machine Learning Intern (Python, Scikit-learn, Pandas, Data Preprocessing) | Remote role at Crossing Infotech or New to LinkedIn? Join now",
+        "organization": null,
+        "location": null,
+        "work_mode": null,
+        "employment_type": null,
+        "research_areas": [],
+        "required_skills": [],
+        "is_paid": null,
+        "stipend": null,
+        "duration": null,
+        "posting_age": "14 hours ago",
+        "start_date": null,
+        "end_date": null,
+        "application_deadline": null,
+        "eligible_degrees": [],
+        "eligible_branches": [],
+        "eligible_years": [],
+        "minimum_cgpa": null,
+        "nationality_requirement": null,
+        "eligibility_summary": null,
+        "application_method": null,
+        "application_url": null,
+        "contact_email": null,
+        "extraction_notes": [],
+        "evidence": [
+          {
+            "field_name": "posting_age",
+            "source_location": "14 hours ago: https://in.linkedin.com/jobs/view/machine-learning-intern-python-scikit-learn-pandas-data-preprocessing-remote-at-crossing-infotech-4485138357",
+            "quote": "Crossing Infotech India 14 hours ago 133 applicants See who Crossing Infotech has hired for this role"
+          },
+          {
+            "field_name": "opportunity_title",
+            "source_location": "https://in.linkedin.com/jobs/view/machine-learning-intern-python-scikit-learn-pandas-data-preprocessing-remote-at-crossing-infotech-4485138357",
+            "quote": "Join or sign in to find your next job\nJoin to apply for the Machine Learning Intern (Python, Scikit-learn, Pandas, Data Preprocessing) | Remote role at Crossing Infotech or New to LinkedIn? Join now"
+          },
+          {
+            "field_name": "location",
+            "source_location": "https://in.linkedin.com/jobs/view/machine-learning-intern-python-scikit-learn-pandas-data-preprocessing-remote-at-crossing-infotech-4485138357",
+            "quote": "Location: India (Remote)"
+          },
+          {
+            "field_name": "duration",
+            "source_location": "https://in.linkedin.com/jobs/view/machine-learning-intern-python-scikit-learn-pandas-data-preprocessing-remote-at-crossing-infotech-4485138357",
+            "quote": "Duration: 1 to 3 months"
+          },
+          {
+            "field_name": "eligibility_summary",
+            "source_location": "https://in.linkedin.com/jobs/view/machine-learning-intern-python-scikit-learn-pandas-data-preprocessing-remote-at-crossing-infotech-4485138357",
+            "quote": "Freshers and students are welcome to apply. About Crossing Infotech Crossing Infotech is an IT solutions company that provides technology, data and business support services to its clients. Interns work on live projects under the guidance of experienced team members."
+          },
+          {
+            "field_name": "organization",
+            "source_location": "https://in.linkedin.com/jobs/view/machine-learning-intern-python-scikit-learn-pandas-data-preprocessing-remote-at-crossing-infotech-4485138357",
+            "quote": "Crossing Infotech is an IT solutions company that provides technology, data and business support services to its clients."
+          }
+        ]
+      },
+      "evidence_validation": {
+        "field_validation": {
+          "opportunity_title": {
+            "status": "recovered_from_exact_quote",
+            "evidence": [
+              {
+                "source_location": "https://in.linkedin.com/jobs/view/machine-learning-intern-python-scikit-learn-pandas-data-preprocessing-remote-at-crossing-infotech-4485138357",
+                "quote": "Join or sign in to find your next job\nJoin to apply for the Machine Learning Intern (Python, Scikit-learn, Pandas, Data Preprocessing) | Remote role at Crossing Infotech or New to LinkedIn? Join now"
+              }
+            ]
+          },
+          "organization": {
+            "status": "not_found",
+            "evidence": [
+              {
+                "source_location": "https://in.linkedin.com/jobs/view/machine-learning-intern-python-scikit-learn-pandas-data-preprocessing-remote-at-crossing-infotech-4485138357",
+                "quote": "Crossing Infotech is an IT solutions company that provides technology, data and business support services to its clients."
+              }
+            ]
+          },
+          "location": {
+            "status": "not_found",
+            "evidence": [
+              {
+                "source_location": "https://in.linkedin.com/jobs/view/machine-learning-intern-python-scikit-learn-pandas-data-preprocessing-remote-at-crossing-infotech-4485138357",
+                "quote": "Location: India (Remote)"
+              }
+            ]
+          },
+          "work_mode": {
+            "status": "not_found",
+            "evidence": []
+          },
+          "employment_type": {
+            "status": "not_found",
+            "evidence": []
+          },
+          "research_areas": {
+            "status": "not_found",
+            "evidence": []
+          },
+          "required_skills": {
+            "status": "not_found",
+            "evidence": []
+          },
+          "is_paid": {
+            "status": "not_found",
+            "evidence": []
+          },
+          "stipend": {
+            "status": "not_found",
+            "evidence": []
+          },
+          "duration": {
+            "status": "not_found",
+            "evidence": [
+              {
+                "source_location": "https://in.linkedin.com/jobs/view/machine-learning-intern-python-scikit-learn-pandas-data-preprocessing-remote-at-crossing-infotech-4485138357",
+                "quote": "Duration: 1 to 3 months"
+              }
+            ]
+          },
+          "posting_age": {
+            "status": "supported_by_source_quote",
+            "evidence": [
+              {
+                "source_location": "14 hours ago: https://in.linkedin.com/jobs/view/machine-learning-intern-python-scikit-learn-pandas-data-preprocessing-remote-at-crossing-infotech-4485138357",
+                "quote": "Crossing Infotech India 14 hours ago 133 applicants See who Crossing Infotech has hired for this role"
+              }
+            ]
+          },
+          "start_date": {
+            "status": "not_found",
+            "evidence": []
+          },
+          "end_date": {
+            "status": "not_found",
+            "evidence": []
+          },
+          "application_deadline": {
+            "status": "not_found",
+            "evidence": []
+          },
+          "eligible_degrees": {
+            "status": "not_found",
+            "evidence": []
+          },
+          "eligible_branches": {
+            "status": "not_found",
+            "evidence": []
+          },
+          "eligible_years": {
+            "status": "not_found",
+            "evidence": []
+          },
+          "minimum_cgpa": {
+            "status": "not_found",
+            "evidence": []
+          },
+          "nationality_requirement": {
+            "status": "not_found",
+            "evidence": []
+          },
+          "eligibility_summary": {
+            "status": "not_found",
+            "evidence": [
+              {
+                "source_location": "https://in.linkedin.com/jobs/view/machine-learning-intern-python-scikit-learn-pandas-data-preprocessing-remote-at-crossing-infotech-4485138357",
+                "quote": "Freshers and students are welcome to apply. About Crossing Infotech Crossing Infotech is an IT solutions company that provides technology, data and business support services to its clients. Interns work on live projects under the guidance of experienced team members."
+              }
+            ]
+          },
+          "application_method": {
+            "status": "not_found",
+            "evidence": []
+          },
+          "application_url": {
+            "status": "unsupported_removed",
+            "evidence": []
+          },
+          "contact_email": {
+            "status": "not_found",
+            "evidence": []
+          }
+        },
+        "rejected_claims": [
+          {
+            "field": "application_url",
+            "rejected_value": "https://in.linkedin.com/jobs/view/machine-learning-intern-python-scikit-learn-pandas-data-preprocessing-remote-at-crossing-infotech-4485138357",
+            "reason": "No matching field-specific source quotation."
+          }
+        ],
+        "unsupported_fields": [
+          "application_url"
+        ],
+        "recovered_fields": [
+          "opportunity_title"
+        ],
+        "all_populated_fields_supported": false
+      },
+      "verification_status": "not_independently_verified",
+      "candidate_id": "bf5b354d243d3fed",
+      "candidate_location": "India"
+    },
+    {
+      "source": {
+        "title": "Data Science Intern",
+        "url": "https://in.linkedin.com/jobs/view/data-science-intern-at-devryxa-4485157683",
+        "source_type": "individual_linkedin_job",
+        "document_truncated": false,
+        "characters_analyzed": 8530
+      },
+      "classification": {
+        "document_kind": "individual_announcement",
+        "method": "deterministic_rules",
+        "reason": "individual_linkedin_job_detail_page"
+      },
+      "record_status": "needs_human_review",
+      "extraction": {
+        "document_kind": "individual_announcement",
+        "opportunity_title": "DATA SCIENCE INTERN",
+        "organization": null,
+        "location": null,
+        "work_mode": null,
+        "employment_type": null,
+        "research_areas": [],
+        "required_skills": [],
+        "is_paid": null,
+        "stipend": null,
+        "duration": null,
+        "posting_age": "1 hour ago",
+        "start_date": null,
+        "end_date": null,
+        "application_deadline": null,
+        "eligible_degrees": [],
+        "eligible_branches": [],
+        "eligible_years": [],
+        "minimum_cgpa": null,
+        "nationality_requirement": null,
+        "eligibility_summary": null,
+        "application_method": null,
+        "application_url": null,
+        "contact_email": null,
+        "extraction_notes": [],
+        "evidence": [
+          {
+            "field_name": "posting_age",
+            "source_location": "SOURCE URL: https://in.linkedin.com/jobs/view/data-science-intern-at-devryxa-4485157683",
+            "quote": "Devryxa India 1 hour ago 34 applicants See who Devryxa has hired for this role"
+          },
+          {
+            "field_name": "stipend",
+            "source_location": "SOURCE URL: https://in.linkedin.com/jobs/view/data-science-intern-at-devryxa-4485157683",
+            "quote": "Performance-based, up to ₹7,500/-"
+          },
+          {
+            "field_name": "duration",
+            "source_location": "SOURCE URL: https://in.linkedin.com/jobs/view/data-science-intern-at-devryxa-4485157683",
+            "quote": "Duration: 3 Months"
+          },
+          {
+            "field_name": "organization",
+            "source_location": "SOURCE URL: https://in.linkedin.com/jobs/view/data-science-intern-at-devryxa-4485157683",
+            "quote": "Company: Devryxa"
+          },
+          {
+            "field_name": "opportunity_title",
+            "source_location": "SOURCE URL: https://in.linkedin.com/jobs/view/data-science-intern-at-devryxa-4485157683",
+            "quote": "DATA SCIENCE INTERN"
+          },
+          {
+            "field_name": "location",
+            "source_location": "SOURCE URL: https://in.linkedin.com/jobs/view/data-science-intern-at-devryxa-4485157683",
+            "quote": "Location: Remote"
+          }
+        ]
+      },
+      "evidence_validation": {
+        "field_validation": {
+          "opportunity_title": {
+            "status": "recovered_from_exact_quote",
+            "evidence": [
+              {
+                "source_location": "SOURCE URL: https://in.linkedin.com/jobs/view/data-science-intern-at-devryxa-4485157683",
+                "quote": "DATA SCIENCE INTERN"
+              }
+            ]
+          },
+          "organization": {
+            "status": "not_found",
+            "evidence": [
+              {
+                "source_location": "SOURCE URL: https://in.linkedin.com/jobs/view/data-science-intern-at-devryxa-4485157683",
+                "quote": "Company: Devryxa"
+              }
+            ]
+          },
+          "location": {
+            "status": "not_found",
+            "evidence": [
+              {
+                "source_location": "SOURCE URL: https://in.linkedin.com/jobs/view/data-science-intern-at-devryxa-4485157683",
+                "quote": "Location: Remote"
+              }
+            ]
+          },
+          "work_mode": {
+            "status": "not_found",
+            "evidence": []
+          },
+          "employment_type": {
+            "status": "not_found",
+            "evidence": []
+          },
+          "research_areas": {
+            "status": "not_found",
+            "evidence": []
+          },
+          "required_skills": {
+            "status": "not_found",
+            "evidence": []
+          },
+          "is_paid": {
+            "status": "not_found",
+            "evidence": []
+          },
+          "stipend": {
+            "status": "not_found",
+            "evidence": [
+              {
+                "source_location": "SOURCE URL: https://in.linkedin.com/jobs/view/data-science-intern-at-devryxa-4485157683",
+                "quote": "Performance-based, up to ₹7,500/-"
+              }
+            ]
+          },
+          "duration": {
+            "status": "not_found",
+            "evidence": [
+              {
+                "source_location": "SOURCE URL: https://in.linkedin.com/jobs/view/data-science-intern-at-devryxa-4485157683",
+                "quote": "Duration: 3 Months"
+              }
+            ]
+          },
+          "posting_age": {
+            "status": "supported_by_source_quote",
+            "evidence": [
+              {
+                "source_location": "SOURCE URL: https://in.linkedin.com/jobs/view/data-science-intern-at-devryxa-4485157683",
+                "quote": "Devryxa India 1 hour ago 34 applicants See who Devryxa has hired for this role"
+              }
+            ]
+          },
+          "start_date": {
+            "status": "not_found",
+            "evidence": []
+          },
+          "end_date": {
+            "status": "not_found",
+            "evidence": []
+          },
+          "application_deadline": {
+            "status": "not_found",
+            "evidence": []
+          },
+          "eligible_degrees": {
+            "status": "not_found",
+            "evidence": []
+          },
+          "eligible_branches": {
+            "status": "not_found",
+            "evidence": []
+          },
+          "eligible_years": {
+            "status": "not_found",
+            "evidence": []
+          },
+          "minimum_cgpa": {
+            "status": "not_found",
+            "evidence": []
+          },
+          "nationality_requirement": {
+            "status": "not_found",
+            "evidence": []
+          },
+          "eligibility_summary": {
+            "status": "unsupported_removed",
+            "evidence": []
+          },
+          "application_method": {
+            "status": "not_found",
+            "evidence": []
+          },
+          "application_url": {
+            "status": "not_found",
+            "evidence": []
+          },
+          "contact_email": {
+            "status": "not_found",
+            "evidence": []
+          }
+        },
+        "rejected_claims": [
+          {
+            "field": "eligibility_summary",
+            "rejected_value": "FOR COLLEGE STUDENTS ONLY",
+            "reason": "No matching field-specific source quotation."
+          }
+        ],
+        "unsupported_fields": [
+          "eligibility_summary"
+        ],
+        "recovered_fields": [
+          "opportunity_title"
+        ],
+        "all_populated_fields_supported": false
+      },
+      "verification_status": "not_independently_verified",
+      "candidate_id": "ae1e9de97559bbc9",
+      "candidate_location": "India"
+    }
+  ]
+}

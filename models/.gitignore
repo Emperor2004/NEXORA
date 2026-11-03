@@ -1,0 +1,8 @@
+artifacts/*
+!artifacts/.gitkeep
+*.gguf
+*.safetensors
+*.pt
+*.pth
+*.onnx
+model_cache/

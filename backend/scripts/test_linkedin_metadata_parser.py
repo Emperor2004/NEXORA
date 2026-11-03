@@ -5,7 +5,7 @@ from pathlib import Path
 PROJECT_ROOT = Path(__file__).resolve().parents[1]
 sys.path.insert(0, str(PROJECT_ROOT))
 
-DATA_DIR = PROJECT_ROOT.parent / "data" / "discovery_runs"
+DATA_DIR = PROJECT_ROOT / "tests" / "fixtures" / "discovery_runs"
 
 from app.services.linkedin_metadata_parser import parse_linkedin_metadata
 
@@ -24,19 +24,14 @@ def main():
     input_file = latest_file("vacancy_extractions_*.json")
     data = json.loads(input_file.read_text(encoding="utf-8"))
 
-    selected_orgs = {
-        "Blue Machines AI",
-        "Crossing Infotech",
-        "Devryxa"
-    }
-
     records = [
         item for item in data["results"]
-        if item.get("candidate_organization") in selected_orgs
+        if item.get("extraction_status") == "extracted"
+        and item.get("extracted_text", "").strip()
     ]
 
-    assert len(records) == 4, (
-        f"Expected 4 test records, found {len(records)}"
+    assert len(records) == 10, (
+        f"Expected 10 readable vacancy records, found {len(records)}"
     )
 
     print("Input:", input_file.name)
@@ -69,28 +64,28 @@ def main():
             print(f"{key}: {parsed[key]}")
 
     # Regression assertions for known source content.
-    blue = results[0]
+    blue = results[4]
     assert blue["duration"] == "3-6 Months"
     assert blue["location"] == "Bengaluru"
     assert blue["work_mode"] == "On-site (WFO)"
     assert blue["employment_type"] == "Internship"
     assert blue["is_paid"] is None
 
-    crossing_ai = results[1]
+    crossing_ai = results[6]
     assert crossing_ai["duration"] == "1 to 3 months"
     assert crossing_ai["work_mode"] == "Remote"
     assert crossing_ai["stipend"] == (
         "INR 15,500 to INR 16,500 per month"
     )
 
-    crossing_ml = results[2]
+    crossing_ml = results[7]
     assert crossing_ml["duration"] == "1 to 3 months"
     assert crossing_ml["work_mode"] == "Remote"
     assert crossing_ml["stipend"] == (
         "INR 15,500 to INR 16,500 per month"
     )
 
-    devryxa = results[3]
+    devryxa = results[9]
     assert devryxa["duration"] == "3 Months"
     assert devryxa["work_mode"] == "Remote"
     assert devryxa["stipend_type"] == "conditional_performance_based"

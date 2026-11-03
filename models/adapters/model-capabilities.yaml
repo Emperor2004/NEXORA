@@ -1,0 +1,12 @@
+schema_version: 1
+capabilities:
+  ollama:
+    structured_json: true
+    supports_output_token_limit: true
+    supports_request_timeout: true
+    default_model: qwen2.5:3b
+  gemini:
+    structured_json: true
+    supports_output_token_limit: true
+    supports_request_timeout: true
+    default_model: gemini-3.8-flash

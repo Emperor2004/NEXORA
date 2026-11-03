@@ -1,3 +1,74 @@
+# Secrets and local environment settings. Keep only example templates.
 .env
 .env.*
 !.env.example
+
+# Python environments, bytecode, test and type-check caches
+.venv/
+venv/
+**/__pycache__/
+*.py[cod]
+.pytest_cache/
+**/.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.hypothesis/
+.tox/
+.nox/
+.coverage
+.coverage.*
+coverage.xml
+htmlcov/
+
+# Node dependencies and generated frontend/build/test output
+node_modules/
+frontend/dist/
+frontend/.vite/
+frontend/coverage/
+frontend/*.tsbuildinfo
+frontend/.env.local
+frontend/.next/
+frontend/out/
+frontend/playwright-report/
+frontend/test-results/
+.turbo/
+
+# Runtime discovery, caches, exports, and local database files
+/data/discovery_runs/
+/data/cache/
+/data/exports/
+/backend/data/*.sqlite
+/backend/data/*.sqlite3
+/backend/data/*.sqlite3-shm
+/backend/data/*.sqlite3-wal
+*.db
+*.sqlite
+*.sqlite3
+*.sqlite3-shm
+*.sqlite3-wal
+
+# Downloaded model weights and runtime artifacts; keep directory markers
+/models/artifacts/*
+!/models/artifacts/.gitkeep
+**/model_cache/
+*.gguf
+*.safetensors
+*.pt
+*.pth
+*.onnx
+
+# Logs and transient files
+*.log
+logs/
+tmp/
+temp/
+.nexora-dev/
+
+# Operating system and editor state
+.DS_Store
+Thumbs.db
+Desktop.ini
+.vscode/
+.idea/
+*.swp
+*.swo

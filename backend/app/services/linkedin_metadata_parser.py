@@ -95,12 +95,12 @@ def parse_linkedin_metadata(
             capture_labeled("Job Title", text)
         )
 
-    company = capture_labeled("Company", text) or candidate_organization
+    company = candidate_organization or capture_labeled("Company", text)
     if company:
         source = (
-            "page_text"
-            if capture_labeled("Company", text)
-            else "matched_candidate_metadata"
+            "matched_candidate_metadata"
+            if candidate_organization
+            else "page_text"
         )
         assign("organization", company, source)
 
@@ -117,21 +117,36 @@ def parse_linkedin_metadata(
         duration = match.group(0) if match else None
 
     if duration:
+        duration_match = re.match(
+            r"\d+\s*(?:(?:-|–|to)\s*\d+\s*)?"
+            r"(?:days?|weeks?|months?|years?)\b",
+            duration,
+            re.IGNORECASE
+        )
+        duration = duration_match.group(0) if duration_match else None
+    if duration:
         assign("duration", duration)
 
     # Stipend: capture only a monetary amount and its relevant qualifier.
     stipend_pattern = (
         r"Performance[- ]based,\s*up to\s*"
-        r"(?:INR|Rs\.?|₹)\s*[\d,]+/?"
-        r"|(?:INR|Rs\.?|₹)\s*[\d,]+"
-        r"(?:\s*(?:to|-|–)\s*(?:(?:INR|Rs\.?|₹)\s*)?[\d,]+)?"
+        r"(?:INR|Rs\.?|₹)\s*\d[\d,]*(?:/-|/|-)?"
+        r"|(?:INR|Rs\.?|₹)\s*\d[\d,]*"
+        r"(?:\s*(?:to|-|–)\s*(?:(?:INR|Rs\.?|₹)\s*)?\d[\d,]*)?"
         r"(?:\s*(?:per month|/month))?"
     )
 
     # Prefer the explicitly labelled stipend field over introductory
     # or benefits text, which may contain abbreviated duplicates.
     stipend_source = capture_labeled("Stipend", text)
-    stipend_search_text = stipend_source if stipend_source else text
+    if stipend_source:
+        stipend_search_text = stipend_source
+    else:
+        stipend_mentions = list(re.finditer(r"\bstipend\b", text, re.IGNORECASE))
+        stipend_search_text = " ".join(
+            text[match.start():match.end() + 140]
+            for match in stipend_mentions
+        )
 
     stipend_match = re.search(
         stipend_pattern,
@@ -143,14 +158,55 @@ def parse_linkedin_metadata(
         stipend = clean(stipend_match.group(0))
         assign("stipend", stipend)
 
-        result["is_paid"] = True
-        result["field_sources"]["is_paid"] = "explicit_stipend_evidence"
-
-        result["stipend_type"] = (
-            "conditional_performance_based"
-            if re.search(r"performance[- ]based", stipend, re.IGNORECASE)
-            else "stated_monetary_stipend"
+        conditional_pay_context = re.search(
+            r"(?:actual pay (?:will be|is) based on|performance[- ]based)",
+            text,
+            re.IGNORECASE,
         )
+        conditional_completion_context = re.search(
+            r"(?:payable on successful completion|subject to successful completion)",
+            text,
+            re.IGNORECASE,
+        )
+        if re.search(r"performance[- ]based", stipend, re.IGNORECASE):
+            result["stipend_type"] = "conditional_performance_based"
+        elif conditional_pay_context:
+            result["stipend_type"] = "conditional_pay_range"
+        elif conditional_completion_context:
+            result["stipend_type"] = "conditional_completion"
+        else:
+            result["stipend_type"] = "stated_monetary_stipend"
+        result["field_sources"]["stipend_type"] = result["field_sources"].get(
+            "stipend", "page_text"
+        )
+        stipend_quote = source_quote(stipend, text)
+        condition_match = (
+            conditional_pay_context
+            or conditional_completion_context
+        )
+        condition_quote = (
+            condition_match.group(0)
+            if condition_match
+            else None
+        )
+        if condition_quote:
+            condition_quote = source_quote(condition_quote, text)
+        type_quote = condition_quote or stipend_quote
+        if type_quote:
+            result["evidence"].append({
+                "field_name": "stipend_type",
+                "source_location": "LinkedIn vacancy page",
+                "quote": type_quote,
+            })
+        if not result["stipend_type"].startswith("conditional_"):
+            result["is_paid"] = True
+            result["field_sources"]["is_paid"] = "explicit_stipend_evidence"
+            if stipend_quote:
+                result["evidence"].append({
+                    "field_name": "is_paid",
+                    "source_location": "LinkedIn vacancy page",
+                    "quote": stipend_quote,
+                })
 
     # Employment type: bounded to a known employment value.
     employment = capture_labeled("Employment Type", text)
@@ -192,6 +248,26 @@ def parse_linkedin_metadata(
 
     if work_mode:
         assign("work_mode", work_mode)
+        if not any(
+            item["field_name"] == "work_mode"
+            for item in result["evidence"]
+        ):
+            mode_evidence_patterns = {
+                "On-site (WFO)": r"\bWFO\b|on[ -]?site",
+                "Remote": r"\bremote\b|work from home",
+                "Hybrid": r"\bhybrid\b",
+            }
+            mode_match = re.search(
+                mode_evidence_patterns.get(work_mode, r"(?!)"),
+                text,
+                re.IGNORECASE,
+            )
+            if mode_match:
+                result["evidence"].append({
+                    "field_name": "work_mode",
+                    "source_location": "LinkedIn vacancy page",
+                    "quote": mode_match.group(0),
+                })
 
     # Location: prefer a compact explicit location field.
     location = capture_labeled("Location", text)
@@ -216,6 +292,9 @@ def parse_linkedin_metadata(
         if match:
             location = match.group(1)
 
+    if location:
+        if re.search(r"\binternship\b|\bas per the project\b", location, re.IGNORECASE):
+            location = None
     if location:
         assign("location", location)
     elif candidate_location:

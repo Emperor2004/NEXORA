@@ -3,6 +3,8 @@
 from pydantic import BaseModel, Field
 
 from app.services.llm_service import generate_structured_output
+from app.agents.registry import get_agent_profile
+from app.services.prompt_registry import load_agent_prompt
 
 
 class DiscoveryPlan(BaseModel):
@@ -98,35 +100,25 @@ class DiscoveryAgent:
 
         return exclusions
 
-    def execute(self, user_request: str) -> dict:
+    def execute(
+        self,
+        user_request: str,
+        timeout_seconds: int = 90,
+        max_output_tokens: int = 2048,
+        allowed_providers: tuple[str, ...] | list[str] | None = None,
+    ) -> dict:
 
-        system_prompt = """
-You are the Discovery Planning Agent of NEXORA AI.
-
-Convert internship requests into structured discovery plans.
-
-RULES:
-
-1. Separate mandatory constraints from ranking preferences.
-2. Paid only, location, start date and duration are hard constraints.
-3. Prioritize, prefer and focus on indicate preferences.
-4. Never convert preferences into exclusions.
-5. Exclusions must contain only categories explicitly rejected.
-6. Technical domains must contain technical subjects only.
-   Examples: Artificial Intelligence, Computer Vision,
-   Machine Learning, NLP and Robotics.
-7. Government institutes, universities and private companies
-   are organization or source categories, not technical domains.
-8. Include private organizations when the user requests them.
-9. Never invent openings, deadlines, stipends or application links.
-10. Generate targeted search queries.
-11. Return data matching the requested JSON schema.
-"""
+        profile = get_agent_profile("discovery_planner")
+        prompt = load_agent_prompt("discovery_planner")
+        system_prompt = f"{profile.system_instructions}\n\n{prompt['content']}"
 
         output = generate_structured_output(
             system_prompt=system_prompt,
             user_prompt=user_request,
-            output_schema=DiscoveryPlan.model_json_schema()
+            output_schema=DiscoveryPlan.model_json_schema(),
+            timeout_seconds=timeout_seconds or profile.timeout_seconds,
+            max_output_tokens=max_output_tokens or profile.max_output_tokens,
+            allowed_providers=allowed_providers or profile.allowed_providers,
         )
 
         plan = DiscoveryPlan.model_validate(output)

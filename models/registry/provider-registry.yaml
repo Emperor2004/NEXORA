@@ -1,0 +1,14 @@
+schema_version: 1
+providers:
+  ollama:
+    external_data_transfer: false
+    structured_json: true
+    timeout_unit: seconds
+    health_check: /health/ollama
+    credential_env: null
+  gemini:
+    external_data_transfer: true
+    structured_json: true
+    timeout_unit: milliseconds_at_sdk_boundary
+    credential_env: GEMINI_API_KEY
+    health_check: null

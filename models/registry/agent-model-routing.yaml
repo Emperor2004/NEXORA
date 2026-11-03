@@ -1,0 +1,17 @@
+schema_version: 1
+routing:
+  discovery_planner:
+    profile: local_planning_with_configured_fallback
+    allowed_providers: [ollama, gemini]
+    max_output_tokens: 2048
+    timeout_seconds: 90
+  opportunity_extractor:
+    profile: local_extraction_with_configured_fallback
+    allowed_providers: [ollama, gemini]
+    max_output_tokens: 4096
+    timeout_seconds: 120
+  workflow_supervisor:
+    profile: deterministic_orchestration
+    allowed_providers: []
+    max_output_tokens: null
+    timeout_seconds: 1800
